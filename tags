@@ -1,0 +1,1461 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+A	Data_Structure_Src/Ch14/ALGraph/ALGraph.h	/^enum {A, B, C, D, E, F, G, H, I, J};$/;"	e	enum:__anon2
+A	Data_Structure_Src/Ch14/ALGraphBFS/ALGraphBFS.h	/^enum {A, B, C, D, E, F, G, H, I, J};$/;"	e	enum:__anon1
+A	Data_Structure_Src/Ch14/ALGraphDFS/ALGraphDFS.h	/^enum {A, B, C, D, E, F, G, H, I, J};$/;"	e	enum:__anon4
+A	Data_Structure_Src/Ch14/ALGraphKruskal/ALGraphKruskal.h	/^enum {A, B, C, D, E, F, G, H, I, J};$/;"	e	enum:__anon5
+A	Data_Structure_Src/Ch14/Prob14-2/ALGraphDFS.h	/^enum {A, B, C, D, E, F, G, H, I, J};$/;"	e	enum:__anon3
+ALGraph	Data_Structure_Src/Ch14/ALGraph/ALGraph.h	/^} ALGraph;$/;"	t	typeref:struct:_ual
+ALGraph	Data_Structure_Src/Ch14/ALGraphBFS/ALGraphBFS.h	/^} ALGraph;$/;"	t	typeref:struct:_ual
+ALGraph	Data_Structure_Src/Ch14/ALGraphDFS/ALGraphDFS.h	/^} ALGraph;$/;"	t	typeref:struct:_ual
+ALGraph	Data_Structure_Src/Ch14/ALGraphKruskal/ALGraphKruskal.h	/^} ALGraph;$/;"	t	typeref:struct:_ual
+ALGraph	Data_Structure_Src/Ch14/Prob14-2/ALGraphDFS.h	/^} ALGraph;$/;"	t	typeref:struct:_ual
+AddEdge	Data_Structure_Src/Ch14/ALGraph/ALGraph.c	/^void AddEdge(ALGraph * pg, int fromV, int toV)$/;"	f
+AddEdge	Data_Structure_Src/Ch14/ALGraphBFS/ALGraphBFS.c	/^void AddEdge(ALGraph * pg, int fromV, int toV)$/;"	f
+AddEdge	Data_Structure_Src/Ch14/ALGraphDFS/ALGraphDFS.c	/^void AddEdge(ALGraph * pg, int fromV, int toV)$/;"	f
+AddEdge	Data_Structure_Src/Ch14/ALGraphKruskal/ALGraphKruskal.c	/^void AddEdge(ALGraph * pg, int fromV, int toV, int weight)$/;"	f
+AddEdge	Data_Structure_Src/Ch14/Prob14-2/ALGraphDFS.c	/^void AddEdge(ALGraph * pg, int fromV, int toV)$/;"	f
+ArrayList	Data_Structure_Src/Ch03/ArrayList/ArrayList.h	/^} ArrayList;$/;"	t	typeref:struct:__ArrayList
+ArrayList	Data_Structure_Src/Ch03/ArrayListPointStructBase/ArrayList.h	/^} ArrayList;$/;"	t	typeref:struct:__ArrayList
+ArrayList	Data_Structure_Src/Ch03/Prob03-1/ArrayList.h	/^} ArrayList;$/;"	t	typeref:struct:__ArrayList
+ArrayList	Data_Structure_Src/Ch03/Prob03-2/ArrayList.h	/^} ArrayList;$/;"	t	typeref:struct:__ArrayList
+ArrayStack	Data_Structure_Src/Ch06/ArrayBaseStack/ArrayBaseStack.h	/^} ArrayStack;$/;"	t	typeref:struct:_arrayStack
+ArrayStack	Data_Structure_Src/Ch14/ALGraphDFS/ArrayBaseStack.h	/^} ArrayStack;$/;"	t	typeref:struct:_arrayStack
+ArrayStack	Data_Structure_Src/Ch14/ALGraphKruskal/ArrayBaseStack.h	/^} ArrayStack;$/;"	t	typeref:struct:_arrayStack
+ArrayStack	Data_Structure_Src/Ch14/Prob14-2/ArrayBaseStack.h	/^} ArrayStack;$/;"	t	typeref:struct:_arrayStack
+B	Data_Structure_Src/Ch14/ALGraph/ALGraph.h	/^enum {A, B, C, D, E, F, G, H, I, J};$/;"	e	enum:__anon2
+B	Data_Structure_Src/Ch14/ALGraphBFS/ALGraphBFS.h	/^enum {A, B, C, D, E, F, G, H, I, J};$/;"	e	enum:__anon1
+B	Data_Structure_Src/Ch14/ALGraphDFS/ALGraphDFS.h	/^enum {A, B, C, D, E, F, G, H, I, J};$/;"	e	enum:__anon4
+B	Data_Structure_Src/Ch14/ALGraphKruskal/ALGraphKruskal.h	/^enum {A, B, C, D, E, F, G, H, I, J};$/;"	e	enum:__anon5
+B	Data_Structure_Src/Ch14/Prob14-2/ALGraphDFS.h	/^enum {A, B, C, D, E, F, G, H, I, J};$/;"	e	enum:__anon3
+BFShowGraphVertex	Data_Structure_Src/Ch14/ALGraphBFS/ALGraphBFS.c	/^void BFShowGraphVertex(ALGraph * pg, int startV)$/;"	f
+BSTData	Data_Structure_Src/Ch11/BinarySearchTree/BinarySearchTree.h	/^typedef BTData	BSTData;$/;"	t
+BSTData	Data_Structure_Src/Ch11/BinarySearchTreeDelAdded/BinarySearchTree2.h	/^typedef BTData	BSTData;$/;"	t
+BSTData	Data_Structure_Src/Ch12/AVLTree/BinarySearchTree3.h	/^typedef BTData	BSTData;$/;"	t
+BSTGetNodeData	Data_Structure_Src/Ch11/BinarySearchTree/BinarySearchTree.c	/^BSTData BSTGetNodeData(BTreeNode * bst)$/;"	f
+BSTGetNodeData	Data_Structure_Src/Ch11/BinarySearchTreeDelAdded/BinarySearchTree2.c	/^BSTData BSTGetNodeData(BTreeNode * bst)$/;"	f
+BSTGetNodeData	Data_Structure_Src/Ch12/AVLTree/BinarySearchTree3.c	/^BSTData BSTGetNodeData(BTreeNode * bst)$/;"	f
+BSTInsert	Data_Structure_Src/Ch11/BinarySearchTree/BinarySearchTree.c	/^void BSTInsert(BTreeNode ** pRoot, BSTData data)$/;"	f
+BSTInsert	Data_Structure_Src/Ch11/BinarySearchTreeDelAdded/BinarySearchTree2.c	/^void BSTInsert(BTreeNode ** pRoot, BSTData data)$/;"	f
+BSTInsert	Data_Structure_Src/Ch12/AVLTree/BinarySearchTree3.c	/^void BSTInsert(BTreeNode ** pRoot, BSTData data)$/;"	f
+BSTMakeAndInit	Data_Structure_Src/Ch11/BinarySearchTree/BinarySearchTree.c	/^void BSTMakeAndInit(BTreeNode ** pRoot)$/;"	f
+BSTMakeAndInit	Data_Structure_Src/Ch11/BinarySearchTreeDelAdded/BinarySearchTree2.c	/^void BSTMakeAndInit(BTreeNode ** pRoot)$/;"	f
+BSTMakeAndInit	Data_Structure_Src/Ch12/AVLTree/BinarySearchTree3.c	/^void BSTMakeAndInit(BTreeNode ** pRoot)$/;"	f
+BSTRemove	Data_Structure_Src/Ch11/BinarySearchTreeDelAdded/BinarySearchTree2.c	/^BTreeNode * BSTRemove(BTreeNode ** pRoot, BSTData target)$/;"	f
+BSTRemove	Data_Structure_Src/Ch12/AVLTree/BinarySearchTree3.c	/^BTreeNode * BSTRemove(BTreeNode ** pRoot, BSTData target)$/;"	f
+BSTSearch	Data_Structure_Src/Ch11/BinarySearchTree/BinarySearchTree.c	/^BTreeNode * BSTSearch(BTreeNode * bst, BSTData target)$/;"	f
+BSTSearch	Data_Structure_Src/Ch11/BinarySearchTreeDelAdded/BinarySearchTree2.c	/^BTreeNode * BSTSearch(BTreeNode * bst, BSTData target)$/;"	f
+BSTSearch	Data_Structure_Src/Ch12/AVLTree/BinarySearchTree3.c	/^BTreeNode * BSTSearch(BTreeNode * bst, BSTData target)$/;"	f
+BSTShowAll	Data_Structure_Src/Ch11/BinarySearchTreeDelAdded/BinarySearchTree2.c	/^void BSTShowAll(BTreeNode * bst)$/;"	f
+BSTShowAll	Data_Structure_Src/Ch12/AVLTree/BinarySearchTree3.c	/^void BSTShowAll(BTreeNode * bst)$/;"	f
+BSearch	Data_Structure_Src/Ch01/BSWorstOpCount.c	/^int BSearch(int ar[], int len, int target)$/;"	f
+BSearch	Data_Structure_Src/Ch01/BinarySearch.c	/^int BSearch(int ar[], int len, int target)$/;"	f
+BSearchRecur	Data_Structure_Src/Ch02/RecursiveBinarySearch.c	/^int BSearchRecur(int ar[], int first, int last, int target)$/;"	f
+BTData	Data_Structure_Src/Ch08/BinaryTree/BinaryTree.h	/^typedef int BTData;$/;"	t
+BTData	Data_Structure_Src/Ch08/BinaryTreeTraversalAdded/BinaryTree2.h	/^typedef int BTData;$/;"	t
+BTData	Data_Structure_Src/Ch08/ExpressionTree/BinaryTree2.h	/^typedef int BTData;$/;"	t
+BTData	Data_Structure_Src/Ch08/Prob08-1/BinaryTree2.h	/^typedef int BTData;$/;"	t
+BTData	Data_Structure_Src/Ch08/Prob08-2/BinaryTree2.h	/^typedef int BTData;$/;"	t
+BTData	Data_Structure_Src/Ch11/BinarySearchTree/BinaryTree2.h	/^typedef int BTData;$/;"	t
+BTData	Data_Structure_Src/Ch11/BinarySearchTreeDelAdded/BinaryTree3.h	/^typedef int BTData;$/;"	t
+BTData	Data_Structure_Src/Ch12/AVLTree/BinaryTree3.h	/^typedef int BTData;$/;"	t
+BTreeNode	Data_Structure_Src/Ch08/BinaryTree/BinaryTree.h	/^} BTreeNode;$/;"	t	typeref:struct:_bTreeNode
+BTreeNode	Data_Structure_Src/Ch08/BinaryTreeTraversalAdded/BinaryTree2.h	/^} BTreeNode;$/;"	t	typeref:struct:_bTreeNode
+BTreeNode	Data_Structure_Src/Ch08/ExpressionTree/BinaryTree2.h	/^} BTreeNode;$/;"	t	typeref:struct:_bTreeNode
+BTreeNode	Data_Structure_Src/Ch08/Prob08-1/BinaryTree2.h	/^} BTreeNode;$/;"	t	typeref:struct:_bTreeNode
+BTreeNode	Data_Structure_Src/Ch08/Prob08-2/BinaryTree2.h	/^} BTreeNode;$/;"	t	typeref:struct:_bTreeNode
+BTreeNode	Data_Structure_Src/Ch11/BinarySearchTree/BinaryTree2.h	/^} BTreeNode;$/;"	t	typeref:struct:_bTreeNode
+BTreeNode	Data_Structure_Src/Ch11/BinarySearchTreeDelAdded/BinaryTree3.h	/^} BTreeNode;$/;"	t	typeref:struct:_bTreeNode
+BTreeNode	Data_Structure_Src/Ch12/AVLTree/BinaryTree3.h	/^} BTreeNode;$/;"	t	typeref:struct:_bTreeNode
+BUCKET_NUM	Data_Structure_Src/Ch10/RadixSort/RadixSort.c	/^#define BUCKET_NUM	/;"	d	file:
+BUL_BUR	Data_Structure_Src/Ch07/HamburgerSim/HamburgerSim.c	/^#define BUL_BUR	/;"	d	file:
+BUL_TERM	Data_Structure_Src/Ch07/HamburgerSim/HamburgerSim.c	/^#define BUL_TERM	/;"	d	file:
+BubbleSort	Data_Structure_Src/Ch10/BubbleSort.c	/^void BubbleSort(int arr[], int n)$/;"	f
+C	Data_Structure_Src/Ch14/ALGraph/ALGraph.h	/^enum {A, B, C, D, E, F, G, H, I, J};$/;"	e	enum:__anon2
+C	Data_Structure_Src/Ch14/ALGraphBFS/ALGraphBFS.h	/^enum {A, B, C, D, E, F, G, H, I, J};$/;"	e	enum:__anon1
+C	Data_Structure_Src/Ch14/ALGraphDFS/ALGraphDFS.h	/^enum {A, B, C, D, E, F, G, H, I, J};$/;"	e	enum:__anon4
+C	Data_Structure_Src/Ch14/ALGraphKruskal/ALGraphKruskal.h	/^enum {A, B, C, D, E, F, G, H, I, J};$/;"	e	enum:__anon5
+C	Data_Structure_Src/Ch14/Prob14-2/ALGraphDFS.h	/^enum {A, B, C, D, E, F, G, H, I, J};$/;"	e	enum:__anon3
+CHE_BUR	Data_Structure_Src/Ch07/HamburgerSim/HamburgerSim.c	/^#define CHE_BUR	/;"	d	file:
+CHE_TERM	Data_Structure_Src/Ch07/HamburgerSim/HamburgerSim.c	/^#define CHE_TERM	/;"	d	file:
+CList	Data_Structure_Src/Ch05/CircularLinkedList/CLinkedList.h	/^} CList;$/;"	t	typeref:struct:_CLL
+CList	Data_Structure_Src/Ch05/Prob05-1/CLinkedList.h	/^} CList;$/;"	t	typeref:struct:_CLL
+CList	Data_Structure_Src/Ch06/Prob06-1/CLinkedList.h	/^} CList;$/;"	t	typeref:struct:_CLL
+CQueue	Data_Structure_Src/Ch07/CircularQueue/CircularQueue.h	/^} CQueue;$/;"	t	typeref:struct:_cQueue
+CQueue	Data_Structure_Src/Ch07/HamburgerSim/CircularQueue.h	/^} CQueue;$/;"	t	typeref:struct:_cQueue
+CQueue	Data_Structure_Src/Ch14/ALGraphBFS/CircularQueue.h	/^} CQueue;$/;"	t	typeref:struct:_cQueue
+CUS_COME_TERM	Data_Structure_Src/Ch07/HamburgerSim/HamburgerSim.c	/^#define	CUS_COME_TERM	/;"	d	file:
+ChangeLeftSubTree	Data_Structure_Src/Ch11/BinarySearchTreeDelAdded/BinaryTree3.c	/^void ChangeLeftSubTree(BTreeNode * main, BTreeNode * sub) $/;"	f
+ChangeLeftSubTree	Data_Structure_Src/Ch12/AVLTree/BinaryTree3.c	/^void ChangeLeftSubTree(BTreeNode * main, BTreeNode * sub) $/;"	f
+ChangePhoneNum	Data_Structure_Src/Ch03/Prob03-2/NameCard.c	/^void ChangePhoneNum(NameCard * pcard, char * phone)$/;"	f
+ChangeRightSubTree	Data_Structure_Src/Ch11/BinarySearchTreeDelAdded/BinaryTree3.c	/^void ChangeRightSubTree(BTreeNode * main, BTreeNode * sub)$/;"	f
+ChangeRightSubTree	Data_Structure_Src/Ch12/AVLTree/BinaryTree3.c	/^void ChangeRightSubTree(BTreeNode * main, BTreeNode * sub)$/;"	f
+ConKruskalMST	Data_Structure_Src/Ch14/ALGraphKruskal/ALGraphKruskal.c	/^void ConKruskalMST(ALGraph * pg)$/;"	f
+ConvToRPNExp	Data_Structure_Src/Ch06/InfixCalculator/InfixToPostfix.c	/^void ConvToRPNExp(char exp[])$/;"	f
+ConvToRPNExp	Data_Structure_Src/Ch06/InfixToPostfix/InfixToPostfix.c	/^void ConvToRPNExp(char exp[])$/;"	f
+D	Data_Structure_Src/Ch14/ALGraph/ALGraph.h	/^enum {A, B, C, D, E, F, G, H, I, J};$/;"	e	enum:__anon2
+D	Data_Structure_Src/Ch14/ALGraphBFS/ALGraphBFS.h	/^enum {A, B, C, D, E, F, G, H, I, J};$/;"	e	enum:__anon1
+D	Data_Structure_Src/Ch14/ALGraphDFS/ALGraphDFS.h	/^enum {A, B, C, D, E, F, G, H, I, J};$/;"	e	enum:__anon4
+D	Data_Structure_Src/Ch14/ALGraphKruskal/ALGraphKruskal.h	/^enum {A, B, C, D, E, F, G, H, I, J};$/;"	e	enum:__anon5
+D	Data_Structure_Src/Ch14/Prob14-2/ALGraphDFS.h	/^enum {A, B, C, D, E, F, G, H, I, J};$/;"	e	enum:__anon3
+DBDLinkedList	Data_Structure_Src/Ch05/Prob05-2/DBDLinkedList.h	/^} DBDLinkedList;$/;"	t	typeref:struct:_dbDLinkedList
+DBLinkedList	Data_Structure_Src/Ch05/DublyLinkedList/DBLinkedList.h	/^} DBLinkedList;$/;"	t	typeref:struct:_dbLinkedList
+DELETED	Data_Structure_Src/Ch13/SimpleHashTable/Slot.h	/^enum SlotStatus {EMPTY, DELETED, INUSE};$/;"	e	enum:SlotStatus
+DFShowGraphVertex	Data_Structure_Src/Ch14/ALGraphDFS/ALGraphDFS.c	/^void DFShowGraphVertex(ALGraph * pg, int startV)$/;"	f
+DFShowGraphVertex	Data_Structure_Src/Ch14/ALGraphKruskal/ALGraphKruskal.c	/^void DFShowGraphVertex(ALGraph * pg, int startV)$/;"	f
+DFShowGraphVertex	Data_Structure_Src/Ch14/Prob14-2/ALGraphDFS.c	/^void DFShowGraphVertex(ALGraph * pg, int startV)$/;"	f
+DLDeque	Data_Structure_Src/Ch07/Deque/Deque.h	/^} DLDeque;$/;"	t	typeref:struct:_dlDeque
+DLDeque	Data_Structure_Src/Ch07/Prob07-1/Deque.h	/^} DLDeque;$/;"	t	typeref:struct:_dlDeque
+DQAddFirst	Data_Structure_Src/Ch07/Deque/Deque.c	/^void DQAddFirst(Deque * pdeq, Data data)$/;"	f
+DQAddFirst	Data_Structure_Src/Ch07/Prob07-1/Deque.c	/^void DQAddFirst(Deque * pdeq, Data data)$/;"	f
+DQAddLast	Data_Structure_Src/Ch07/Deque/Deque.c	/^void DQAddLast(Deque * pdeq, Data data)$/;"	f
+DQAddLast	Data_Structure_Src/Ch07/Prob07-1/Deque.c	/^void DQAddLast(Deque * pdeq, Data data)$/;"	f
+DQGetFirst	Data_Structure_Src/Ch07/Deque/Deque.c	/^Data DQGetFirst(Deque * pdeq)$/;"	f
+DQGetFirst	Data_Structure_Src/Ch07/Prob07-1/Deque.c	/^Data DQGetFirst(Deque * pdeq)$/;"	f
+DQGetLast	Data_Structure_Src/Ch07/Deque/Deque.c	/^Data DQGetLast(Deque * pdeq)$/;"	f
+DQGetLast	Data_Structure_Src/Ch07/Prob07-1/Deque.c	/^Data DQGetLast(Deque * pdeq)$/;"	f
+DQIsEmpty	Data_Structure_Src/Ch07/Deque/Deque.c	/^int DQIsEmpty(Deque * pdeq)$/;"	f
+DQIsEmpty	Data_Structure_Src/Ch07/Prob07-1/Deque.c	/^int DQIsEmpty(Deque * pdeq)$/;"	f
+DQRemoveFirst	Data_Structure_Src/Ch07/Deque/Deque.c	/^Data DQRemoveFirst(Deque * pdeq)$/;"	f
+DQRemoveFirst	Data_Structure_Src/Ch07/Prob07-1/Deque.c	/^Data DQRemoveFirst(Deque * pdeq)$/;"	f
+DQRemoveLast	Data_Structure_Src/Ch07/Deque/Deque.c	/^Data DQRemoveLast(Deque * pdeq)$/;"	f
+DQRemoveLast	Data_Structure_Src/Ch07/Prob07-1/Deque.c	/^Data DQRemoveLast(Deque * pdeq)$/;"	f
+DUB_BUR	Data_Structure_Src/Ch07/HamburgerSim/HamburgerSim.c	/^#define DUB_BUR	/;"	d	file:
+DUB_TERM	Data_Structure_Src/Ch07/HamburgerSim/HamburgerSim.c	/^#define DUB_TERM	/;"	d	file:
+Data	Data_Structure_Src/Ch05/CircularLinkedList/CLinkedList.h	/^typedef int Data;$/;"	t
+Data	Data_Structure_Src/Ch05/DublyLinkedList/DBLinkedList.h	/^typedef int Data;$/;"	t
+Data	Data_Structure_Src/Ch05/Prob05-1/CLinkedList.h	/^typedef Employee * Data;$/;"	t
+Data	Data_Structure_Src/Ch05/Prob05-2/DBDLinkedList.h	/^typedef int Data;$/;"	t
+Data	Data_Structure_Src/Ch06/ArrayBaseStack/ArrayBaseStack.h	/^typedef int Data;$/;"	t
+Data	Data_Structure_Src/Ch06/InfixCalculator/ListBaseStack.h	/^typedef int Data;$/;"	t
+Data	Data_Structure_Src/Ch06/InfixToPostfix/ListBaseStack.h	/^typedef int Data;$/;"	t
+Data	Data_Structure_Src/Ch06/ListBaseStack/ListBaseStack.h	/^typedef int Data;$/;"	t
+Data	Data_Structure_Src/Ch06/PostCalculator/ListBaseStack.h	/^typedef int Data;$/;"	t
+Data	Data_Structure_Src/Ch06/Prob06-1/CLLBaseStack.h	/^typedef int Data;$/;"	t
+Data	Data_Structure_Src/Ch06/Prob06-1/CLinkedList.h	/^typedef int Data;$/;"	t
+Data	Data_Structure_Src/Ch07/CircularQueue/CircularQueue.h	/^typedef int Data;$/;"	t
+Data	Data_Structure_Src/Ch07/Deque/Deque.h	/^typedef int Data;$/;"	t
+Data	Data_Structure_Src/Ch07/HamburgerSim/CircularQueue.h	/^typedef int Data;$/;"	t
+Data	Data_Structure_Src/Ch07/ListBaseQueue/ListBaseQueue.h	/^typedef int Data;$/;"	t
+Data	Data_Structure_Src/Ch07/Prob07-1/Deque.h	/^typedef int Data;$/;"	t
+Data	Data_Structure_Src/Ch08/ExpressionTree/ListBaseStack.h	/^typedef BTreeNode * Data;$/;"	t
+Data	Data_Structure_Src/Ch08/Prob08-2/ListBaseStack.h	/^typedef BTreeNode * Data;$/;"	t
+Data	Data_Structure_Src/Ch10/RadixSort/ListBaseQueue.h	/^typedef int Data;$/;"	t
+Data	Data_Structure_Src/Ch14/ALGraphBFS/CircularQueue.h	/^typedef int Data;$/;"	t
+Data	Data_Structure_Src/Ch14/ALGraphDFS/ArrayBaseStack.h	/^typedef int Data;$/;"	t
+Data	Data_Structure_Src/Ch14/ALGraphKruskal/ArrayBaseStack.h	/^typedef int Data;$/;"	t
+Data	Data_Structure_Src/Ch14/Prob14-2/ArrayBaseStack.h	/^typedef int Data;$/;"	t
+DataPriorityComp	Data_Structure_Src/Ch09/PriorityQueue/PriorityQueueMain.c	/^int DataPriorityComp(char ch1, char ch2)$/;"	f
+DataPriorityComp	Data_Structure_Src/Ch09/Prob09-1/PQStringMain.c	/^int DataPriorityComp(char * str1, char * str2)$/;"	f
+DataPriorityComp	Data_Structure_Src/Ch09/UsefulHeap/UsefulHeapMain.c	/^int DataPriorityComp(char ch1, char ch2)$/;"	f
+DeleteTree	Data_Structure_Src/Ch08/Prob08-1/BinaryTree2.c	/^void DeleteTree(BTreeNode * bt)$/;"	f
+Deque	Data_Structure_Src/Ch07/Deque/Deque.h	/^typedef DLDeque Deque;$/;"	t
+Deque	Data_Structure_Src/Ch07/Prob07-1/Deque.h	/^typedef DLDeque Deque;$/;"	t
+DequeInit	Data_Structure_Src/Ch07/Deque/Deque.c	/^void DequeInit(Deque * pdeq)$/;"	f
+DequeInit	Data_Structure_Src/Ch07/Prob07-1/Deque.c	/^void DequeInit(Deque * pdeq)$/;"	f
+Dequeue	Data_Structure_Src/Ch07/CircularQueue/CircularQueue.c	/^Data Dequeue(Queue * pq)$/;"	f
+Dequeue	Data_Structure_Src/Ch07/HamburgerSim/CircularQueue.c	/^Data Dequeue(Queue * pq)$/;"	f
+Dequeue	Data_Structure_Src/Ch07/ListBaseQueue/ListBaseQueue.c	/^Data Dequeue(Queue * pq)$/;"	f
+Dequeue	Data_Structure_Src/Ch07/Prob07-1/DequeBaseQueue.c	/^Data Dequeue(Queue * pq)$/;"	f
+Dequeue	Data_Structure_Src/Ch10/RadixSort/ListBaseQueue.c	/^Data Dequeue(Queue * pq)$/;"	f
+Dequeue	Data_Structure_Src/Ch14/ALGraphBFS/CircularQueue.c	/^Data Dequeue(Queue * pq)$/;"	f
+E	Data_Structure_Src/Ch14/ALGraph/ALGraph.h	/^enum {A, B, C, D, E, F, G, H, I, J};$/;"	e	enum:__anon2
+E	Data_Structure_Src/Ch14/ALGraphBFS/ALGraphBFS.h	/^enum {A, B, C, D, E, F, G, H, I, J};$/;"	e	enum:__anon1
+E	Data_Structure_Src/Ch14/ALGraphDFS/ALGraphDFS.h	/^enum {A, B, C, D, E, F, G, H, I, J};$/;"	e	enum:__anon4
+E	Data_Structure_Src/Ch14/ALGraphKruskal/ALGraphKruskal.h	/^enum {A, B, C, D, E, F, G, H, I, J};$/;"	e	enum:__anon5
+E	Data_Structure_Src/Ch14/Prob14-2/ALGraphDFS.h	/^enum {A, B, C, D, E, F, G, H, I, J};$/;"	e	enum:__anon3
+EMPTY	Data_Structure_Src/Ch13/SimpleHashTable/Slot.h	/^enum SlotStatus {EMPTY, DELETED, INUSE};$/;"	e	enum:SlotStatus
+Edge	Data_Structure_Src/Ch14/ALGraphKruskal/ALEdge.h	/^} Edge;$/;"	t	typeref:struct:_edge
+EmpInfo	Data_Structure_Src/Ch13/TableHashFunction.c	/^}EmpInfo;$/;"	t	typeref:struct:_empInfo	file:
+EmpInfo	Data_Structure_Src/Ch13/UnderstandTable.c	/^}EmpInfo;$/;"	t	typeref:struct:_empInfo	file:
+Employee	Data_Structure_Src/Ch05/Prob05-1/Employee.h	/^} Employee;$/;"	t	typeref:struct:_Employee
+Enqueue	Data_Structure_Src/Ch07/CircularQueue/CircularQueue.c	/^void Enqueue(Queue * pq, Data data)$/;"	f
+Enqueue	Data_Structure_Src/Ch07/HamburgerSim/CircularQueue.c	/^void Enqueue(Queue * pq, Data data)$/;"	f
+Enqueue	Data_Structure_Src/Ch07/ListBaseQueue/ListBaseQueue.c	/^void Enqueue(Queue * pq, Data data)$/;"	f
+Enqueue	Data_Structure_Src/Ch07/Prob07-1/DequeBaseQueue.c	/^void Enqueue(Queue * pq, Data data)$/;"	f
+Enqueue	Data_Structure_Src/Ch10/RadixSort/ListBaseQueue.c	/^void Enqueue(Queue * pq, Data data)$/;"	f
+Enqueue	Data_Structure_Src/Ch14/ALGraphBFS/CircularQueue.c	/^void Enqueue(Queue * pq, Data data)$/;"	f
+EvalInfixExp	Data_Structure_Src/Ch06/InfixCalculator/InfixCalculator.c	/^int EvalInfixExp(char exp[])$/;"	f
+EvalRPNExp	Data_Structure_Src/Ch06/InfixCalculator/PostCalculator.c	/^int EvalRPNExp(char exp[])$/;"	f
+EvalRPNExp	Data_Structure_Src/Ch06/PostCalculator/PostCalculator.c	/^int EvalRPNExp(char exp[])$/;"	f
+EvaluateExpTree	Data_Structure_Src/Ch08/ExpressionTree/ExpressionTree.c	/^int EvaluateExpTree(BTreeNode * bt)$/;"	f
+EvaluateExpTree	Data_Structure_Src/Ch08/Prob08-2/ExpressionTree.c	/^int EvaluateExpTree(BTreeNode * bt)$/;"	f
+F	Data_Structure_Src/Ch14/ALGraph/ALGraph.h	/^enum {A, B, C, D, E, F, G, H, I, J};$/;"	e	enum:__anon2
+F	Data_Structure_Src/Ch14/ALGraphBFS/ALGraphBFS.h	/^enum {A, B, C, D, E, F, G, H, I, J};$/;"	e	enum:__anon1
+F	Data_Structure_Src/Ch14/ALGraphDFS/ALGraphDFS.h	/^enum {A, B, C, D, E, F, G, H, I, J};$/;"	e	enum:__anon4
+F	Data_Structure_Src/Ch14/ALGraphKruskal/ALGraphKruskal.h	/^enum {A, B, C, D, E, F, G, H, I, J};$/;"	e	enum:__anon5
+F	Data_Structure_Src/Ch14/Prob14-2/ALGraphDFS.h	/^enum {A, B, C, D, E, F, G, H, I, J};$/;"	e	enum:__anon3
+FALSE	Data_Structure_Src/Ch03/ArrayList/ArrayList.h	/^#define FALSE	/;"	d
+FALSE	Data_Structure_Src/Ch03/ArrayListPointStructBase/ArrayList.h	/^#define FALSE	/;"	d
+FALSE	Data_Structure_Src/Ch03/Prob03-1/ArrayList.h	/^#define FALSE	/;"	d
+FALSE	Data_Structure_Src/Ch03/Prob03-2/ArrayList.h	/^#define FALSE	/;"	d
+FALSE	Data_Structure_Src/Ch04/DLinkedList/DLinkedList.h	/^#define FALSE	/;"	d
+FALSE	Data_Structure_Src/Ch04/DLinkedListSort/DLinkedList.h	/^#define FALSE	/;"	d
+FALSE	Data_Structure_Src/Ch04/Prob04-3/DLinkedList.h	/^#define FALSE	/;"	d
+FALSE	Data_Structure_Src/Ch04/Prob04-4/DLinkedList.h	/^#define FALSE	/;"	d
+FALSE	Data_Structure_Src/Ch05/CircularLinkedList/CLinkedList.h	/^#define FALSE	/;"	d
+FALSE	Data_Structure_Src/Ch05/DublyLinkedList/DBLinkedList.h	/^#define FALSE	/;"	d
+FALSE	Data_Structure_Src/Ch05/Prob05-1/CLinkedList.h	/^#define FALSE	/;"	d
+FALSE	Data_Structure_Src/Ch05/Prob05-2/DBDLinkedList.h	/^#define FALSE	/;"	d
+FALSE	Data_Structure_Src/Ch06/ArrayBaseStack/ArrayBaseStack.h	/^#define FALSE	/;"	d
+FALSE	Data_Structure_Src/Ch06/InfixCalculator/ListBaseStack.h	/^#define FALSE	/;"	d
+FALSE	Data_Structure_Src/Ch06/InfixToPostfix/ListBaseStack.h	/^#define FALSE	/;"	d
+FALSE	Data_Structure_Src/Ch06/ListBaseStack/ListBaseStack.h	/^#define FALSE	/;"	d
+FALSE	Data_Structure_Src/Ch06/PostCalculator/ListBaseStack.h	/^#define FALSE	/;"	d
+FALSE	Data_Structure_Src/Ch06/Prob06-1/CLLBaseStack.h	/^#define FALSE	/;"	d
+FALSE	Data_Structure_Src/Ch06/Prob06-1/CLinkedList.h	/^#define FALSE	/;"	d
+FALSE	Data_Structure_Src/Ch07/CircularQueue/CircularQueue.h	/^#define FALSE	/;"	d
+FALSE	Data_Structure_Src/Ch07/Deque/Deque.h	/^#define FALSE	/;"	d
+FALSE	Data_Structure_Src/Ch07/HamburgerSim/CircularQueue.h	/^#define FALSE	/;"	d
+FALSE	Data_Structure_Src/Ch07/ListBaseQueue/ListBaseQueue.h	/^#define FALSE	/;"	d
+FALSE	Data_Structure_Src/Ch07/Prob07-1/Deque.h	/^#define FALSE	/;"	d
+FALSE	Data_Structure_Src/Ch08/ExpressionTree/ListBaseStack.h	/^#define FALSE	/;"	d
+FALSE	Data_Structure_Src/Ch08/Prob08-2/ListBaseStack.h	/^#define FALSE	/;"	d
+FALSE	Data_Structure_Src/Ch09/PriorityQueue/UsefulHeap.h	/^#define FALSE	/;"	d
+FALSE	Data_Structure_Src/Ch09/Prob09-1/UsefulHeap.h	/^#define FALSE	/;"	d
+FALSE	Data_Structure_Src/Ch09/SimpleHeap/SimpleHeap.h	/^#define FALSE	/;"	d
+FALSE	Data_Structure_Src/Ch09/UsefulHeap/UsefulHeap.h	/^#define FALSE	/;"	d
+FALSE	Data_Structure_Src/Ch10/HeapSort/UsefulHeap.h	/^#define FALSE	/;"	d
+FALSE	Data_Structure_Src/Ch10/RadixSort/ListBaseQueue.h	/^#define FALSE	/;"	d
+FALSE	Data_Structure_Src/Ch13/ChainedHashTable/DLinkedList.h	/^#define FALSE	/;"	d
+FALSE	Data_Structure_Src/Ch14/ALGraph/DLinkedList.h	/^#define FALSE	/;"	d
+FALSE	Data_Structure_Src/Ch14/ALGraphBFS/CircularQueue.h	/^#define FALSE	/;"	d
+FALSE	Data_Structure_Src/Ch14/ALGraphBFS/DLinkedList.h	/^#define FALSE	/;"	d
+FALSE	Data_Structure_Src/Ch14/ALGraphDFS/ArrayBaseStack.h	/^#define FALSE	/;"	d
+FALSE	Data_Structure_Src/Ch14/ALGraphDFS/DLinkedList.h	/^#define FALSE	/;"	d
+FALSE	Data_Structure_Src/Ch14/ALGraphKruskal/ArrayBaseStack.h	/^#define FALSE	/;"	d
+FALSE	Data_Structure_Src/Ch14/ALGraphKruskal/DLinkedList.h	/^#define FALSE	/;"	d
+FALSE	Data_Structure_Src/Ch14/ALGraphKruskal/UsefulHeap.h	/^#define FALSE	/;"	d
+FALSE	Data_Structure_Src/Ch14/Prob14-2/ArrayBaseStack.h	/^#define FALSE	/;"	d
+FALSE	Data_Structure_Src/Ch14/Prob14-2/DLinkedList.h	/^#define FALSE	/;"	d
+FInsert	Data_Structure_Src/Ch04/DLinkedList/DLinkedList.c	/^void FInsert(List * plist, LData data)$/;"	f
+FInsert	Data_Structure_Src/Ch04/DLinkedListSort/DLinkedList.c	/^void FInsert(List * plist, LData data)$/;"	f
+FInsert	Data_Structure_Src/Ch04/Prob04-3/DLinkedList.c	/^void FInsert(List * plist, LData data)$/;"	f
+FInsert	Data_Structure_Src/Ch04/Prob04-4/DLinkedList.c	/^void FInsert(List * plist, LData data)$/;"	f
+FInsert	Data_Structure_Src/Ch13/ChainedHashTable/DLinkedList.c	/^void FInsert(List * plist, LData data)$/;"	f
+FInsert	Data_Structure_Src/Ch14/ALGraph/DLinkedList.c	/^void FInsert(List * plist, LData data)$/;"	f
+FInsert	Data_Structure_Src/Ch14/ALGraphBFS/DLinkedList.c	/^void FInsert(List * plist, LData data)$/;"	f
+FInsert	Data_Structure_Src/Ch14/ALGraphDFS/DLinkedList.c	/^void FInsert(List * plist, LData data)$/;"	f
+FInsert	Data_Structure_Src/Ch14/ALGraphKruskal/DLinkedList.c	/^void FInsert(List * plist, LData data)$/;"	f
+FInsert	Data_Structure_Src/Ch14/Prob14-2/DLinkedList.c	/^void FInsert(List * plist, LData data)$/;"	f
+Factorial	Data_Structure_Src/Ch02/RecursiveFactorial.c	/^int Factorial(int n)$/;"	f
+Fibo	Data_Structure_Src/Ch02/FiboFuncProcedure .c	/^int Fibo(int n)$/;"	f
+Fibo	Data_Structure_Src/Ch02/FibonacciFunc.c	/^int Fibo(int n)$/;"	f
+G	Data_Structure_Src/Ch14/ALGraph/ALGraph.h	/^enum {A, B, C, D, E, F, G, H, I, J};$/;"	e	enum:__anon2
+G	Data_Structure_Src/Ch14/ALGraphBFS/ALGraphBFS.h	/^enum {A, B, C, D, E, F, G, H, I, J};$/;"	e	enum:__anon1
+G	Data_Structure_Src/Ch14/ALGraphDFS/ALGraphDFS.h	/^enum {A, B, C, D, E, F, G, H, I, J};$/;"	e	enum:__anon4
+G	Data_Structure_Src/Ch14/ALGraphKruskal/ALGraphKruskal.h	/^enum {A, B, C, D, E, F, G, H, I, J};$/;"	e	enum:__anon5
+G	Data_Structure_Src/Ch14/Prob14-2/ALGraphDFS.h	/^enum {A, B, C, D, E, F, G, H, I, J};$/;"	e	enum:__anon3
+GetData	Data_Structure_Src/Ch08/BinaryTree/BinaryTree.c	/^BTData GetData(BTreeNode * bt)$/;"	f
+GetData	Data_Structure_Src/Ch08/BinaryTreeTraversalAdded/BinaryTree2.c	/^BTData GetData(BTreeNode * bt)$/;"	f
+GetData	Data_Structure_Src/Ch08/ExpressionTree/BinaryTree2.c	/^BTData GetData(BTreeNode * bt)$/;"	f
+GetData	Data_Structure_Src/Ch08/Prob08-1/BinaryTree2.c	/^BTData GetData(BTreeNode * bt)$/;"	f
+GetData	Data_Structure_Src/Ch08/Prob08-2/BinaryTree2.c	/^BTData GetData(BTreeNode * bt)$/;"	f
+GetData	Data_Structure_Src/Ch11/BinarySearchTree/BinaryTree2.c	/^BTData GetData(BTreeNode * bt)$/;"	f
+GetData	Data_Structure_Src/Ch11/BinarySearchTreeDelAdded/BinaryTree3.c	/^BTData GetData(BTreeNode * bt)$/;"	f
+GetData	Data_Structure_Src/Ch12/AVLTree/BinaryTree3.c	/^BTData GetData(BTreeNode * bt)$/;"	f
+GetHashValue	Data_Structure_Src/Ch13/TableHashFunction.c	/^int GetHashValue(int empNum)$/;"	f
+GetHeight	Data_Structure_Src/Ch12/AVLTree/AVLRebalance.c	/^int GetHeight(BTreeNode * bst) $/;"	f
+GetHeightDiff	Data_Structure_Src/Ch12/AVLTree/AVLRebalance.c	/^int GetHeightDiff(BTreeNode * bst)$/;"	f
+GetHiPriChildIDX	Data_Structure_Src/Ch09/PriorityQueue/UsefulHeap.c	/^int GetHiPriChildIDX(Heap * ph, int idx)$/;"	f
+GetHiPriChildIDX	Data_Structure_Src/Ch09/Prob09-1/UsefulHeap.c	/^int GetHiPriChildIDX(Heap * ph, int idx)$/;"	f
+GetHiPriChildIDX	Data_Structure_Src/Ch09/SimpleHeap/SimpleHeap.c	/^int GetHiPriChildIDX(Heap * ph, int idx)$/;"	f
+GetHiPriChildIDX	Data_Structure_Src/Ch09/UsefulHeap/UsefulHeap.c	/^int GetHiPriChildIDX(Heap * ph, int idx)$/;"	f
+GetHiPriChildIDX	Data_Structure_Src/Ch10/HeapSort/UsefulHeap.c	/^int GetHiPriChildIDX(Heap * ph, int idx)$/;"	f
+GetHiPriChildIDX	Data_Structure_Src/Ch14/ALGraphKruskal/UsefulHeap.c	/^int GetHiPriChildIDX(Heap * ph, int idx)$/;"	f
+GetLChildIDX	Data_Structure_Src/Ch09/PriorityQueue/UsefulHeap.c	/^int GetLChildIDX(int idx) $/;"	f
+GetLChildIDX	Data_Structure_Src/Ch09/Prob09-1/UsefulHeap.c	/^int GetLChildIDX(int idx) $/;"	f
+GetLChildIDX	Data_Structure_Src/Ch09/SimpleHeap/SimpleHeap.c	/^int GetLChildIDX(int idx) $/;"	f
+GetLChildIDX	Data_Structure_Src/Ch09/UsefulHeap/UsefulHeap.c	/^int GetLChildIDX(int idx) $/;"	f
+GetLChildIDX	Data_Structure_Src/Ch10/HeapSort/UsefulHeap.c	/^int GetLChildIDX(int idx) $/;"	f
+GetLChildIDX	Data_Structure_Src/Ch14/ALGraphKruskal/UsefulHeap.c	/^int GetLChildIDX(int idx) $/;"	f
+GetLeftSubTree	Data_Structure_Src/Ch08/BinaryTree/BinaryTree.c	/^BTreeNode * GetLeftSubTree(BTreeNode * bt)$/;"	f
+GetLeftSubTree	Data_Structure_Src/Ch08/BinaryTreeTraversalAdded/BinaryTree2.c	/^BTreeNode * GetLeftSubTree(BTreeNode * bt)$/;"	f
+GetLeftSubTree	Data_Structure_Src/Ch08/ExpressionTree/BinaryTree2.c	/^BTreeNode * GetLeftSubTree(BTreeNode * bt)$/;"	f
+GetLeftSubTree	Data_Structure_Src/Ch08/Prob08-1/BinaryTree2.c	/^BTreeNode * GetLeftSubTree(BTreeNode * bt)$/;"	f
+GetLeftSubTree	Data_Structure_Src/Ch08/Prob08-2/BinaryTree2.c	/^BTreeNode * GetLeftSubTree(BTreeNode * bt)$/;"	f
+GetLeftSubTree	Data_Structure_Src/Ch11/BinarySearchTree/BinaryTree2.c	/^BTreeNode * GetLeftSubTree(BTreeNode * bt)$/;"	f
+GetLeftSubTree	Data_Structure_Src/Ch11/BinarySearchTreeDelAdded/BinaryTree3.c	/^BTreeNode * GetLeftSubTree(BTreeNode * bt)$/;"	f
+GetLeftSubTree	Data_Structure_Src/Ch12/AVLTree/BinaryTree3.c	/^BTreeNode * GetLeftSubTree(BTreeNode * bt)$/;"	f
+GetOpPrec	Data_Structure_Src/Ch06/InfixCalculator/InfixToPostfix.c	/^int GetOpPrec(char op)$/;"	f
+GetOpPrec	Data_Structure_Src/Ch06/InfixToPostfix/InfixToPostfix.c	/^int GetOpPrec(char op)$/;"	f
+GetParentIDX	Data_Structure_Src/Ch09/PriorityQueue/UsefulHeap.c	/^int GetParentIDX(int idx) $/;"	f
+GetParentIDX	Data_Structure_Src/Ch09/Prob09-1/UsefulHeap.c	/^int GetParentIDX(int idx) $/;"	f
+GetParentIDX	Data_Structure_Src/Ch09/SimpleHeap/SimpleHeap.c	/^int GetParentIDX(int idx) $/;"	f
+GetParentIDX	Data_Structure_Src/Ch09/UsefulHeap/UsefulHeap.c	/^int GetParentIDX(int idx) $/;"	f
+GetParentIDX	Data_Structure_Src/Ch10/HeapSort/UsefulHeap.c	/^int GetParentIDX(int idx) $/;"	f
+GetParentIDX	Data_Structure_Src/Ch14/ALGraphKruskal/UsefulHeap.c	/^int GetParentIDX(int idx) $/;"	f
+GetRChildIDX	Data_Structure_Src/Ch09/PriorityQueue/UsefulHeap.c	/^int GetRChildIDX(int idx) $/;"	f
+GetRChildIDX	Data_Structure_Src/Ch09/Prob09-1/UsefulHeap.c	/^int GetRChildIDX(int idx) $/;"	f
+GetRChildIDX	Data_Structure_Src/Ch09/SimpleHeap/SimpleHeap.c	/^int GetRChildIDX(int idx) $/;"	f
+GetRChildIDX	Data_Structure_Src/Ch09/UsefulHeap/UsefulHeap.c	/^int GetRChildIDX(int idx) $/;"	f
+GetRChildIDX	Data_Structure_Src/Ch10/HeapSort/UsefulHeap.c	/^int GetRChildIDX(int idx) $/;"	f
+GetRChildIDX	Data_Structure_Src/Ch14/ALGraphKruskal/UsefulHeap.c	/^int GetRChildIDX(int idx) $/;"	f
+GetRightSubTree	Data_Structure_Src/Ch08/BinaryTree/BinaryTree.c	/^BTreeNode * GetRightSubTree(BTreeNode * bt)$/;"	f
+GetRightSubTree	Data_Structure_Src/Ch08/BinaryTreeTraversalAdded/BinaryTree2.c	/^BTreeNode * GetRightSubTree(BTreeNode * bt)$/;"	f
+GetRightSubTree	Data_Structure_Src/Ch08/ExpressionTree/BinaryTree2.c	/^BTreeNode * GetRightSubTree(BTreeNode * bt)$/;"	f
+GetRightSubTree	Data_Structure_Src/Ch08/Prob08-1/BinaryTree2.c	/^BTreeNode * GetRightSubTree(BTreeNode * bt)$/;"	f
+GetRightSubTree	Data_Structure_Src/Ch08/Prob08-2/BinaryTree2.c	/^BTreeNode * GetRightSubTree(BTreeNode * bt)$/;"	f
+GetRightSubTree	Data_Structure_Src/Ch11/BinarySearchTree/BinaryTree2.c	/^BTreeNode * GetRightSubTree(BTreeNode * bt)$/;"	f
+GetRightSubTree	Data_Structure_Src/Ch11/BinarySearchTreeDelAdded/BinaryTree3.c	/^BTreeNode * GetRightSubTree(BTreeNode * bt)$/;"	f
+GetRightSubTree	Data_Structure_Src/Ch12/AVLTree/BinaryTree3.c	/^BTreeNode * GetRightSubTree(BTreeNode * bt)$/;"	f
+GetSSN	Data_Structure_Src/Ch13/ChainedHashTable/Person.c	/^int GetSSN(Person * p)$/;"	f
+GetSSN	Data_Structure_Src/Ch13/SimpleHashTable/Person.c	/^int GetSSN(Person * p)$/;"	f
+GraphDestroy	Data_Structure_Src/Ch14/ALGraph/ALGraph.c	/^void GraphDestroy(ALGraph * pg)$/;"	f
+GraphDestroy	Data_Structure_Src/Ch14/ALGraphBFS/ALGraphBFS.c	/^void GraphDestroy(ALGraph * pg)$/;"	f
+GraphDestroy	Data_Structure_Src/Ch14/ALGraphDFS/ALGraphDFS.c	/^void GraphDestroy(ALGraph * pg)$/;"	f
+GraphDestroy	Data_Structure_Src/Ch14/ALGraphKruskal/ALGraphKruskal.c	/^void GraphDestroy(ALGraph * pg)$/;"	f
+GraphDestroy	Data_Structure_Src/Ch14/Prob14-2/ALGraphDFS.c	/^void GraphDestroy(ALGraph * pg)$/;"	f
+GraphInit	Data_Structure_Src/Ch14/ALGraph/ALGraph.c	/^void GraphInit(ALGraph * pg, int nv)$/;"	f
+GraphInit	Data_Structure_Src/Ch14/ALGraphBFS/ALGraphBFS.c	/^void GraphInit(ALGraph * pg, int nv)$/;"	f
+GraphInit	Data_Structure_Src/Ch14/ALGraphDFS/ALGraphDFS.c	/^void GraphInit(ALGraph * pg, int nv)$/;"	f
+GraphInit	Data_Structure_Src/Ch14/ALGraphKruskal/ALGraphKruskal.c	/^void GraphInit(ALGraph * pg, int nv)$/;"	f
+GraphInit	Data_Structure_Src/Ch14/Prob14-2/ALGraphDFS.c	/^void GraphInit(ALGraph * pg, int nv)$/;"	f
+H	Data_Structure_Src/Ch14/ALGraph/ALGraph.h	/^enum {A, B, C, D, E, F, G, H, I, J};$/;"	e	enum:__anon2
+H	Data_Structure_Src/Ch14/ALGraphBFS/ALGraphBFS.h	/^enum {A, B, C, D, E, F, G, H, I, J};$/;"	e	enum:__anon1
+H	Data_Structure_Src/Ch14/ALGraphDFS/ALGraphDFS.h	/^enum {A, B, C, D, E, F, G, H, I, J};$/;"	e	enum:__anon4
+H	Data_Structure_Src/Ch14/ALGraphKruskal/ALGraphKruskal.h	/^enum {A, B, C, D, E, F, G, H, I, J};$/;"	e	enum:__anon5
+H	Data_Structure_Src/Ch14/Prob14-2/ALGraphDFS.h	/^enum {A, B, C, D, E, F, G, H, I, J};$/;"	e	enum:__anon3
+HData	Data_Structure_Src/Ch09/PriorityQueue/UsefulHeap.h	/^typedef char HData;$/;"	t
+HData	Data_Structure_Src/Ch09/Prob09-1/UsefulHeap.h	/^typedef char * HData;$/;"	t
+HData	Data_Structure_Src/Ch09/SimpleHeap/SimpleHeap.h	/^typedef char HData;$/;"	t
+HData	Data_Structure_Src/Ch09/UsefulHeap/UsefulHeap.h	/^typedef char HData;$/;"	t
+HData	Data_Structure_Src/Ch10/HeapSort/UsefulHeap.h	/^typedef int HData;$/;"	t
+HData	Data_Structure_Src/Ch14/ALGraphKruskal/UsefulHeap.h	/^typedef Edge HData;$/;"	t
+HDelete	Data_Structure_Src/Ch09/PriorityQueue/UsefulHeap.c	/^HData HDelete(Heap * ph)$/;"	f
+HDelete	Data_Structure_Src/Ch09/Prob09-1/UsefulHeap.c	/^HData HDelete(Heap * ph)$/;"	f
+HDelete	Data_Structure_Src/Ch09/SimpleHeap/SimpleHeap.c	/^HData HDelete(Heap * ph)$/;"	f
+HDelete	Data_Structure_Src/Ch09/UsefulHeap/UsefulHeap.c	/^HData HDelete(Heap * ph)$/;"	f
+HDelete	Data_Structure_Src/Ch10/HeapSort/UsefulHeap.c	/^HData HDelete(Heap * ph)$/;"	f
+HDelete	Data_Structure_Src/Ch14/ALGraphKruskal/UsefulHeap.c	/^HData HDelete(Heap * ph)$/;"	f
+HEAP_LEN	Data_Structure_Src/Ch09/PriorityQueue/UsefulHeap.h	/^#define HEAP_LEN	/;"	d
+HEAP_LEN	Data_Structure_Src/Ch09/Prob09-1/UsefulHeap.h	/^#define HEAP_LEN	/;"	d
+HEAP_LEN	Data_Structure_Src/Ch09/SimpleHeap/SimpleHeap.h	/^#define HEAP_LEN	/;"	d
+HEAP_LEN	Data_Structure_Src/Ch09/UsefulHeap/UsefulHeap.h	/^#define HEAP_LEN	/;"	d
+HEAP_LEN	Data_Structure_Src/Ch10/HeapSort/UsefulHeap.h	/^#define HEAP_LEN	/;"	d
+HEAP_LEN	Data_Structure_Src/Ch14/ALGraphKruskal/UsefulHeap.h	/^#define HEAP_LEN	/;"	d
+HInsert	Data_Structure_Src/Ch09/PriorityQueue/UsefulHeap.c	/^void HInsert(Heap * ph, HData data)$/;"	f
+HInsert	Data_Structure_Src/Ch09/Prob09-1/UsefulHeap.c	/^void HInsert(Heap * ph, HData data)$/;"	f
+HInsert	Data_Structure_Src/Ch09/SimpleHeap/SimpleHeap.c	/^void HInsert(Heap * ph, HData data, Priority pr)$/;"	f
+HInsert	Data_Structure_Src/Ch09/UsefulHeap/UsefulHeap.c	/^void HInsert(Heap * ph, HData data)$/;"	f
+HInsert	Data_Structure_Src/Ch10/HeapSort/UsefulHeap.c	/^void HInsert(Heap * ph, HData data)$/;"	f
+HInsert	Data_Structure_Src/Ch14/ALGraphKruskal/UsefulHeap.c	/^void HInsert(Heap * ph, HData data)$/;"	f
+HIsEmpty	Data_Structure_Src/Ch09/PriorityQueue/UsefulHeap.c	/^int HIsEmpty(Heap * ph)$/;"	f
+HIsEmpty	Data_Structure_Src/Ch09/Prob09-1/UsefulHeap.c	/^int HIsEmpty(Heap * ph)$/;"	f
+HIsEmpty	Data_Structure_Src/Ch09/SimpleHeap/SimpleHeap.c	/^int HIsEmpty(Heap * ph)$/;"	f
+HIsEmpty	Data_Structure_Src/Ch09/UsefulHeap/UsefulHeap.c	/^int HIsEmpty(Heap * ph)$/;"	f
+HIsEmpty	Data_Structure_Src/Ch10/HeapSort/UsefulHeap.c	/^int HIsEmpty(Heap * ph)$/;"	f
+HIsEmpty	Data_Structure_Src/Ch14/ALGraphKruskal/UsefulHeap.c	/^int HIsEmpty(Heap * ph)$/;"	f
+HanoiTowerMove	Data_Structure_Src/Ch02/HanoiTowerSolu.c	/^void HanoiTowerMove(int num, char from, char by, char to)$/;"	f
+HashFunc	Data_Structure_Src/Ch13/ChainedHashTable/Table2.h	/^typedef int HashFunc(Key k);$/;"	t
+HashFunc	Data_Structure_Src/Ch13/SimpleHashTable/Table.h	/^typedef int HashFunc(Key k);$/;"	t
+Heap	Data_Structure_Src/Ch09/PriorityQueue/UsefulHeap.h	/^} Heap;$/;"	t	typeref:struct:_heap
+Heap	Data_Structure_Src/Ch09/Prob09-1/UsefulHeap.h	/^} Heap;$/;"	t	typeref:struct:_heap
+Heap	Data_Structure_Src/Ch09/SimpleHeap/SimpleHeap.h	/^} Heap;$/;"	t	typeref:struct:_heap
+Heap	Data_Structure_Src/Ch09/UsefulHeap/UsefulHeap.h	/^} Heap;$/;"	t	typeref:struct:_heap
+Heap	Data_Structure_Src/Ch10/HeapSort/UsefulHeap.h	/^} Heap;$/;"	t	typeref:struct:_heap
+Heap	Data_Structure_Src/Ch14/ALGraphKruskal/UsefulHeap.h	/^} Heap;$/;"	t	typeref:struct:_heap
+HeapElem	Data_Structure_Src/Ch09/SimpleHeap/SimpleHeap.h	/^} HeapElem;$/;"	t	typeref:struct:_heapElem
+HeapInit	Data_Structure_Src/Ch09/PriorityQueue/UsefulHeap.c	/^void HeapInit(Heap * ph, PriorityComp pc)$/;"	f
+HeapInit	Data_Structure_Src/Ch09/Prob09-1/UsefulHeap.c	/^void HeapInit(Heap * ph, PriorityComp pc)$/;"	f
+HeapInit	Data_Structure_Src/Ch09/SimpleHeap/SimpleHeap.c	/^void HeapInit(Heap * ph)$/;"	f
+HeapInit	Data_Structure_Src/Ch09/UsefulHeap/UsefulHeap.c	/^void HeapInit(Heap * ph, PriorityComp pc)$/;"	f
+HeapInit	Data_Structure_Src/Ch10/HeapSort/UsefulHeap.c	/^void HeapInit(Heap * ph, PriorityComp pc)$/;"	f
+HeapInit	Data_Structure_Src/Ch14/ALGraphKruskal/UsefulHeap.c	/^void HeapInit(Heap * ph, PriorityComp pc)$/;"	f
+HeapSort	Data_Structure_Src/Ch10/HeapSort/HeapSort.c	/^void HeapSort(int arr[], int n, PriorityComp pc)$/;"	f
+I	Data_Structure_Src/Ch14/ALGraph/ALGraph.h	/^enum {A, B, C, D, E, F, G, H, I, J};$/;"	e	enum:__anon2
+I	Data_Structure_Src/Ch14/ALGraphBFS/ALGraphBFS.h	/^enum {A, B, C, D, E, F, G, H, I, J};$/;"	e	enum:__anon1
+I	Data_Structure_Src/Ch14/ALGraphDFS/ALGraphDFS.h	/^enum {A, B, C, D, E, F, G, H, I, J};$/;"	e	enum:__anon4
+I	Data_Structure_Src/Ch14/ALGraphKruskal/ALGraphKruskal.h	/^enum {A, B, C, D, E, F, G, H, I, J};$/;"	e	enum:__anon5
+I	Data_Structure_Src/Ch14/Prob14-2/ALGraphDFS.h	/^enum {A, B, C, D, E, F, G, H, I, J};$/;"	e	enum:__anon3
+INUSE	Data_Structure_Src/Ch13/SimpleHashTable/Slot.h	/^enum SlotStatus {EMPTY, DELETED, INUSE};$/;"	e	enum:SlotStatus
+ISearch	Data_Structure_Src/Ch11/InterpolSearch.c	/^int ISearch(int ar[], int first, int last, int target)$/;"	f
+InorderTraverse	Data_Structure_Src/Ch08/BinaryTree/BinaryTreeTraverseMain.c	/^void InorderTraverse(BTreeNode * bt)$/;"	f
+InorderTraverse	Data_Structure_Src/Ch08/BinaryTreeTraversalAdded/BinaryTree2.c	/^void InorderTraverse(BTreeNode * bt, VisitFuncPtr action)$/;"	f
+InorderTraverse	Data_Structure_Src/Ch08/ExpressionTree/BinaryTree2.c	/^void InorderTraverse(BTreeNode * bt, VisitFuncPtr action)$/;"	f
+InorderTraverse	Data_Structure_Src/Ch08/Prob08-1/BinaryTree2.c	/^void InorderTraverse(BTreeNode * bt, VisitFuncPtr action)$/;"	f
+InorderTraverse	Data_Structure_Src/Ch08/Prob08-2/BinaryTree2.c	/^void InorderTraverse(BTreeNode * bt, VisitFuncPtr action)$/;"	f
+InorderTraverse	Data_Structure_Src/Ch11/BinarySearchTree/BinaryTree2.c	/^void InorderTraverse(BTreeNode * bt, VisitFuncPtr action)$/;"	f
+InorderTraverse	Data_Structure_Src/Ch11/BinarySearchTreeDelAdded/BinaryTree3.c	/^void InorderTraverse(BTreeNode * bt, VisitFuncPtr action)$/;"	f
+InorderTraverse	Data_Structure_Src/Ch12/AVLTree/BinaryTree3.c	/^void InorderTraverse(BTreeNode * bt, VisitFuncPtr action)$/;"	f
+InserSort	Data_Structure_Src/Ch10/InsertionSort.c	/^void InserSort(int arr[], int n)$/;"	f
+IsConnVertex	Data_Structure_Src/Ch14/ALGraphKruskal/ALGraphKruskal.c	/^int IsConnVertex(ALGraph * pg, int v1, int v2)$/;"	f
+J	Data_Structure_Src/Ch14/ALGraph/ALGraph.h	/^enum {A, B, C, D, E, F, G, H, I, J};$/;"	e	enum:__anon2
+J	Data_Structure_Src/Ch14/ALGraphBFS/ALGraphBFS.h	/^enum {A, B, C, D, E, F, G, H, I, J};$/;"	e	enum:__anon1
+J	Data_Structure_Src/Ch14/ALGraphDFS/ALGraphDFS.h	/^enum {A, B, C, D, E, F, G, H, I, J};$/;"	e	enum:__anon4
+J	Data_Structure_Src/Ch14/ALGraphKruskal/ALGraphKruskal.h	/^enum {A, B, C, D, E, F, G, H, I, J};$/;"	e	enum:__anon5
+J	Data_Structure_Src/Ch14/Prob14-2/ALGraphDFS.h	/^enum {A, B, C, D, E, F, G, H, I, J};$/;"	e	enum:__anon3
+Key	Data_Structure_Src/Ch13/ChainedHashTable/Slot2.h	/^typedef int Key;$/;"	t
+Key	Data_Structure_Src/Ch13/SimpleHashTable/Slot.h	/^typedef int Key;$/;"	t
+LCount	Data_Structure_Src/Ch03/ArrayList/ArrayList.c	/^int LCount(List * plist)$/;"	f
+LCount	Data_Structure_Src/Ch03/ArrayListPointStructBase/ArrayList.c	/^int LCount(List * plist)$/;"	f
+LCount	Data_Structure_Src/Ch03/Prob03-1/ArrayList.c	/^int LCount(List * plist)$/;"	f
+LCount	Data_Structure_Src/Ch03/Prob03-2/ArrayList.c	/^int LCount(List * plist)$/;"	f
+LCount	Data_Structure_Src/Ch04/DLinkedList/DLinkedList.c	/^int LCount(List * plist)$/;"	f
+LCount	Data_Structure_Src/Ch04/DLinkedListSort/DLinkedList.c	/^int LCount(List * plist)$/;"	f
+LCount	Data_Structure_Src/Ch04/Prob04-3/DLinkedList.c	/^int LCount(List * plist)$/;"	f
+LCount	Data_Structure_Src/Ch04/Prob04-4/DLinkedList.c	/^int LCount(List * plist)$/;"	f
+LCount	Data_Structure_Src/Ch05/CircularLinkedList/CLinkedList.c	/^int LCount(List * plist)$/;"	f
+LCount	Data_Structure_Src/Ch05/DublyLinkedList/DBLinkedList.c	/^int LCount(List * plist)$/;"	f
+LCount	Data_Structure_Src/Ch05/Prob05-1/CLinkedList.c	/^int LCount(List * plist)$/;"	f
+LCount	Data_Structure_Src/Ch05/Prob05-2/DBDLinkedList.c	/^int LCount(List * plist)$/;"	f
+LCount	Data_Structure_Src/Ch06/Prob06-1/CLinkedList.c	/^int LCount(List * plist)$/;"	f
+LCount	Data_Structure_Src/Ch13/ChainedHashTable/DLinkedList.c	/^int LCount(List * plist)$/;"	f
+LCount	Data_Structure_Src/Ch14/ALGraph/DLinkedList.c	/^int LCount(List * plist)$/;"	f
+LCount	Data_Structure_Src/Ch14/ALGraphBFS/DLinkedList.c	/^int LCount(List * plist)$/;"	f
+LCount	Data_Structure_Src/Ch14/ALGraphDFS/DLinkedList.c	/^int LCount(List * plist)$/;"	f
+LCount	Data_Structure_Src/Ch14/ALGraphKruskal/DLinkedList.c	/^int LCount(List * plist)$/;"	f
+LCount	Data_Structure_Src/Ch14/Prob14-2/DLinkedList.c	/^int LCount(List * plist)$/;"	f
+LData	Data_Structure_Src/Ch03/ArrayList/ArrayList.h	/^typedef int LData;$/;"	t
+LData	Data_Structure_Src/Ch03/ArrayListPointStructBase/ArrayList.h	/^typedef Point * LData;     \/\/ 두 번째 변경$/;"	t
+LData	Data_Structure_Src/Ch03/Prob03-1/ArrayList.h	/^typedef int LData;$/;"	t
+LData	Data_Structure_Src/Ch03/Prob03-2/ArrayList.h	/^typedef NameCard * LData;$/;"	t
+LData	Data_Structure_Src/Ch04/DLinkedList/DLinkedList.h	/^typedef int LData;$/;"	t
+LData	Data_Structure_Src/Ch04/DLinkedListSort/DLinkedList.h	/^typedef int LData;$/;"	t
+LData	Data_Structure_Src/Ch04/Prob04-3/DLinkedList.h	/^typedef Point * LData;$/;"	t
+LData	Data_Structure_Src/Ch04/Prob04-4/DLinkedList.h	/^typedef Point * LData;$/;"	t
+LData	Data_Structure_Src/Ch13/ChainedHashTable/DLinkedList.h	/^typedef Slot LData;$/;"	t
+LData	Data_Structure_Src/Ch14/ALGraph/DLinkedList.h	/^typedef int LData;$/;"	t
+LData	Data_Structure_Src/Ch14/ALGraphBFS/DLinkedList.h	/^typedef int LData;$/;"	t
+LData	Data_Structure_Src/Ch14/ALGraphDFS/DLinkedList.h	/^typedef int LData;$/;"	t
+LData	Data_Structure_Src/Ch14/ALGraphKruskal/DLinkedList.h	/^typedef int LData;$/;"	t
+LData	Data_Structure_Src/Ch14/Prob14-2/DLinkedList.h	/^typedef int LData;$/;"	t
+LFirst	Data_Structure_Src/Ch03/ArrayList/ArrayList.c	/^int LFirst(List * plist, LData * pdata)$/;"	f
+LFirst	Data_Structure_Src/Ch03/ArrayListPointStructBase/ArrayList.c	/^int LFirst(List * plist, LData * pdata)$/;"	f
+LFirst	Data_Structure_Src/Ch03/Prob03-1/ArrayList.c	/^int LFirst(List * plist, LData * pdata)$/;"	f
+LFirst	Data_Structure_Src/Ch03/Prob03-2/ArrayList.c	/^int LFirst(List * plist, LData * pdata)$/;"	f
+LFirst	Data_Structure_Src/Ch04/DLinkedList/DLinkedList.c	/^int LFirst(List * plist, LData * pdata)$/;"	f
+LFirst	Data_Structure_Src/Ch04/DLinkedListSort/DLinkedList.c	/^int LFirst(List * plist, LData * pdata)$/;"	f
+LFirst	Data_Structure_Src/Ch04/Prob04-3/DLinkedList.c	/^int LFirst(List * plist, LData * pdata)$/;"	f
+LFirst	Data_Structure_Src/Ch04/Prob04-4/DLinkedList.c	/^int LFirst(List * plist, LData * pdata)$/;"	f
+LFirst	Data_Structure_Src/Ch05/CircularLinkedList/CLinkedList.c	/^int LFirst(List * plist, Data * pdata)$/;"	f
+LFirst	Data_Structure_Src/Ch05/DublyLinkedList/DBLinkedList.c	/^int LFirst(List * plist, Data * pdata)$/;"	f
+LFirst	Data_Structure_Src/Ch05/Prob05-1/CLinkedList.c	/^int LFirst(List * plist, Data * pdata)$/;"	f
+LFirst	Data_Structure_Src/Ch05/Prob05-2/DBDLinkedList.c	/^int LFirst(List * plist, Data * pdata)$/;"	f
+LFirst	Data_Structure_Src/Ch06/Prob06-1/CLinkedList.c	/^int LFirst(List * plist, Data * pdata)$/;"	f
+LFirst	Data_Structure_Src/Ch13/ChainedHashTable/DLinkedList.c	/^int LFirst(List * plist, LData * pdata)$/;"	f
+LFirst	Data_Structure_Src/Ch14/ALGraph/DLinkedList.c	/^int LFirst(List * plist, LData * pdata)$/;"	f
+LFirst	Data_Structure_Src/Ch14/ALGraphBFS/DLinkedList.c	/^int LFirst(List * plist, LData * pdata)$/;"	f
+LFirst	Data_Structure_Src/Ch14/ALGraphDFS/DLinkedList.c	/^int LFirst(List * plist, LData * pdata)$/;"	f
+LFirst	Data_Structure_Src/Ch14/ALGraphKruskal/DLinkedList.c	/^int LFirst(List * plist, LData * pdata)$/;"	f
+LFirst	Data_Structure_Src/Ch14/Prob14-2/DLinkedList.c	/^int LFirst(List * plist, LData * pdata)$/;"	f
+LIST_LEN	Data_Structure_Src/Ch03/ArrayList/ArrayList.h	/^#define LIST_LEN	/;"	d
+LIST_LEN	Data_Structure_Src/Ch03/ArrayListPointStructBase/ArrayList.h	/^#define LIST_LEN	/;"	d
+LIST_LEN	Data_Structure_Src/Ch03/Prob03-1/ArrayList.h	/^#define LIST_LEN	/;"	d
+LIST_LEN	Data_Structure_Src/Ch03/Prob03-2/ArrayList.h	/^#define LIST_LEN	/;"	d
+LInsert	Data_Structure_Src/Ch03/ArrayList/ArrayList.c	/^void LInsert(List * plist, LData data)$/;"	f
+LInsert	Data_Structure_Src/Ch03/ArrayListPointStructBase/ArrayList.c	/^void LInsert(List * plist, LData data)$/;"	f
+LInsert	Data_Structure_Src/Ch03/Prob03-1/ArrayList.c	/^void LInsert(List * plist, LData data)$/;"	f
+LInsert	Data_Structure_Src/Ch03/Prob03-2/ArrayList.c	/^void LInsert(List * plist, LData data)$/;"	f
+LInsert	Data_Structure_Src/Ch04/DLinkedList/DLinkedList.c	/^void LInsert(List * plist, LData data)$/;"	f
+LInsert	Data_Structure_Src/Ch04/DLinkedListSort/DLinkedList.c	/^void LInsert(List * plist, LData data)$/;"	f
+LInsert	Data_Structure_Src/Ch04/Prob04-3/DLinkedList.c	/^void LInsert(List * plist, LData data)$/;"	f
+LInsert	Data_Structure_Src/Ch04/Prob04-4/DLinkedList.c	/^void LInsert(List * plist, LData data)$/;"	f
+LInsert	Data_Structure_Src/Ch05/CircularLinkedList/CLinkedList.c	/^void LInsert(List * plist, Data data)$/;"	f
+LInsert	Data_Structure_Src/Ch05/DublyLinkedList/DBLinkedList.c	/^void LInsert(List * plist, Data data)$/;"	f
+LInsert	Data_Structure_Src/Ch05/Prob05-1/CLinkedList.c	/^void LInsert(List * plist, Data data)$/;"	f
+LInsert	Data_Structure_Src/Ch05/Prob05-2/DBDLinkedList.c	/^void LInsert(List * plist, Data data) $/;"	f
+LInsert	Data_Structure_Src/Ch06/Prob06-1/CLinkedList.c	/^void LInsert(List * plist, Data data)$/;"	f
+LInsert	Data_Structure_Src/Ch13/ChainedHashTable/DLinkedList.c	/^void LInsert(List * plist, LData data)$/;"	f
+LInsert	Data_Structure_Src/Ch14/ALGraph/DLinkedList.c	/^void LInsert(List * plist, LData data)$/;"	f
+LInsert	Data_Structure_Src/Ch14/ALGraphBFS/DLinkedList.c	/^void LInsert(List * plist, LData data)$/;"	f
+LInsert	Data_Structure_Src/Ch14/ALGraphDFS/DLinkedList.c	/^void LInsert(List * plist, LData data)$/;"	f
+LInsert	Data_Structure_Src/Ch14/ALGraphKruskal/DLinkedList.c	/^void LInsert(List * plist, LData data)$/;"	f
+LInsert	Data_Structure_Src/Ch14/Prob14-2/DLinkedList.c	/^void LInsert(List * plist, LData data)$/;"	f
+LInsertFront	Data_Structure_Src/Ch05/CircularLinkedList/CLinkedList.c	/^void LInsertFront(List * plist, Data data)$/;"	f
+LInsertFront	Data_Structure_Src/Ch05/Prob05-1/CLinkedList.c	/^void LInsertFront(List * plist, Data data)$/;"	f
+LInsertFront	Data_Structure_Src/Ch06/Prob06-1/CLinkedList.c	/^void LInsertFront(List * plist, Data data)$/;"	f
+LNext	Data_Structure_Src/Ch03/ArrayList/ArrayList.c	/^int LNext(List * plist, LData * pdata)$/;"	f
+LNext	Data_Structure_Src/Ch03/ArrayListPointStructBase/ArrayList.c	/^int LNext(List * plist, LData * pdata)$/;"	f
+LNext	Data_Structure_Src/Ch03/Prob03-1/ArrayList.c	/^int LNext(List * plist, LData * pdata)$/;"	f
+LNext	Data_Structure_Src/Ch03/Prob03-2/ArrayList.c	/^int LNext(List * plist, LData * pdata)$/;"	f
+LNext	Data_Structure_Src/Ch04/DLinkedList/DLinkedList.c	/^int LNext(List * plist, LData * pdata)$/;"	f
+LNext	Data_Structure_Src/Ch04/DLinkedListSort/DLinkedList.c	/^int LNext(List * plist, LData * pdata)$/;"	f
+LNext	Data_Structure_Src/Ch04/Prob04-3/DLinkedList.c	/^int LNext(List * plist, LData * pdata)$/;"	f
+LNext	Data_Structure_Src/Ch04/Prob04-4/DLinkedList.c	/^int LNext(List * plist, LData * pdata)$/;"	f
+LNext	Data_Structure_Src/Ch05/CircularLinkedList/CLinkedList.c	/^int LNext(List * plist, Data * pdata)$/;"	f
+LNext	Data_Structure_Src/Ch05/DublyLinkedList/DBLinkedList.c	/^int LNext(List * plist, Data * pdata)$/;"	f
+LNext	Data_Structure_Src/Ch05/Prob05-1/CLinkedList.c	/^int LNext(List * plist, Data * pdata)$/;"	f
+LNext	Data_Structure_Src/Ch05/Prob05-2/DBDLinkedList.c	/^int LNext(List * plist, Data * pdata)$/;"	f
+LNext	Data_Structure_Src/Ch06/Prob06-1/CLinkedList.c	/^int LNext(List * plist, Data * pdata)$/;"	f
+LNext	Data_Structure_Src/Ch13/ChainedHashTable/DLinkedList.c	/^int LNext(List * plist, LData * pdata)$/;"	f
+LNext	Data_Structure_Src/Ch14/ALGraph/DLinkedList.c	/^int LNext(List * plist, LData * pdata)$/;"	f
+LNext	Data_Structure_Src/Ch14/ALGraphBFS/DLinkedList.c	/^int LNext(List * plist, LData * pdata)$/;"	f
+LNext	Data_Structure_Src/Ch14/ALGraphDFS/DLinkedList.c	/^int LNext(List * plist, LData * pdata)$/;"	f
+LNext	Data_Structure_Src/Ch14/ALGraphKruskal/DLinkedList.c	/^int LNext(List * plist, LData * pdata)$/;"	f
+LNext	Data_Structure_Src/Ch14/Prob14-2/DLinkedList.c	/^int LNext(List * plist, LData * pdata)$/;"	f
+LPrevious	Data_Structure_Src/Ch05/DublyLinkedList/DBLinkedList.c	/^int LPrevious(List * plist, Data * pdata)$/;"	f
+LQueue	Data_Structure_Src/Ch07/ListBaseQueue/ListBaseQueue.h	/^} LQueue;$/;"	t	typeref:struct:_lQueue
+LQueue	Data_Structure_Src/Ch10/RadixSort/ListBaseQueue.h	/^} LQueue;$/;"	t	typeref:struct:_lQueue
+LRemove	Data_Structure_Src/Ch03/ArrayList/ArrayList.c	/^LData LRemove(List * plist)$/;"	f
+LRemove	Data_Structure_Src/Ch03/ArrayListPointStructBase/ArrayList.c	/^LData LRemove(List * plist)$/;"	f
+LRemove	Data_Structure_Src/Ch03/Prob03-1/ArrayList.c	/^LData LRemove(List * plist)$/;"	f
+LRemove	Data_Structure_Src/Ch03/Prob03-2/ArrayList.c	/^LData LRemove(List * plist)$/;"	f
+LRemove	Data_Structure_Src/Ch04/DLinkedList/DLinkedList.c	/^LData LRemove(List * plist)$/;"	f
+LRemove	Data_Structure_Src/Ch04/DLinkedListSort/DLinkedList.c	/^LData LRemove(List * plist)$/;"	f
+LRemove	Data_Structure_Src/Ch04/Prob04-3/DLinkedList.c	/^LData LRemove(List * plist)$/;"	f
+LRemove	Data_Structure_Src/Ch04/Prob04-4/DLinkedList.c	/^LData LRemove(List * plist)$/;"	f
+LRemove	Data_Structure_Src/Ch05/CircularLinkedList/CLinkedList.c	/^Data LRemove(List * plist)$/;"	f
+LRemove	Data_Structure_Src/Ch05/Prob05-1/CLinkedList.c	/^Data LRemove(List * plist)$/;"	f
+LRemove	Data_Structure_Src/Ch05/Prob05-2/DBDLinkedList.c	/^Data LRemove(List * plist)$/;"	f
+LRemove	Data_Structure_Src/Ch06/Prob06-1/CLinkedList.c	/^Data LRemove(List * plist)$/;"	f
+LRemove	Data_Structure_Src/Ch13/ChainedHashTable/DLinkedList.c	/^LData LRemove(List * plist)$/;"	f
+LRemove	Data_Structure_Src/Ch14/ALGraph/DLinkedList.c	/^LData LRemove(List * plist)$/;"	f
+LRemove	Data_Structure_Src/Ch14/ALGraphBFS/DLinkedList.c	/^LData LRemove(List * plist)$/;"	f
+LRemove	Data_Structure_Src/Ch14/ALGraphDFS/DLinkedList.c	/^LData LRemove(List * plist)$/;"	f
+LRemove	Data_Structure_Src/Ch14/ALGraphKruskal/DLinkedList.c	/^LData LRemove(List * plist)$/;"	f
+LRemove	Data_Structure_Src/Ch14/Prob14-2/DLinkedList.c	/^LData LRemove(List * plist)$/;"	f
+LSearch	Data_Structure_Src/Ch01/LinearSearch.c	/^int LSearch(int ar[], int len, int target)$/;"	f
+LinkedList	Data_Structure_Src/Ch04/DLinkedList/DLinkedList.h	/^} LinkedList;$/;"	t	typeref:struct:_linkedList
+LinkedList	Data_Structure_Src/Ch04/DLinkedListSort/DLinkedList.h	/^} LinkedList;$/;"	t	typeref:struct:_linkedList
+LinkedList	Data_Structure_Src/Ch04/Prob04-3/DLinkedList.h	/^} LinkedList;$/;"	t	typeref:struct:_linkedList
+LinkedList	Data_Structure_Src/Ch04/Prob04-4/DLinkedList.h	/^} LinkedList;$/;"	t	typeref:struct:_linkedList
+LinkedList	Data_Structure_Src/Ch13/ChainedHashTable/DLinkedList.h	/^} LinkedList;$/;"	t	typeref:struct:_linkedList
+LinkedList	Data_Structure_Src/Ch14/ALGraph/DLinkedList.h	/^} LinkedList;$/;"	t	typeref:struct:_linkedList
+LinkedList	Data_Structure_Src/Ch14/ALGraphBFS/DLinkedList.h	/^} LinkedList;$/;"	t	typeref:struct:_linkedList
+LinkedList	Data_Structure_Src/Ch14/ALGraphDFS/DLinkedList.h	/^} LinkedList;$/;"	t	typeref:struct:_linkedList
+LinkedList	Data_Structure_Src/Ch14/ALGraphKruskal/DLinkedList.h	/^} LinkedList;$/;"	t	typeref:struct:_linkedList
+LinkedList	Data_Structure_Src/Ch14/Prob14-2/DLinkedList.h	/^} LinkedList;$/;"	t	typeref:struct:_linkedList
+List	Data_Structure_Src/Ch03/ArrayList/ArrayList.h	/^typedef ArrayList List;$/;"	t
+List	Data_Structure_Src/Ch03/ArrayListPointStructBase/ArrayList.h	/^typedef ArrayList List;$/;"	t
+List	Data_Structure_Src/Ch03/Prob03-1/ArrayList.h	/^typedef ArrayList List;$/;"	t
+List	Data_Structure_Src/Ch03/Prob03-2/ArrayList.h	/^typedef ArrayList List;$/;"	t
+List	Data_Structure_Src/Ch04/DLinkedList/DLinkedList.h	/^typedef LinkedList List;$/;"	t
+List	Data_Structure_Src/Ch04/DLinkedListSort/DLinkedList.h	/^typedef LinkedList List;$/;"	t
+List	Data_Structure_Src/Ch04/Prob04-3/DLinkedList.h	/^typedef LinkedList List;$/;"	t
+List	Data_Structure_Src/Ch04/Prob04-4/DLinkedList.h	/^typedef LinkedList List;$/;"	t
+List	Data_Structure_Src/Ch05/CircularLinkedList/CLinkedList.h	/^typedef CList List;$/;"	t
+List	Data_Structure_Src/Ch05/DublyLinkedList/DBLinkedList.h	/^typedef DBLinkedList List;$/;"	t
+List	Data_Structure_Src/Ch05/Prob05-1/CLinkedList.h	/^typedef CList List;$/;"	t
+List	Data_Structure_Src/Ch05/Prob05-2/DBDLinkedList.h	/^typedef DBDLinkedList List;$/;"	t
+List	Data_Structure_Src/Ch06/Prob06-1/CLinkedList.h	/^typedef CList List;$/;"	t
+List	Data_Structure_Src/Ch13/ChainedHashTable/DLinkedList.h	/^typedef LinkedList List;$/;"	t
+List	Data_Structure_Src/Ch14/ALGraph/DLinkedList.h	/^typedef LinkedList List;$/;"	t
+List	Data_Structure_Src/Ch14/ALGraphBFS/DLinkedList.h	/^typedef LinkedList List;$/;"	t
+List	Data_Structure_Src/Ch14/ALGraphDFS/DLinkedList.h	/^typedef LinkedList List;$/;"	t
+List	Data_Structure_Src/Ch14/ALGraphKruskal/DLinkedList.h	/^typedef LinkedList List;$/;"	t
+List	Data_Structure_Src/Ch14/Prob14-2/DLinkedList.h	/^typedef LinkedList List;$/;"	t
+ListInit	Data_Structure_Src/Ch03/ArrayList/ArrayList.c	/^void ListInit(List * plist)$/;"	f
+ListInit	Data_Structure_Src/Ch03/ArrayListPointStructBase/ArrayList.c	/^void ListInit(List * plist)$/;"	f
+ListInit	Data_Structure_Src/Ch03/Prob03-1/ArrayList.c	/^void ListInit(List * plist)$/;"	f
+ListInit	Data_Structure_Src/Ch03/Prob03-2/ArrayList.c	/^void ListInit(List * plist)$/;"	f
+ListInit	Data_Structure_Src/Ch04/DLinkedList/DLinkedList.c	/^void ListInit(List * plist)$/;"	f
+ListInit	Data_Structure_Src/Ch04/DLinkedListSort/DLinkedList.c	/^void ListInit(List * plist)$/;"	f
+ListInit	Data_Structure_Src/Ch04/Prob04-3/DLinkedList.c	/^void ListInit(List * plist)$/;"	f
+ListInit	Data_Structure_Src/Ch04/Prob04-4/DLinkedList.c	/^void ListInit(List * plist)$/;"	f
+ListInit	Data_Structure_Src/Ch05/CircularLinkedList/CLinkedList.c	/^void ListInit(List * plist)$/;"	f
+ListInit	Data_Structure_Src/Ch05/DublyLinkedList/DBLinkedList.c	/^void ListInit(List * plist)$/;"	f
+ListInit	Data_Structure_Src/Ch05/Prob05-1/CLinkedList.c	/^void ListInit(List * plist)$/;"	f
+ListInit	Data_Structure_Src/Ch05/Prob05-2/DBDLinkedList.c	/^void ListInit(List * plist)$/;"	f
+ListInit	Data_Structure_Src/Ch06/Prob06-1/CLinkedList.c	/^void ListInit(List * plist)$/;"	f
+ListInit	Data_Structure_Src/Ch13/ChainedHashTable/DLinkedList.c	/^void ListInit(List * plist)$/;"	f
+ListInit	Data_Structure_Src/Ch14/ALGraph/DLinkedList.c	/^void ListInit(List * plist)$/;"	f
+ListInit	Data_Structure_Src/Ch14/ALGraphBFS/DLinkedList.c	/^void ListInit(List * plist)$/;"	f
+ListInit	Data_Structure_Src/Ch14/ALGraphDFS/DLinkedList.c	/^void ListInit(List * plist)$/;"	f
+ListInit	Data_Structure_Src/Ch14/ALGraphKruskal/DLinkedList.c	/^void ListInit(List * plist)$/;"	f
+ListInit	Data_Structure_Src/Ch14/Prob14-2/DLinkedList.c	/^void ListInit(List * plist)$/;"	f
+ListStack	Data_Structure_Src/Ch06/InfixCalculator/ListBaseStack.h	/^} ListStack;$/;"	t	typeref:struct:_listStack
+ListStack	Data_Structure_Src/Ch06/InfixToPostfix/ListBaseStack.h	/^} ListStack;$/;"	t	typeref:struct:_listStack
+ListStack	Data_Structure_Src/Ch06/ListBaseStack/ListBaseStack.h	/^} ListStack;$/;"	t	typeref:struct:_listStack
+ListStack	Data_Structure_Src/Ch06/PostCalculator/ListBaseStack.h	/^} ListStack;$/;"	t	typeref:struct:_listStack
+ListStack	Data_Structure_Src/Ch06/Prob06-1/CLLBaseStack.h	/^} ListStack;$/;"	t	typeref:struct:_listStack
+ListStack	Data_Structure_Src/Ch08/ExpressionTree/ListBaseStack.h	/^} ListStack;$/;"	t	typeref:struct:_listStack
+ListStack	Data_Structure_Src/Ch08/Prob08-2/ListBaseStack.h	/^} ListStack;$/;"	t	typeref:struct:_listStack
+MAX_TBL	Data_Structure_Src/Ch13/ChainedHashTable/Table2.h	/^#define MAX_TBL /;"	d
+MAX_TBL	Data_Structure_Src/Ch13/SimpleHashTable/Table.h	/^#define MAX_TBL /;"	d
+MakeBTreeNode	Data_Structure_Src/Ch08/BinaryTree/BinaryTree.c	/^BTreeNode * MakeBTreeNode(void)$/;"	f
+MakeBTreeNode	Data_Structure_Src/Ch08/BinaryTreeTraversalAdded/BinaryTree2.c	/^BTreeNode * MakeBTreeNode(void)$/;"	f
+MakeBTreeNode	Data_Structure_Src/Ch08/ExpressionTree/BinaryTree2.c	/^BTreeNode * MakeBTreeNode(void)$/;"	f
+MakeBTreeNode	Data_Structure_Src/Ch08/Prob08-1/BinaryTree2.c	/^BTreeNode * MakeBTreeNode(void)$/;"	f
+MakeBTreeNode	Data_Structure_Src/Ch08/Prob08-2/BinaryTree2.c	/^BTreeNode * MakeBTreeNode(void)$/;"	f
+MakeBTreeNode	Data_Structure_Src/Ch11/BinarySearchTree/BinaryTree2.c	/^BTreeNode * MakeBTreeNode(void)$/;"	f
+MakeBTreeNode	Data_Structure_Src/Ch11/BinarySearchTreeDelAdded/BinaryTree3.c	/^BTreeNode * MakeBTreeNode(void)$/;"	f
+MakeBTreeNode	Data_Structure_Src/Ch12/AVLTree/BinaryTree3.c	/^BTreeNode * MakeBTreeNode(void)$/;"	f
+MakeExpTree	Data_Structure_Src/Ch08/ExpressionTree/ExpressionTree.c	/^BTreeNode * MakeExpTree(char exp[])$/;"	f
+MakeExpTree	Data_Structure_Src/Ch08/Prob08-2/ExpressionTree.c	/^BTreeNode * MakeExpTree(char exp[])$/;"	f
+MakeLeftSubTree	Data_Structure_Src/Ch08/BinaryTree/BinaryTree.c	/^void MakeLeftSubTree(BTreeNode * main, BTreeNode * sub)$/;"	f
+MakeLeftSubTree	Data_Structure_Src/Ch08/BinaryTreeTraversalAdded/BinaryTree2.c	/^void MakeLeftSubTree(BTreeNode * main, BTreeNode * sub)$/;"	f
+MakeLeftSubTree	Data_Structure_Src/Ch08/ExpressionTree/BinaryTree2.c	/^void MakeLeftSubTree(BTreeNode * main, BTreeNode * sub)$/;"	f
+MakeLeftSubTree	Data_Structure_Src/Ch08/Prob08-1/BinaryTree2.c	/^void MakeLeftSubTree(BTreeNode * main, BTreeNode * sub)$/;"	f
+MakeLeftSubTree	Data_Structure_Src/Ch08/Prob08-2/BinaryTree2.c	/^void MakeLeftSubTree(BTreeNode * main, BTreeNode * sub)$/;"	f
+MakeLeftSubTree	Data_Structure_Src/Ch11/BinarySearchTree/BinaryTree2.c	/^void MakeLeftSubTree(BTreeNode * main, BTreeNode * sub)$/;"	f
+MakeLeftSubTree	Data_Structure_Src/Ch11/BinarySearchTreeDelAdded/BinaryTree3.c	/^void MakeLeftSubTree(BTreeNode * main, BTreeNode * sub)$/;"	f
+MakeLeftSubTree	Data_Structure_Src/Ch12/AVLTree/BinaryTree3.c	/^void MakeLeftSubTree(BTreeNode * main, BTreeNode * sub)$/;"	f
+MakeNameCard	Data_Structure_Src/Ch03/Prob03-2/NameCard.c	/^NameCard * MakeNameCard(char * name, char * phone)$/;"	f
+MakePersonData	Data_Structure_Src/Ch13/ChainedHashTable/Person.c	/^Person * MakePersonData(int ssn, char * name, char * addr)$/;"	f
+MakePersonData	Data_Structure_Src/Ch13/SimpleHashTable/Person.c	/^Person * MakePersonData(int ssn, char * name, char * addr)$/;"	f
+MakeRightSubTree	Data_Structure_Src/Ch08/BinaryTree/BinaryTree.c	/^void MakeRightSubTree(BTreeNode * main, BTreeNode * sub)$/;"	f
+MakeRightSubTree	Data_Structure_Src/Ch08/BinaryTreeTraversalAdded/BinaryTree2.c	/^void MakeRightSubTree(BTreeNode * main, BTreeNode * sub)$/;"	f
+MakeRightSubTree	Data_Structure_Src/Ch08/ExpressionTree/BinaryTree2.c	/^void MakeRightSubTree(BTreeNode * main, BTreeNode * sub)$/;"	f
+MakeRightSubTree	Data_Structure_Src/Ch08/Prob08-1/BinaryTree2.c	/^void MakeRightSubTree(BTreeNode * main, BTreeNode * sub)$/;"	f
+MakeRightSubTree	Data_Structure_Src/Ch08/Prob08-2/BinaryTree2.c	/^void MakeRightSubTree(BTreeNode * main, BTreeNode * sub)$/;"	f
+MakeRightSubTree	Data_Structure_Src/Ch11/BinarySearchTree/BinaryTree2.c	/^void MakeRightSubTree(BTreeNode * main, BTreeNode * sub)$/;"	f
+MakeRightSubTree	Data_Structure_Src/Ch11/BinarySearchTreeDelAdded/BinaryTree3.c	/^void MakeRightSubTree(BTreeNode * main, BTreeNode * sub)$/;"	f
+MakeRightSubTree	Data_Structure_Src/Ch12/AVLTree/BinaryTree3.c	/^void MakeRightSubTree(BTreeNode * main, BTreeNode * sub)$/;"	f
+MedianOfThree	Data_Structure_Src/Ch10/Prob10-1/MOTQuickSort.c	/^int MedianOfThree(int arr[], int left, int right)$/;"	f
+MergeSort	Data_Structure_Src/Ch10/MergeSort.c	/^void MergeSort(int arr[], int left, int right)$/;"	f
+MergeTwoArea	Data_Structure_Src/Ch10/MergeSort.c	/^void MergeTwoArea(int arr[], int left, int mid, int right)$/;"	f
+MyHashFunc	Data_Structure_Src/Ch13/ChainedHashTable/ChainedTableMain.c	/^int MyHashFunc(int k)$/;"	f
+MyHashFunc	Data_Structure_Src/Ch13/SimpleHashTable/SimpleHashMain.c	/^int MyHashFunc(int k)$/;"	f
+NAME_LEN	Data_Structure_Src/Ch03/Prob03-2/NameCard.h	/^#define NAME_LEN	/;"	d
+NameCard	Data_Structure_Src/Ch03/Prob03-2/NameCard.h	/^} NameCard;$/;"	t	typeref:struct:__namecard
+NameCompare	Data_Structure_Src/Ch03/Prob03-2/NameCard.c	/^int NameCompare(NameCard * pcard, char * name)$/;"	f
+NextPosIdx	Data_Structure_Src/Ch07/CircularQueue/CircularQueue.c	/^int NextPosIdx(int pos)$/;"	f
+NextPosIdx	Data_Structure_Src/Ch07/HamburgerSim/CircularQueue.c	/^int NextPosIdx(int pos)$/;"	f
+NextPosIdx	Data_Structure_Src/Ch14/ALGraphBFS/CircularQueue.c	/^int NextPosIdx(int pos)$/;"	f
+Node	Data_Structure_Src/Ch04/DLinkedList/DLinkedList.h	/^} Node;$/;"	t	typeref:struct:_node
+Node	Data_Structure_Src/Ch04/DLinkedListSort/DLinkedList.h	/^} Node;$/;"	t	typeref:struct:_node
+Node	Data_Structure_Src/Ch04/LinkedRead.c	/^} Node;$/;"	t	typeref:struct:_node	file:
+Node	Data_Structure_Src/Ch04/Prob04-1/HeadAddLinkedRead.c	/^} Node;$/;"	t	typeref:struct:_node	file:
+Node	Data_Structure_Src/Ch04/Prob04-2/DLinkedRead.c	/^} Node;$/;"	t	typeref:struct:_node	file:
+Node	Data_Structure_Src/Ch04/Prob04-3/DLinkedList.h	/^} Node;$/;"	t	typeref:struct:_node
+Node	Data_Structure_Src/Ch04/Prob04-4/DLinkedList.h	/^} Node;$/;"	t	typeref:struct:_node
+Node	Data_Structure_Src/Ch05/CircularLinkedList/CLinkedList.h	/^} Node;$/;"	t	typeref:struct:_node
+Node	Data_Structure_Src/Ch05/DublyLinkedList/DBLinkedList.h	/^} Node;$/;"	t	typeref:struct:_node
+Node	Data_Structure_Src/Ch05/Prob05-1/CLinkedList.h	/^} Node;$/;"	t	typeref:struct:_node
+Node	Data_Structure_Src/Ch05/Prob05-2/DBDLinkedList.h	/^} Node;$/;"	t	typeref:struct:_node
+Node	Data_Structure_Src/Ch06/InfixCalculator/ListBaseStack.h	/^} Node;$/;"	t	typeref:struct:_node
+Node	Data_Structure_Src/Ch06/InfixToPostfix/ListBaseStack.h	/^} Node;$/;"	t	typeref:struct:_node
+Node	Data_Structure_Src/Ch06/ListBaseStack/ListBaseStack.h	/^} Node;$/;"	t	typeref:struct:_node
+Node	Data_Structure_Src/Ch06/PostCalculator/ListBaseStack.h	/^} Node;$/;"	t	typeref:struct:_node
+Node	Data_Structure_Src/Ch06/Prob06-1/CLinkedList.h	/^} Node;$/;"	t	typeref:struct:_node
+Node	Data_Structure_Src/Ch07/Deque/Deque.h	/^} Node;$/;"	t	typeref:struct:_node
+Node	Data_Structure_Src/Ch07/ListBaseQueue/ListBaseQueue.h	/^} Node;$/;"	t	typeref:struct:_node
+Node	Data_Structure_Src/Ch07/Prob07-1/Deque.h	/^} Node;$/;"	t	typeref:struct:_node
+Node	Data_Structure_Src/Ch08/ExpressionTree/ListBaseStack.h	/^} Node;$/;"	t	typeref:struct:_node
+Node	Data_Structure_Src/Ch08/Prob08-2/ListBaseStack.h	/^} Node;$/;"	t	typeref:struct:_node
+Node	Data_Structure_Src/Ch10/RadixSort/ListBaseQueue.h	/^} Node;$/;"	t	typeref:struct:_node
+Node	Data_Structure_Src/Ch13/ChainedHashTable/DLinkedList.h	/^} Node;$/;"	t	typeref:struct:_node
+Node	Data_Structure_Src/Ch14/ALGraph/DLinkedList.h	/^} Node;$/;"	t	typeref:struct:_node
+Node	Data_Structure_Src/Ch14/ALGraphBFS/DLinkedList.h	/^} Node;$/;"	t	typeref:struct:_node
+Node	Data_Structure_Src/Ch14/ALGraphDFS/DLinkedList.h	/^} Node;$/;"	t	typeref:struct:_node
+Node	Data_Structure_Src/Ch14/ALGraphKruskal/DLinkedList.h	/^} Node;$/;"	t	typeref:struct:_node
+Node	Data_Structure_Src/Ch14/Prob14-2/DLinkedList.h	/^} Node;$/;"	t	typeref:struct:_node
+PDequeue	Data_Structure_Src/Ch09/PriorityQueue/PriorityQueue.c	/^PQData PDequeue(PQueue * ppq)$/;"	f
+PDequeue	Data_Structure_Src/Ch09/Prob09-1/PriorityQueue.c	/^PQData PDequeue(PQueue * ppq)$/;"	f
+PDequeue	Data_Structure_Src/Ch14/ALGraphKruskal/PriorityQueue.c	/^PQData PDequeue(PQueue * ppq)$/;"	f
+PEnqueue	Data_Structure_Src/Ch09/PriorityQueue/PriorityQueue.c	/^void PEnqueue(PQueue * ppq, PQData data)$/;"	f
+PEnqueue	Data_Structure_Src/Ch09/Prob09-1/PriorityQueue.c	/^void PEnqueue(PQueue * ppq, PQData data)$/;"	f
+PEnqueue	Data_Structure_Src/Ch14/ALGraphKruskal/PriorityQueue.c	/^void PEnqueue(PQueue * ppq, PQData data)$/;"	f
+PHONE_LEN	Data_Structure_Src/Ch03/Prob03-2/NameCard.h	/^#define PHONE_LEN	/;"	d
+PQData	Data_Structure_Src/Ch09/PriorityQueue/PriorityQueue.h	/^typedef HData PQData;$/;"	t
+PQData	Data_Structure_Src/Ch09/Prob09-1/PriorityQueue.h	/^typedef HData PQData;$/;"	t
+PQData	Data_Structure_Src/Ch14/ALGraphKruskal/PriorityQueue.h	/^typedef HData PQData;$/;"	t
+PQIsEmpty	Data_Structure_Src/Ch09/PriorityQueue/PriorityQueue.c	/^int PQIsEmpty(PQueue * ppq)$/;"	f
+PQIsEmpty	Data_Structure_Src/Ch09/Prob09-1/PriorityQueue.c	/^int PQIsEmpty(PQueue * ppq)$/;"	f
+PQIsEmpty	Data_Structure_Src/Ch14/ALGraphKruskal/PriorityQueue.c	/^int PQIsEmpty(PQueue * ppq)$/;"	f
+PQWeightComp	Data_Structure_Src/Ch14/ALGraphKruskal/ALGraphKruskal.c	/^int PQWeightComp(Edge d1, Edge d2)$/;"	f
+PQueue	Data_Structure_Src/Ch09/PriorityQueue/PriorityQueue.h	/^typedef Heap PQueue;$/;"	t
+PQueue	Data_Structure_Src/Ch09/Prob09-1/PriorityQueue.h	/^typedef Heap PQueue;$/;"	t
+PQueue	Data_Structure_Src/Ch14/ALGraphKruskal/PriorityQueue.h	/^typedef Heap PQueue;$/;"	t
+PQueueInit	Data_Structure_Src/Ch09/PriorityQueue/PriorityQueue.c	/^void PQueueInit(PQueue * ppq, PriorityComp pc)$/;"	f
+PQueueInit	Data_Structure_Src/Ch09/Prob09-1/PriorityQueue.c	/^void PQueueInit(PQueue * ppq, PriorityComp pc)$/;"	f
+PQueueInit	Data_Structure_Src/Ch14/ALGraphKruskal/PriorityQueue.c	/^void PQueueInit(PQueue * ppq, PriorityComp pc)$/;"	f
+Partition	Data_Structure_Src/Ch10/Prob10-1/MOTQuickSort.c	/^int Partition(int arr[], int left, int right)$/;"	f
+Partition	Data_Structure_Src/Ch10/Prob10-1/QuickSort.c	/^int Partition(int arr[], int left, int right)$/;"	f
+Partition	Data_Structure_Src/Ch10/QuickSort.c	/^int Partition(int arr[], int left, int right)$/;"	f
+Person	Data_Structure_Src/Ch13/ChainedHashTable/Person.h	/^} Person;$/;"	t	typeref:struct:_person
+Person	Data_Structure_Src/Ch13/SimpleHashTable/Person.h	/^} Person;$/;"	t	typeref:struct:_person
+Point	Data_Structure_Src/Ch03/ArrayListPointStructBase/Point.h	/^} Point;$/;"	t	typeref:struct:_point
+Point	Data_Structure_Src/Ch04/Prob04-3/Point.h	/^} Point;$/;"	t	typeref:struct:_point
+Point	Data_Structure_Src/Ch04/Prob04-4/Point.h	/^} Point;$/;"	t	typeref:struct:_point
+PointComp	Data_Structure_Src/Ch03/ArrayListPointStructBase/Point.c	/^int PointComp(Point * pos1, Point * pos2)$/;"	f
+PointComp	Data_Structure_Src/Ch04/Prob04-3/Point.c	/^int PointComp(Point * pos1, Point * pos2)$/;"	f
+PointComp	Data_Structure_Src/Ch04/Prob04-4/Point.c	/^int PointComp(Point * pos1, Point * pos2)$/;"	f
+PostorderTraverse	Data_Structure_Src/Ch08/BinaryTreeTraversalAdded/BinaryTree2.c	/^void PostorderTraverse(BTreeNode * bt, VisitFuncPtr action)$/;"	f
+PostorderTraverse	Data_Structure_Src/Ch08/ExpressionTree/BinaryTree2.c	/^void PostorderTraverse(BTreeNode * bt, VisitFuncPtr action)$/;"	f
+PostorderTraverse	Data_Structure_Src/Ch08/Prob08-1/BinaryTree2.c	/^void PostorderTraverse(BTreeNode * bt, VisitFuncPtr action)$/;"	f
+PostorderTraverse	Data_Structure_Src/Ch08/Prob08-2/BinaryTree2.c	/^void PostorderTraverse(BTreeNode * bt, VisitFuncPtr action)$/;"	f
+PostorderTraverse	Data_Structure_Src/Ch11/BinarySearchTree/BinaryTree2.c	/^void PostorderTraverse(BTreeNode * bt, VisitFuncPtr action)$/;"	f
+PostorderTraverse	Data_Structure_Src/Ch11/BinarySearchTreeDelAdded/BinaryTree3.c	/^void PostorderTraverse(BTreeNode * bt, VisitFuncPtr action)$/;"	f
+PostorderTraverse	Data_Structure_Src/Ch12/AVLTree/BinaryTree3.c	/^void PostorderTraverse(BTreeNode * bt, VisitFuncPtr action)$/;"	f
+PreorderTraverse	Data_Structure_Src/Ch08/BinaryTreeTraversalAdded/BinaryTree2.c	/^void PreorderTraverse(BTreeNode * bt, VisitFuncPtr action)$/;"	f
+PreorderTraverse	Data_Structure_Src/Ch08/ExpressionTree/BinaryTree2.c	/^void PreorderTraverse(BTreeNode * bt, VisitFuncPtr action)$/;"	f
+PreorderTraverse	Data_Structure_Src/Ch08/Prob08-1/BinaryTree2.c	/^void PreorderTraverse(BTreeNode * bt, VisitFuncPtr action)$/;"	f
+PreorderTraverse	Data_Structure_Src/Ch08/Prob08-2/BinaryTree2.c	/^void PreorderTraverse(BTreeNode * bt, VisitFuncPtr action)$/;"	f
+PreorderTraverse	Data_Structure_Src/Ch11/BinarySearchTree/BinaryTree2.c	/^void PreorderTraverse(BTreeNode * bt, VisitFuncPtr action)$/;"	f
+PreorderTraverse	Data_Structure_Src/Ch11/BinarySearchTreeDelAdded/BinaryTree3.c	/^void PreorderTraverse(BTreeNode * bt, VisitFuncPtr action)$/;"	f
+PreorderTraverse	Data_Structure_Src/Ch12/AVLTree/BinaryTree3.c	/^void PreorderTraverse(BTreeNode * bt, VisitFuncPtr action)$/;"	f
+PriComp	Data_Structure_Src/Ch10/HeapSort/HeapSort.c	/^int PriComp(int n1, int n2)$/;"	f
+Priority	Data_Structure_Src/Ch09/SimpleHeap/SimpleHeap.h	/^typedef int Priority;$/;"	t
+PriorityComp	Data_Structure_Src/Ch09/PriorityQueue/UsefulHeap.h	/^typedef int PriorityComp(HData d1, HData d2);$/;"	t
+PriorityComp	Data_Structure_Src/Ch09/Prob09-1/UsefulHeap.h	/^typedef int PriorityComp(HData d1, HData d2);$/;"	t
+PriorityComp	Data_Structure_Src/Ch09/UsefulHeap/UsefulHeap.h	/^typedef int PriorityComp(HData d1, HData d2);$/;"	t
+PriorityComp	Data_Structure_Src/Ch10/HeapSort/UsefulHeap.h	/^typedef int PriorityComp(HData d1, HData d2);$/;"	t
+PriorityComp	Data_Structure_Src/Ch14/ALGraphKruskal/UsefulHeap.h	/^typedef int PriorityComp(HData d1, HData d2);$/;"	t
+QIsEmpty	Data_Structure_Src/Ch07/CircularQueue/CircularQueue.c	/^int QIsEmpty(Queue * pq)$/;"	f
+QIsEmpty	Data_Structure_Src/Ch07/HamburgerSim/CircularQueue.c	/^int QIsEmpty(Queue * pq)$/;"	f
+QIsEmpty	Data_Structure_Src/Ch07/ListBaseQueue/ListBaseQueue.c	/^int QIsEmpty(Queue * pq)$/;"	f
+QIsEmpty	Data_Structure_Src/Ch07/Prob07-1/DequeBaseQueue.c	/^int QIsEmpty(Queue * pq)$/;"	f
+QIsEmpty	Data_Structure_Src/Ch10/RadixSort/ListBaseQueue.c	/^int QIsEmpty(Queue * pq)$/;"	f
+QIsEmpty	Data_Structure_Src/Ch14/ALGraphBFS/CircularQueue.c	/^int QIsEmpty(Queue * pq)$/;"	f
+QPeek	Data_Structure_Src/Ch07/CircularQueue/CircularQueue.c	/^Data QPeek(Queue * pq)$/;"	f
+QPeek	Data_Structure_Src/Ch07/HamburgerSim/CircularQueue.c	/^Data QPeek(Queue * pq)$/;"	f
+QPeek	Data_Structure_Src/Ch07/ListBaseQueue/ListBaseQueue.c	/^Data QPeek(Queue * pq)$/;"	f
+QPeek	Data_Structure_Src/Ch07/Prob07-1/DequeBaseQueue.c	/^Data QPeek(Queue * pq)$/;"	f
+QPeek	Data_Structure_Src/Ch10/RadixSort/ListBaseQueue.c	/^Data QPeek(Queue * pq)$/;"	f
+QPeek	Data_Structure_Src/Ch14/ALGraphBFS/CircularQueue.c	/^Data QPeek(Queue * pq)$/;"	f
+QUE_LEN	Data_Structure_Src/Ch07/CircularQueue/CircularQueue.h	/^#define QUE_LEN	/;"	d
+QUE_LEN	Data_Structure_Src/Ch07/HamburgerSim/CircularQueue.h	/^#define QUE_LEN	/;"	d
+QUE_LEN	Data_Structure_Src/Ch14/ALGraphBFS/CircularQueue.h	/^#define QUE_LEN	/;"	d
+Queue	Data_Structure_Src/Ch07/CircularQueue/CircularQueue.h	/^typedef CQueue Queue;$/;"	t
+Queue	Data_Structure_Src/Ch07/HamburgerSim/CircularQueue.h	/^typedef CQueue Queue;$/;"	t
+Queue	Data_Structure_Src/Ch07/ListBaseQueue/ListBaseQueue.h	/^typedef LQueue Queue;$/;"	t
+Queue	Data_Structure_Src/Ch07/Prob07-1/DequeBaseQueue.h	/^typedef Deque Queue;$/;"	t
+Queue	Data_Structure_Src/Ch10/RadixSort/ListBaseQueue.h	/^typedef LQueue Queue;$/;"	t
+Queue	Data_Structure_Src/Ch14/ALGraphBFS/CircularQueue.h	/^typedef CQueue Queue;$/;"	t
+QueueInit	Data_Structure_Src/Ch07/CircularQueue/CircularQueue.c	/^void QueueInit(Queue * pq)$/;"	f
+QueueInit	Data_Structure_Src/Ch07/HamburgerSim/CircularQueue.c	/^void QueueInit(Queue * pq)$/;"	f
+QueueInit	Data_Structure_Src/Ch07/ListBaseQueue/ListBaseQueue.c	/^void QueueInit(Queue * pq)$/;"	f
+QueueInit	Data_Structure_Src/Ch07/Prob07-1/DequeBaseQueue.c	/^void QueueInit(Queue * pq)$/;"	f
+QueueInit	Data_Structure_Src/Ch10/RadixSort/ListBaseQueue.c	/^void QueueInit(Queue * pq)$/;"	f
+QueueInit	Data_Structure_Src/Ch14/ALGraphBFS/CircularQueue.c	/^void QueueInit(Queue * pq)$/;"	f
+QuickSort	Data_Structure_Src/Ch10/Prob10-1/MOTQuickSort.c	/^void QuickSort(int arr[], int left, int right)$/;"	f
+QuickSort	Data_Structure_Src/Ch10/Prob10-1/QuickSort.c	/^void QuickSort(int arr[], int left, int right)$/;"	f
+QuickSort	Data_Structure_Src/Ch10/QuickSort.c	/^void QuickSort(int arr[], int left, int right)$/;"	f
+RadixSort	Data_Structure_Src/Ch10/RadixSort/RadixSort.c	/^void RadixSort(int arr[], int num, int maxLen)   \/\/ maxLen은 가장 긴 데이터의 길이$/;"	f
+Rebalance	Data_Structure_Src/Ch12/AVLTree/AVLRebalance.c	/^BTreeNode * Rebalance(BTreeNode ** pRoot)$/;"	f
+RecoverEdge	Data_Structure_Src/Ch14/ALGraphKruskal/ALGraphKruskal.c	/^void RecoverEdge(ALGraph * pg, int fromV, int toV, int weight)$/;"	f
+Recursive	Data_Structure_Src/Ch02/RecursiveFunc.c	/^void Recursive(int num)$/;"	f
+RemoveEdge	Data_Structure_Src/Ch14/ALGraphKruskal/ALGraphKruskal.c	/^void RemoveEdge(ALGraph * pg, int fromV, int toV)$/;"	f
+RemoveLeftSubTree	Data_Structure_Src/Ch11/BinarySearchTreeDelAdded/BinaryTree3.c	/^BTreeNode * RemoveLeftSubTree(BTreeNode * bt)$/;"	f
+RemoveLeftSubTree	Data_Structure_Src/Ch12/AVLTree/BinaryTree3.c	/^BTreeNode * RemoveLeftSubTree(BTreeNode * bt)$/;"	f
+RemoveRightSubTree	Data_Structure_Src/Ch11/BinarySearchTreeDelAdded/BinaryTree3.c	/^BTreeNode * RemoveRightSubTree(BTreeNode * bt)$/;"	f
+RemoveRightSubTree	Data_Structure_Src/Ch12/AVLTree/BinaryTree3.c	/^BTreeNode * RemoveRightSubTree(BTreeNode * bt)$/;"	f
+RemoveWayEdge	Data_Structure_Src/Ch14/ALGraphKruskal/ALGraphKruskal.c	/^void RemoveWayEdge(ALGraph * pg, int fromV, int toV)$/;"	f
+RotateLL	Data_Structure_Src/Ch12/AVLTree/AVLRebalance.c	/^BTreeNode * RotateLL(BTreeNode * bst)$/;"	f
+RotateLR	Data_Structure_Src/Ch12/AVLTree/AVLRebalance.c	/^BTreeNode * RotateLR(BTreeNode * bst)$/;"	f
+RotateRL	Data_Structure_Src/Ch12/AVLTree/AVLRebalance.c	/^BTreeNode * RotateRL(BTreeNode * bst)$/;"	f
+RotateRR	Data_Structure_Src/Ch12/AVLTree/AVLRebalance.c	/^BTreeNode * RotateRR(BTreeNode * bst)$/;"	f
+SInsert	Data_Structure_Src/Ch04/DLinkedList/DLinkedList.c	/^void SInsert(List * plist, LData data)$/;"	f
+SInsert	Data_Structure_Src/Ch04/DLinkedListSort/DLinkedList.c	/^void SInsert(List * plist, LData data)$/;"	f
+SInsert	Data_Structure_Src/Ch04/Prob04-3/DLinkedList.c	/^void SInsert(List * plist, LData data)$/;"	f
+SInsert	Data_Structure_Src/Ch04/Prob04-4/DLinkedList.c	/^void SInsert(List * plist, LData data)$/;"	f
+SInsert	Data_Structure_Src/Ch13/ChainedHashTable/DLinkedList.c	/^void SInsert(List * plist, LData data)$/;"	f
+SInsert	Data_Structure_Src/Ch14/ALGraph/DLinkedList.c	/^void SInsert(List * plist, LData data)$/;"	f
+SInsert	Data_Structure_Src/Ch14/ALGraphBFS/DLinkedList.c	/^void SInsert(List * plist, LData data)$/;"	f
+SInsert	Data_Structure_Src/Ch14/ALGraphDFS/DLinkedList.c	/^void SInsert(List * plist, LData data)$/;"	f
+SInsert	Data_Structure_Src/Ch14/ALGraphKruskal/DLinkedList.c	/^void SInsert(List * plist, LData data)$/;"	f
+SInsert	Data_Structure_Src/Ch14/Prob14-2/DLinkedList.c	/^void SInsert(List * plist, LData data)$/;"	f
+SIsEmpty	Data_Structure_Src/Ch06/ArrayBaseStack/ArrayBaseStack.c	/^int SIsEmpty(Stack * pstack)$/;"	f
+SIsEmpty	Data_Structure_Src/Ch06/InfixCalculator/ListBaseStack.c	/^int SIsEmpty(Stack * pstack)$/;"	f
+SIsEmpty	Data_Structure_Src/Ch06/InfixToPostfix/ListBaseStack.c	/^int SIsEmpty(Stack * pstack)$/;"	f
+SIsEmpty	Data_Structure_Src/Ch06/ListBaseStack/ListBaseStack.c	/^int SIsEmpty(Stack * pstack)$/;"	f
+SIsEmpty	Data_Structure_Src/Ch06/PostCalculator/ListBaseStack.c	/^int SIsEmpty(Stack * pstack)$/;"	f
+SIsEmpty	Data_Structure_Src/Ch06/Prob06-1/CLLBaseStack.c	/^int SIsEmpty(Stack * pstack)$/;"	f
+SIsEmpty	Data_Structure_Src/Ch08/ExpressionTree/ListBaseStack.c	/^int SIsEmpty(Stack * pstack)$/;"	f
+SIsEmpty	Data_Structure_Src/Ch08/Prob08-2/ListBaseStack.c	/^int SIsEmpty(Stack * pstack)$/;"	f
+SIsEmpty	Data_Structure_Src/Ch14/ALGraphDFS/ArrayBaseStack.c	/^int SIsEmpty(Stack * pstack)$/;"	f
+SIsEmpty	Data_Structure_Src/Ch14/ALGraphKruskal/ArrayBaseStack.c	/^int SIsEmpty(Stack * pstack)$/;"	f
+SIsEmpty	Data_Structure_Src/Ch14/Prob14-2/ArrayBaseStack.c	/^int SIsEmpty(Stack * pstack)$/;"	f
+SPeek	Data_Structure_Src/Ch06/ArrayBaseStack/ArrayBaseStack.c	/^Data SPeek(Stack * pstack)$/;"	f
+SPeek	Data_Structure_Src/Ch06/InfixCalculator/ListBaseStack.c	/^Data SPeek(Stack * pstack)$/;"	f
+SPeek	Data_Structure_Src/Ch06/InfixToPostfix/ListBaseStack.c	/^Data SPeek(Stack * pstack)$/;"	f
+SPeek	Data_Structure_Src/Ch06/ListBaseStack/ListBaseStack.c	/^Data SPeek(Stack * pstack)$/;"	f
+SPeek	Data_Structure_Src/Ch06/PostCalculator/ListBaseStack.c	/^Data SPeek(Stack * pstack)$/;"	f
+SPeek	Data_Structure_Src/Ch06/Prob06-1/CLLBaseStack.c	/^Data SPeek(Stack * pstack)$/;"	f
+SPeek	Data_Structure_Src/Ch08/ExpressionTree/ListBaseStack.c	/^Data SPeek(Stack * pstack)$/;"	f
+SPeek	Data_Structure_Src/Ch08/Prob08-2/ListBaseStack.c	/^Data SPeek(Stack * pstack)$/;"	f
+SPeek	Data_Structure_Src/Ch14/ALGraphDFS/ArrayBaseStack.c	/^Data SPeek(Stack * pstack)$/;"	f
+SPeek	Data_Structure_Src/Ch14/ALGraphKruskal/ArrayBaseStack.c	/^Data SPeek(Stack * pstack)$/;"	f
+SPeek	Data_Structure_Src/Ch14/Prob14-2/ArrayBaseStack.c	/^Data SPeek(Stack * pstack)$/;"	f
+SPop	Data_Structure_Src/Ch06/ArrayBaseStack/ArrayBaseStack.c	/^Data SPop(Stack * pstack)$/;"	f
+SPop	Data_Structure_Src/Ch06/InfixCalculator/ListBaseStack.c	/^Data SPop(Stack * pstack)$/;"	f
+SPop	Data_Structure_Src/Ch06/InfixToPostfix/ListBaseStack.c	/^Data SPop(Stack * pstack)$/;"	f
+SPop	Data_Structure_Src/Ch06/ListBaseStack/ListBaseStack.c	/^Data SPop(Stack * pstack)$/;"	f
+SPop	Data_Structure_Src/Ch06/PostCalculator/ListBaseStack.c	/^Data SPop(Stack * pstack)$/;"	f
+SPop	Data_Structure_Src/Ch06/Prob06-1/CLLBaseStack.c	/^Data SPop(Stack * pstack)$/;"	f
+SPop	Data_Structure_Src/Ch08/ExpressionTree/ListBaseStack.c	/^Data SPop(Stack * pstack)$/;"	f
+SPop	Data_Structure_Src/Ch08/Prob08-2/ListBaseStack.c	/^Data SPop(Stack * pstack)$/;"	f
+SPop	Data_Structure_Src/Ch14/ALGraphDFS/ArrayBaseStack.c	/^Data SPop(Stack * pstack)$/;"	f
+SPop	Data_Structure_Src/Ch14/ALGraphKruskal/ArrayBaseStack.c	/^Data SPop(Stack * pstack)$/;"	f
+SPop	Data_Structure_Src/Ch14/Prob14-2/ArrayBaseStack.c	/^Data SPop(Stack * pstack)$/;"	f
+SPush	Data_Structure_Src/Ch06/ArrayBaseStack/ArrayBaseStack.c	/^void SPush(Stack * pstack, Data data)$/;"	f
+SPush	Data_Structure_Src/Ch06/InfixCalculator/ListBaseStack.c	/^void SPush(Stack * pstack, Data data)$/;"	f
+SPush	Data_Structure_Src/Ch06/InfixToPostfix/ListBaseStack.c	/^void SPush(Stack * pstack, Data data)$/;"	f
+SPush	Data_Structure_Src/Ch06/ListBaseStack/ListBaseStack.c	/^void SPush(Stack * pstack, Data data)$/;"	f
+SPush	Data_Structure_Src/Ch06/PostCalculator/ListBaseStack.c	/^void SPush(Stack * pstack, Data data)$/;"	f
+SPush	Data_Structure_Src/Ch06/Prob06-1/CLLBaseStack.c	/^void SPush(Stack * pstack, Data data)$/;"	f
+SPush	Data_Structure_Src/Ch08/ExpressionTree/ListBaseStack.c	/^void SPush(Stack * pstack, Data data)$/;"	f
+SPush	Data_Structure_Src/Ch08/Prob08-2/ListBaseStack.c	/^void SPush(Stack * pstack, Data data)$/;"	f
+SPush	Data_Structure_Src/Ch14/ALGraphDFS/ArrayBaseStack.c	/^void SPush(Stack * pstack, Data data)$/;"	f
+SPush	Data_Structure_Src/Ch14/ALGraphKruskal/ArrayBaseStack.c	/^void SPush(Stack * pstack, Data data)$/;"	f
+SPush	Data_Structure_Src/Ch14/Prob14-2/ArrayBaseStack.c	/^void SPush(Stack * pstack, Data data)$/;"	f
+STACK_LEN	Data_Structure_Src/Ch06/ArrayBaseStack/ArrayBaseStack.h	/^#define STACK_LEN	/;"	d
+STACK_LEN	Data_Structure_Src/Ch14/ALGraphDFS/ArrayBaseStack.h	/^#define STACK_LEN	/;"	d
+STACK_LEN	Data_Structure_Src/Ch14/ALGraphKruskal/ArrayBaseStack.h	/^#define STACK_LEN	/;"	d
+STACK_LEN	Data_Structure_Src/Ch14/Prob14-2/ArrayBaseStack.h	/^#define STACK_LEN	/;"	d
+STR_LEN	Data_Structure_Src/Ch13/ChainedHashTable/Person.h	/^#define STR_LEN /;"	d
+STR_LEN	Data_Structure_Src/Ch13/SimpleHashTable/Person.h	/^#define STR_LEN /;"	d
+SelSort	Data_Structure_Src/Ch10/SelectionSort.c	/^void SelSort(int arr[], int n)$/;"	f
+SetData	Data_Structure_Src/Ch08/BinaryTree/BinaryTree.c	/^void SetData(BTreeNode * bt, BTData data)$/;"	f
+SetData	Data_Structure_Src/Ch08/BinaryTreeTraversalAdded/BinaryTree2.c	/^void SetData(BTreeNode * bt, BTData data)$/;"	f
+SetData	Data_Structure_Src/Ch08/ExpressionTree/BinaryTree2.c	/^void SetData(BTreeNode * bt, BTData data)$/;"	f
+SetData	Data_Structure_Src/Ch08/Prob08-1/BinaryTree2.c	/^void SetData(BTreeNode * bt, BTData data)$/;"	f
+SetData	Data_Structure_Src/Ch08/Prob08-2/BinaryTree2.c	/^void SetData(BTreeNode * bt, BTData data)$/;"	f
+SetData	Data_Structure_Src/Ch11/BinarySearchTree/BinaryTree2.c	/^void SetData(BTreeNode * bt, BTData data)$/;"	f
+SetData	Data_Structure_Src/Ch11/BinarySearchTreeDelAdded/BinaryTree3.c	/^void SetData(BTreeNode * bt, BTData data)$/;"	f
+SetData	Data_Structure_Src/Ch12/AVLTree/BinaryTree3.c	/^void SetData(BTreeNode * bt, BTData data)$/;"	f
+SetPointPos	Data_Structure_Src/Ch03/ArrayListPointStructBase/Point.c	/^void SetPointPos(Point * ppos, int xpos, int ypos)$/;"	f
+SetPointPos	Data_Structure_Src/Ch04/Prob04-3/Point.c	/^void SetPointPos(Point * ppos, int xpos, int ypos)$/;"	f
+SetPointPos	Data_Structure_Src/Ch04/Prob04-4/Point.c	/^void SetPointPos(Point * ppos, int xpos, int ypos)$/;"	f
+SetSortRule	Data_Structure_Src/Ch04/DLinkedList/DLinkedList.c	/^void SetSortRule(List * plist, int (*comp)(LData d1, LData d2))$/;"	f
+SetSortRule	Data_Structure_Src/Ch04/DLinkedListSort/DLinkedList.c	/^void SetSortRule(List * plist, int (*comp)(LData d1, LData d2))$/;"	f
+SetSortRule	Data_Structure_Src/Ch04/Prob04-3/DLinkedList.c	/^void SetSortRule(List * plist, int (*comp)(LData d1, LData d2))$/;"	f
+SetSortRule	Data_Structure_Src/Ch04/Prob04-4/DLinkedList.c	/^void SetSortRule(List * plist, int (*comp)(LData d1, LData d2))$/;"	f
+SetSortRule	Data_Structure_Src/Ch13/ChainedHashTable/DLinkedList.c	/^void SetSortRule(List * plist, int (*comp)(LData d1, LData d2))$/;"	f
+SetSortRule	Data_Structure_Src/Ch14/ALGraph/DLinkedList.c	/^void SetSortRule(List * plist, int (*comp)(LData d1, LData d2))$/;"	f
+SetSortRule	Data_Structure_Src/Ch14/ALGraphBFS/DLinkedList.c	/^void SetSortRule(List * plist, int (*comp)(LData d1, LData d2))$/;"	f
+SetSortRule	Data_Structure_Src/Ch14/ALGraphDFS/DLinkedList.c	/^void SetSortRule(List * plist, int (*comp)(LData d1, LData d2))$/;"	f
+SetSortRule	Data_Structure_Src/Ch14/ALGraphKruskal/DLinkedList.c	/^void SetSortRule(List * plist, int (*comp)(LData d1, LData d2))$/;"	f
+SetSortRule	Data_Structure_Src/Ch14/Prob14-2/DLinkedList.c	/^void SetSortRule(List * plist, int (*comp)(LData d1, LData d2))$/;"	f
+ShowEmployeeInfo	Data_Structure_Src/Ch05/Prob05-1/NightDutyMain.c	/^void ShowEmployeeInfo(Employee * emp)$/;"	f
+ShowGraphEdgeInfo	Data_Structure_Src/Ch14/ALGraph/ALGraph.c	/^void ShowGraphEdgeInfo(ALGraph * pg)$/;"	f
+ShowGraphEdgeInfo	Data_Structure_Src/Ch14/ALGraphBFS/ALGraphBFS.c	/^void ShowGraphEdgeInfo(ALGraph * pg)$/;"	f
+ShowGraphEdgeInfo	Data_Structure_Src/Ch14/ALGraphDFS/ALGraphDFS.c	/^void ShowGraphEdgeInfo(ALGraph * pg)$/;"	f
+ShowGraphEdgeInfo	Data_Structure_Src/Ch14/ALGraphKruskal/ALGraphKruskal.c	/^void ShowGraphEdgeInfo(ALGraph * pg)$/;"	f
+ShowGraphEdgeInfo	Data_Structure_Src/Ch14/Prob14-2/ALGraphDFS.c	/^void ShowGraphEdgeInfo(ALGraph * pg)$/;"	f
+ShowGraphEdgeWeightInfo	Data_Structure_Src/Ch14/ALGraphKruskal/ALGraphKruskal.c	/^void ShowGraphEdgeWeightInfo(ALGraph * pg)$/;"	f
+ShowInfixTypeExp	Data_Structure_Src/Ch08/ExpressionTree/ExpressionTree.c	/^void ShowInfixTypeExp(BTreeNode * bt)$/;"	f
+ShowInfixTypeExp	Data_Structure_Src/Ch08/Prob08-2/ExpressionTree.c	/^void ShowInfixTypeExp(BTreeNode * bt)$/;"	f
+ShowIntData	Data_Structure_Src/Ch08/BinaryTreeTraversalAdded/BinaryTreeMain2.c	/^void ShowIntData(int data)$/;"	f
+ShowIntData	Data_Structure_Src/Ch08/Prob08-1/BinaryTreeDeleteMain.c	/^void ShowIntData(int data)$/;"	f
+ShowIntData	Data_Structure_Src/Ch11/BinarySearchTreeDelAdded/BinarySearchTree2.c	/^void ShowIntData(int data)$/;"	f
+ShowIntData	Data_Structure_Src/Ch12/AVLTree/BinarySearchTree3.c	/^void ShowIntData(int data)$/;"	f
+ShowNameCardInfo	Data_Structure_Src/Ch03/Prob03-2/NameCard.c	/^void ShowNameCardInfo(NameCard * pcard)$/;"	f
+ShowNodeData	Data_Structure_Src/Ch08/ExpressionTree/ExpressionTree.c	/^void ShowNodeData(int data)$/;"	f
+ShowNodeData	Data_Structure_Src/Ch08/Prob08-2/ExpressionTree.c	/^void ShowNodeData(int data)$/;"	f
+ShowPerInfo	Data_Structure_Src/Ch13/ChainedHashTable/Person.c	/^void ShowPerInfo(Person * p)$/;"	f
+ShowPerInfo	Data_Structure_Src/Ch13/SimpleHashTable/Person.c	/^void ShowPerInfo(Person * p)$/;"	f
+ShowPointPos	Data_Structure_Src/Ch03/ArrayListPointStructBase/Point.c	/^void ShowPointPos(Point * ppos)$/;"	f
+ShowPointPos	Data_Structure_Src/Ch04/Prob04-3/Point.c	/^void ShowPointPos(Point * ppos)$/;"	f
+ShowPointPos	Data_Structure_Src/Ch04/Prob04-4/Point.c	/^void ShowPointPos(Point * ppos)$/;"	f
+ShowPostfixTypeExp	Data_Structure_Src/Ch08/ExpressionTree/ExpressionTree.c	/^void ShowPostfixTypeExp(BTreeNode * bt)$/;"	f
+ShowPostfixTypeExp	Data_Structure_Src/Ch08/Prob08-2/ExpressionTree.c	/^void ShowPostfixTypeExp(BTreeNode * bt)$/;"	f
+ShowPrefixTypeExp	Data_Structure_Src/Ch08/ExpressionTree/ExpressionTree.c	/^void ShowPrefixTypeExp(BTreeNode * bt)$/;"	f
+ShowPrefixTypeExp	Data_Structure_Src/Ch08/Prob08-2/ExpressionTree.c	/^void ShowPrefixTypeExp(BTreeNode * bt)$/;"	f
+Slot	Data_Structure_Src/Ch13/ChainedHashTable/Slot2.h	/^} Slot;$/;"	t	typeref:struct:_slot
+Slot	Data_Structure_Src/Ch13/SimpleHashTable/Slot.h	/^}Slot;$/;"	t	typeref:struct:_slot
+SlotStatus	Data_Structure_Src/Ch13/SimpleHashTable/Slot.h	/^enum SlotStatus {EMPTY, DELETED, INUSE};$/;"	g
+Stack	Data_Structure_Src/Ch06/ArrayBaseStack/ArrayBaseStack.h	/^typedef ArrayStack Stack;$/;"	t
+Stack	Data_Structure_Src/Ch06/InfixCalculator/ListBaseStack.h	/^typedef ListStack Stack;$/;"	t
+Stack	Data_Structure_Src/Ch06/InfixToPostfix/ListBaseStack.h	/^typedef ListStack Stack;$/;"	t
+Stack	Data_Structure_Src/Ch06/ListBaseStack/ListBaseStack.h	/^typedef ListStack Stack;$/;"	t
+Stack	Data_Structure_Src/Ch06/PostCalculator/ListBaseStack.h	/^typedef ListStack Stack;$/;"	t
+Stack	Data_Structure_Src/Ch06/Prob06-1/CLLBaseStack.h	/^typedef ListStack Stack;$/;"	t
+Stack	Data_Structure_Src/Ch08/ExpressionTree/ListBaseStack.h	/^typedef ListStack Stack;$/;"	t
+Stack	Data_Structure_Src/Ch08/Prob08-2/ListBaseStack.h	/^typedef ListStack Stack;$/;"	t
+Stack	Data_Structure_Src/Ch14/ALGraphDFS/ArrayBaseStack.h	/^typedef ArrayStack Stack;$/;"	t
+Stack	Data_Structure_Src/Ch14/ALGraphKruskal/ArrayBaseStack.h	/^typedef ArrayStack Stack;$/;"	t
+Stack	Data_Structure_Src/Ch14/Prob14-2/ArrayBaseStack.h	/^typedef ArrayStack Stack;$/;"	t
+StackInit	Data_Structure_Src/Ch06/ArrayBaseStack/ArrayBaseStack.c	/^void StackInit(Stack * pstack)$/;"	f
+StackInit	Data_Structure_Src/Ch06/InfixCalculator/ListBaseStack.c	/^void StackInit(Stack * pstack)$/;"	f
+StackInit	Data_Structure_Src/Ch06/InfixToPostfix/ListBaseStack.c	/^void StackInit(Stack * pstack)$/;"	f
+StackInit	Data_Structure_Src/Ch06/ListBaseStack/ListBaseStack.c	/^void StackInit(Stack * pstack)$/;"	f
+StackInit	Data_Structure_Src/Ch06/PostCalculator/ListBaseStack.c	/^void StackInit(Stack * pstack)$/;"	f
+StackInit	Data_Structure_Src/Ch06/Prob06-1/CLLBaseStack.c	/^void StackInit(Stack * pstack)$/;"	f
+StackInit	Data_Structure_Src/Ch08/ExpressionTree/ListBaseStack.c	/^void StackInit(Stack * pstack)$/;"	f
+StackInit	Data_Structure_Src/Ch08/Prob08-2/ListBaseStack.c	/^void StackInit(Stack * pstack)$/;"	f
+StackInit	Data_Structure_Src/Ch14/ALGraphDFS/ArrayBaseStack.c	/^void StackInit(Stack * pstack)$/;"	f
+StackInit	Data_Structure_Src/Ch14/ALGraphKruskal/ArrayBaseStack.c	/^void StackInit(Stack * pstack)$/;"	f
+StackInit	Data_Structure_Src/Ch14/Prob14-2/ArrayBaseStack.c	/^void StackInit(Stack * pstack)$/;"	f
+Swap	Data_Structure_Src/Ch10/Prob10-1/MOTQuickSort.c	/^void Swap(int arr[], int idx1, int idx2)$/;"	f
+Swap	Data_Structure_Src/Ch10/Prob10-1/QuickSort.c	/^void Swap(int arr[], int idx1, int idx2)$/;"	f
+Swap	Data_Structure_Src/Ch10/QuickSort.c	/^void Swap(int arr[], int idx1, int idx2)$/;"	f
+TBLDelete	Data_Structure_Src/Ch13/ChainedHashTable/Table2.c	/^Value TBLDelete(Table * pt, Key k)$/;"	f
+TBLDelete	Data_Structure_Src/Ch13/SimpleHashTable/Table.c	/^Value TBLDelete(Table * pt, Key k)$/;"	f
+TBLInit	Data_Structure_Src/Ch13/ChainedHashTable/Table2.c	/^void TBLInit(Table * pt, HashFunc * f)$/;"	f
+TBLInit	Data_Structure_Src/Ch13/SimpleHashTable/Table.c	/^void TBLInit(Table * pt, HashFunc * f)$/;"	f
+TBLInsert	Data_Structure_Src/Ch13/ChainedHashTable/Table2.c	/^void TBLInsert(Table * pt, Key k, Value v)$/;"	f
+TBLInsert	Data_Structure_Src/Ch13/SimpleHashTable/Table.c	/^void TBLInsert(Table * pt, Key k, Value v)$/;"	f
+TBLSearch	Data_Structure_Src/Ch13/ChainedHashTable/Table2.c	/^Value TBLSearch(Table * pt, Key k)$/;"	f
+TBLSearch	Data_Structure_Src/Ch13/SimpleHashTable/Table.c	/^Value TBLSearch(Table * pt, Key k)$/;"	f
+TRUE	Data_Structure_Src/Ch03/ArrayList/ArrayList.h	/^#define TRUE	/;"	d
+TRUE	Data_Structure_Src/Ch03/ArrayListPointStructBase/ArrayList.h	/^#define TRUE	/;"	d
+TRUE	Data_Structure_Src/Ch03/Prob03-1/ArrayList.h	/^#define TRUE	/;"	d
+TRUE	Data_Structure_Src/Ch03/Prob03-2/ArrayList.h	/^#define TRUE	/;"	d
+TRUE	Data_Structure_Src/Ch04/DLinkedList/DLinkedList.h	/^#define TRUE	/;"	d
+TRUE	Data_Structure_Src/Ch04/DLinkedListSort/DLinkedList.h	/^#define TRUE	/;"	d
+TRUE	Data_Structure_Src/Ch04/Prob04-3/DLinkedList.h	/^#define TRUE	/;"	d
+TRUE	Data_Structure_Src/Ch04/Prob04-4/DLinkedList.h	/^#define TRUE	/;"	d
+TRUE	Data_Structure_Src/Ch05/CircularLinkedList/CLinkedList.h	/^#define TRUE	/;"	d
+TRUE	Data_Structure_Src/Ch05/DublyLinkedList/DBLinkedList.h	/^#define TRUE	/;"	d
+TRUE	Data_Structure_Src/Ch05/Prob05-1/CLinkedList.h	/^#define TRUE	/;"	d
+TRUE	Data_Structure_Src/Ch05/Prob05-2/DBDLinkedList.h	/^#define TRUE	/;"	d
+TRUE	Data_Structure_Src/Ch06/ArrayBaseStack/ArrayBaseStack.h	/^#define TRUE	/;"	d
+TRUE	Data_Structure_Src/Ch06/InfixCalculator/ListBaseStack.h	/^#define TRUE	/;"	d
+TRUE	Data_Structure_Src/Ch06/InfixToPostfix/ListBaseStack.h	/^#define TRUE	/;"	d
+TRUE	Data_Structure_Src/Ch06/ListBaseStack/ListBaseStack.h	/^#define TRUE	/;"	d
+TRUE	Data_Structure_Src/Ch06/PostCalculator/ListBaseStack.h	/^#define TRUE	/;"	d
+TRUE	Data_Structure_Src/Ch06/Prob06-1/CLLBaseStack.h	/^#define TRUE	/;"	d
+TRUE	Data_Structure_Src/Ch06/Prob06-1/CLinkedList.h	/^#define TRUE	/;"	d
+TRUE	Data_Structure_Src/Ch07/CircularQueue/CircularQueue.h	/^#define TRUE	/;"	d
+TRUE	Data_Structure_Src/Ch07/Deque/Deque.h	/^#define TRUE	/;"	d
+TRUE	Data_Structure_Src/Ch07/HamburgerSim/CircularQueue.h	/^#define TRUE	/;"	d
+TRUE	Data_Structure_Src/Ch07/ListBaseQueue/ListBaseQueue.h	/^#define TRUE	/;"	d
+TRUE	Data_Structure_Src/Ch07/Prob07-1/Deque.h	/^#define TRUE	/;"	d
+TRUE	Data_Structure_Src/Ch08/ExpressionTree/ListBaseStack.h	/^#define TRUE	/;"	d
+TRUE	Data_Structure_Src/Ch08/Prob08-2/ListBaseStack.h	/^#define TRUE	/;"	d
+TRUE	Data_Structure_Src/Ch09/PriorityQueue/UsefulHeap.h	/^#define TRUE	/;"	d
+TRUE	Data_Structure_Src/Ch09/Prob09-1/UsefulHeap.h	/^#define TRUE	/;"	d
+TRUE	Data_Structure_Src/Ch09/SimpleHeap/SimpleHeap.h	/^#define TRUE	/;"	d
+TRUE	Data_Structure_Src/Ch09/UsefulHeap/UsefulHeap.h	/^#define TRUE	/;"	d
+TRUE	Data_Structure_Src/Ch10/HeapSort/UsefulHeap.h	/^#define TRUE	/;"	d
+TRUE	Data_Structure_Src/Ch10/RadixSort/ListBaseQueue.h	/^#define TRUE	/;"	d
+TRUE	Data_Structure_Src/Ch13/ChainedHashTable/DLinkedList.h	/^#define TRUE	/;"	d
+TRUE	Data_Structure_Src/Ch14/ALGraph/DLinkedList.h	/^#define TRUE	/;"	d
+TRUE	Data_Structure_Src/Ch14/ALGraphBFS/CircularQueue.h	/^#define TRUE	/;"	d
+TRUE	Data_Structure_Src/Ch14/ALGraphBFS/DLinkedList.h	/^#define TRUE	/;"	d
+TRUE	Data_Structure_Src/Ch14/ALGraphDFS/ArrayBaseStack.h	/^#define TRUE	/;"	d
+TRUE	Data_Structure_Src/Ch14/ALGraphDFS/DLinkedList.h	/^#define TRUE	/;"	d
+TRUE	Data_Structure_Src/Ch14/ALGraphKruskal/ArrayBaseStack.h	/^#define TRUE	/;"	d
+TRUE	Data_Structure_Src/Ch14/ALGraphKruskal/DLinkedList.h	/^#define TRUE	/;"	d
+TRUE	Data_Structure_Src/Ch14/ALGraphKruskal/UsefulHeap.h	/^#define TRUE	/;"	d
+TRUE	Data_Structure_Src/Ch14/Prob14-2/ArrayBaseStack.h	/^#define TRUE	/;"	d
+TRUE	Data_Structure_Src/Ch14/Prob14-2/DLinkedList.h	/^#define TRUE	/;"	d
+Table	Data_Structure_Src/Ch13/ChainedHashTable/Table2.h	/^} Table;$/;"	t	typeref:struct:_table
+Table	Data_Structure_Src/Ch13/SimpleHashTable/Table.h	/^}Table;$/;"	t	typeref:struct:_table
+Value	Data_Structure_Src/Ch13/ChainedHashTable/Slot2.h	/^typedef Person * Value;$/;"	t
+Value	Data_Structure_Src/Ch13/SimpleHashTable/Slot.h	/^typedef Person * Value;$/;"	t
+VisitFuncPtr	Data_Structure_Src/Ch08/BinaryTreeTraversalAdded/BinaryTree2.h	/^typedef void VisitFuncPtr(BTData data);$/;"	t
+VisitFuncPtr	Data_Structure_Src/Ch08/ExpressionTree/BinaryTree2.h	/^typedef void VisitFuncPtr(BTData data);$/;"	t
+VisitFuncPtr	Data_Structure_Src/Ch08/Prob08-1/BinaryTree2.h	/^typedef void VisitFuncPtr(BTData data);$/;"	t
+VisitFuncPtr	Data_Structure_Src/Ch08/Prob08-2/BinaryTree2.h	/^typedef void VisitFuncPtr(BTData data);$/;"	t
+VisitFuncPtr	Data_Structure_Src/Ch11/BinarySearchTree/BinaryTree2.h	/^typedef void VisitFuncPtr(BTData data);$/;"	t
+VisitFuncPtr	Data_Structure_Src/Ch11/BinarySearchTreeDelAdded/BinaryTree3.h	/^typedef void VisitFuncPtr(BTData data);$/;"	t
+VisitFuncPtr	Data_Structure_Src/Ch12/AVLTree/BinaryTree3.h	/^typedef void VisitFuncPtr(BTData data);$/;"	t
+VisitVertex	Data_Structure_Src/Ch14/ALGraphBFS/ALGraphBFS.c	/^int VisitVertex(ALGraph * pg, int visitV)$/;"	f
+VisitVertex	Data_Structure_Src/Ch14/ALGraphDFS/ALGraphDFS.c	/^int VisitVertex(ALGraph * pg, int visitV)$/;"	f
+VisitVertex	Data_Structure_Src/Ch14/ALGraphKruskal/ALGraphKruskal.c	/^int VisitVertex(ALGraph * pg, int visitV)$/;"	f
+VisitVertex	Data_Structure_Src/Ch14/Prob14-2/ALGraphDFS.c	/^int VisitVertex(ALGraph * pg, int visitV)$/;"	f
+WhoIsPrecede	Data_Structure_Src/Ch04/DLinkedListSort/DLinkedListSortMain.c	/^int WhoIsPrecede(int d1, int d2)$/;"	f
+WhoIsPrecede	Data_Structure_Src/Ch04/Prob04-4/PointListSortMain.c	/^int WhoIsPrecede(Point * d1, Point * d2)$/;"	f
+WhoIsPrecede	Data_Structure_Src/Ch14/ALGraph/ALGraph.c	/^int WhoIsPrecede(int data1, int data2)$/;"	f
+WhoIsPrecede	Data_Structure_Src/Ch14/ALGraphBFS/ALGraphBFS.c	/^int WhoIsPrecede(int data1, int data2)$/;"	f
+WhoIsPrecede	Data_Structure_Src/Ch14/ALGraphDFS/ALGraphDFS.c	/^int WhoIsPrecede(int data1, int data2)$/;"	f
+WhoIsPrecede	Data_Structure_Src/Ch14/ALGraphKruskal/ALGraphKruskal.c	/^int WhoIsPrecede(int data1, int data2)$/;"	f
+WhoIsPrecede	Data_Structure_Src/Ch14/Prob14-2/ALGraphDFS.c	/^int WhoIsPrecede(int data1, int data2)$/;"	f
+WhoPrecOp	Data_Structure_Src/Ch06/InfixCalculator/InfixToPostfix.c	/^int WhoPrecOp(char op1, char op2)$/;"	f
+WhoPrecOp	Data_Structure_Src/Ch06/InfixToPostfix/InfixToPostfix.c	/^int WhoPrecOp(char op1, char op2)$/;"	f
+WhosNightDuty	Data_Structure_Src/Ch05/Prob05-1/NightDutyMain.c	/^Employee * WhosNightDuty(List * plist, char * name, int day)$/;"	f
+_CLL	Data_Structure_Src/Ch05/CircularLinkedList/CLinkedList.h	/^typedef struct _CLL$/;"	s
+_CLL	Data_Structure_Src/Ch05/Prob05-1/CLinkedList.h	/^typedef struct _CLL$/;"	s
+_CLL	Data_Structure_Src/Ch06/Prob06-1/CLinkedList.h	/^typedef struct _CLL$/;"	s
+_Employee	Data_Structure_Src/Ch05/Prob05-1/Employee.h	/^typedef struct _Employee$/;"	s
+__AB_STACK_H__	Data_Structure_Src/Ch06/ArrayBaseStack/ArrayBaseStack.h	/^#define __AB_STACK_H__$/;"	d
+__AB_STACK_H__	Data_Structure_Src/Ch14/ALGraphDFS/ArrayBaseStack.h	/^#define __AB_STACK_H__$/;"	d
+__AB_STACK_H__	Data_Structure_Src/Ch14/ALGraphKruskal/ArrayBaseStack.h	/^#define __AB_STACK_H__$/;"	d
+__AB_STACK_H__	Data_Structure_Src/Ch14/Prob14-2/ArrayBaseStack.h	/^#define __AB_STACK_H__$/;"	d
+__AL_EDGE__	Data_Structure_Src/Ch14/ALGraphKruskal/ALEdge.h	/^#define __AL_EDGE__$/;"	d
+__AL_GRAPH_BFS__	Data_Structure_Src/Ch14/ALGraphBFS/ALGraphBFS.h	/^#define __AL_GRAPH_BFS__$/;"	d
+__AL_GRAPH_DFS__	Data_Structure_Src/Ch14/ALGraphDFS/ALGraphDFS.h	/^#define __AL_GRAPH_DFS__$/;"	d
+__AL_GRAPH_DFS__	Data_Structure_Src/Ch14/Prob14-2/ALGraphDFS.h	/^#define __AL_GRAPH_DFS__$/;"	d
+__AL_GRAPH_KRUSKAL__	Data_Structure_Src/Ch14/ALGraphKruskal/ALGraphKruskal.h	/^#define __AL_GRAPH_KRUSKAL__$/;"	d
+__AL_GRAPH__	Data_Structure_Src/Ch14/ALGraph/ALGraph.h	/^#define __AL_GRAPH__$/;"	d
+__ARRAY_LIST_H__	Data_Structure_Src/Ch03/ArrayList/ArrayList.h	/^#define __ARRAY_LIST_H__$/;"	d
+__ARRAY_LIST_H__	Data_Structure_Src/Ch03/ArrayListPointStructBase/ArrayList.h	/^#define __ARRAY_LIST_H__$/;"	d
+__ARRAY_LIST_H__	Data_Structure_Src/Ch03/Prob03-1/ArrayList.h	/^#define __ARRAY_LIST_H__$/;"	d
+__ARRAY_LIST_H__	Data_Structure_Src/Ch03/Prob03-2/ArrayList.h	/^#define __ARRAY_LIST_H__$/;"	d
+__AVL_REBALANCE_H__	Data_Structure_Src/Ch12/AVLTree/AVLRebalance.h	/^#define __AVL_REBALANCE_H__$/;"	d
+__ArrayList	Data_Structure_Src/Ch03/ArrayList/ArrayList.h	/^typedef struct __ArrayList$/;"	s
+__ArrayList	Data_Structure_Src/Ch03/ArrayListPointStructBase/ArrayList.h	/^typedef struct __ArrayList$/;"	s
+__ArrayList	Data_Structure_Src/Ch03/Prob03-1/ArrayList.h	/^typedef struct __ArrayList$/;"	s
+__ArrayList	Data_Structure_Src/Ch03/Prob03-2/ArrayList.h	/^typedef struct __ArrayList$/;"	s
+__BINARY_SEARCH_TREE2_H__	Data_Structure_Src/Ch11/BinarySearchTreeDelAdded/BinarySearchTree2.h	/^#define __BINARY_SEARCH_TREE2_H__$/;"	d
+__BINARY_SEARCH_TREE3_H__	Data_Structure_Src/Ch12/AVLTree/BinarySearchTree3.h	/^#define __BINARY_SEARCH_TREE3_H__$/;"	d
+__BINARY_SEARCH_TREE_H__	Data_Structure_Src/Ch11/BinarySearchTree/BinarySearchTree.h	/^#define __BINARY_SEARCH_TREE_H__$/;"	d
+__BINARY_TREE2_H__	Data_Structure_Src/Ch08/BinaryTreeTraversalAdded/BinaryTree2.h	/^#define __BINARY_TREE2_H__$/;"	d
+__BINARY_TREE2_H__	Data_Structure_Src/Ch08/ExpressionTree/BinaryTree2.h	/^#define __BINARY_TREE2_H__$/;"	d
+__BINARY_TREE2_H__	Data_Structure_Src/Ch08/Prob08-1/BinaryTree2.h	/^#define __BINARY_TREE2_H__$/;"	d
+__BINARY_TREE2_H__	Data_Structure_Src/Ch08/Prob08-2/BinaryTree2.h	/^#define __BINARY_TREE2_H__$/;"	d
+__BINARY_TREE2_H__	Data_Structure_Src/Ch11/BinarySearchTree/BinaryTree2.h	/^#define __BINARY_TREE2_H__$/;"	d
+__BINARY_TREE3_H__	Data_Structure_Src/Ch11/BinarySearchTreeDelAdded/BinaryTree3.h	/^#define __BINARY_TREE3_H__$/;"	d
+__BINARY_TREE3_H__	Data_Structure_Src/Ch12/AVLTree/BinaryTree3.h	/^#define __BINARY_TREE3_H__$/;"	d
+__BINARY_TREE_H__	Data_Structure_Src/Ch08/BinaryTree/BinaryTree.h	/^#define __BINARY_TREE_H__$/;"	d
+__CLL_STACK_H__	Data_Structure_Src/Ch06/Prob06-1/CLLBaseStack.h	/^#define __CLL_STACK_H__$/;"	d
+__C_LINKED_LIST_H__	Data_Structure_Src/Ch05/CircularLinkedList/CLinkedList.h	/^#define __C_LINKED_LIST_H__$/;"	d
+__C_LINKED_LIST_H__	Data_Structure_Src/Ch05/Prob05-1/CLinkedList.h	/^#define __C_LINKED_LIST_H__$/;"	d
+__C_LINKED_LIST_H__	Data_Structure_Src/Ch06/Prob06-1/CLinkedList.h	/^#define __C_LINKED_LIST_H__$/;"	d
+__C_QUEUE_H__	Data_Structure_Src/Ch07/CircularQueue/CircularQueue.h	/^#define __C_QUEUE_H__$/;"	d
+__C_QUEUE_H__	Data_Structure_Src/Ch07/HamburgerSim/CircularQueue.h	/^#define __C_QUEUE_H__$/;"	d
+__C_QUEUE_H__	Data_Structure_Src/Ch14/ALGraphBFS/CircularQueue.h	/^#define __C_QUEUE_H__$/;"	d
+__DBD_LINKED_LIST_H__	Data_Structure_Src/Ch05/Prob05-2/DBDLinkedList.h	/^#define __DBD_LINKED_LIST_H__$/;"	d
+__DB_LINKED_LIST_H__	Data_Structure_Src/Ch05/DublyLinkedList/DBLinkedList.h	/^#define __DB_LINKED_LIST_H__$/;"	d
+__DEQUE_BASE_QUEUE_H__	Data_Structure_Src/Ch07/Prob07-1/DequeBaseQueue.h	/^#define __DEQUE_BASE_QUEUE_H__$/;"	d
+__DEQUE_H__	Data_Structure_Src/Ch07/Deque/Deque.h	/^#define __DEQUE_H__$/;"	d
+__DEQUE_H__	Data_Structure_Src/Ch07/Prob07-1/Deque.h	/^#define __DEQUE_H__$/;"	d
+__D_LINKED_LIST_H__	Data_Structure_Src/Ch04/DLinkedList/DLinkedList.h	/^#define __D_LINKED_LIST_H__$/;"	d
+__D_LINKED_LIST_H__	Data_Structure_Src/Ch04/DLinkedListSort/DLinkedList.h	/^#define __D_LINKED_LIST_H__$/;"	d
+__D_LINKED_LIST_H__	Data_Structure_Src/Ch04/Prob04-3/DLinkedList.h	/^#define __D_LINKED_LIST_H__$/;"	d
+__D_LINKED_LIST_H__	Data_Structure_Src/Ch04/Prob04-4/DLinkedList.h	/^#define __D_LINKED_LIST_H__$/;"	d
+__D_LINKED_LIST_H__	Data_Structure_Src/Ch13/ChainedHashTable/DLinkedList.h	/^#define __D_LINKED_LIST_H__$/;"	d
+__D_LINKED_LIST_H__	Data_Structure_Src/Ch14/ALGraph/DLinkedList.h	/^#define __D_LINKED_LIST_H__$/;"	d
+__D_LINKED_LIST_H__	Data_Structure_Src/Ch14/ALGraphBFS/DLinkedList.h	/^#define __D_LINKED_LIST_H__$/;"	d
+__D_LINKED_LIST_H__	Data_Structure_Src/Ch14/ALGraphDFS/DLinkedList.h	/^#define __D_LINKED_LIST_H__$/;"	d
+__D_LINKED_LIST_H__	Data_Structure_Src/Ch14/ALGraphKruskal/DLinkedList.h	/^#define __D_LINKED_LIST_H__$/;"	d
+__D_LINKED_LIST_H__	Data_Structure_Src/Ch14/Prob14-2/DLinkedList.h	/^#define __D_LINKED_LIST_H__$/;"	d
+__EMPLOYEE_H__	Data_Structure_Src/Ch05/Prob05-1/Employee.h	/^#define __EMPLOYEE_H__$/;"	d
+__EXPRESSION_TREE_H__	Data_Structure_Src/Ch08/ExpressionTree/ExpressionTree.h	/^#define __EXPRESSION_TREE_H__$/;"	d
+__EXPRESSION_TREE_H__	Data_Structure_Src/Ch08/Prob08-2/ExpressionTree.h	/^#define __EXPRESSION_TREE_H__$/;"	d
+__INFIX_CALCULATOR__	Data_Structure_Src/Ch06/InfixCalculator/InfixCalculator.h	/^#define __INFIX_CALCULATOR__$/;"	d
+__INFIX_TO_POSTFIX_H__	Data_Structure_Src/Ch06/InfixCalculator/InfixToPostfix.h	/^#define __INFIX_TO_POSTFIX_H__$/;"	d
+__INFIX_TO_POSTFIX_H__	Data_Structure_Src/Ch06/InfixToPostfix/InfixToPostfix.h	/^#define __INFIX_TO_POSTFIX_H__$/;"	d
+__LB_QUEUE_H__	Data_Structure_Src/Ch07/ListBaseQueue/ListBaseQueue.h	/^#define __LB_QUEUE_H__$/;"	d
+__LB_QUEUE_H__	Data_Structure_Src/Ch10/RadixSort/ListBaseQueue.h	/^#define __LB_QUEUE_H__$/;"	d
+__LB_STACK_H__	Data_Structure_Src/Ch06/InfixCalculator/ListBaseStack.h	/^#define __LB_STACK_H__$/;"	d
+__LB_STACK_H__	Data_Structure_Src/Ch06/InfixToPostfix/ListBaseStack.h	/^#define __LB_STACK_H__$/;"	d
+__LB_STACK_H__	Data_Structure_Src/Ch06/ListBaseStack/ListBaseStack.h	/^#define __LB_STACK_H__$/;"	d
+__LB_STACK_H__	Data_Structure_Src/Ch06/PostCalculator/ListBaseStack.h	/^#define __LB_STACK_H__$/;"	d
+__LB_STACK_H__	Data_Structure_Src/Ch08/ExpressionTree/ListBaseStack.h	/^#define __LB_STACK_H__$/;"	d
+__LB_STACK_H__	Data_Structure_Src/Ch08/Prob08-2/ListBaseStack.h	/^#define __LB_STACK_H__$/;"	d
+__NAME_CARD_H__	Data_Structure_Src/Ch03/Prob03-2/NameCard.h	/^#define __NAME_CARD_H__$/;"	d
+__PERSON_H__	Data_Structure_Src/Ch13/ChainedHashTable/Person.h	/^#define __PERSON_H__$/;"	d
+__PERSON_H__	Data_Structure_Src/Ch13/SimpleHashTable/Person.h	/^#define __PERSON_H__$/;"	d
+__POINT_H__	Data_Structure_Src/Ch03/ArrayListPointStructBase/Point.h	/^#define __POINT_H__$/;"	d
+__POINT_H__	Data_Structure_Src/Ch04/Prob04-3/Point.h	/^#define __POINT_H__$/;"	d
+__POINT_H__	Data_Structure_Src/Ch04/Prob04-4/Point.h	/^#define __POINT_H__$/;"	d
+__POST_CALCULATOR_H__	Data_Structure_Src/Ch06/InfixCalculator/PostCalculator.h	/^#define __POST_CALCULATOR_H__$/;"	d
+__POST_CALCULATOR_H__	Data_Structure_Src/Ch06/PostCalculator/PostCalculator.h	/^#define __POST_CALCULATOR_H__$/;"	d
+__PRIORITY_QUEUE_H__	Data_Structure_Src/Ch09/PriorityQueue/PriorityQueue.h	/^#define __PRIORITY_QUEUE_H__$/;"	d
+__PRIORITY_QUEUE_H__	Data_Structure_Src/Ch09/Prob09-1/PriorityQueue.h	/^#define __PRIORITY_QUEUE_H__$/;"	d
+__PRIORITY_QUEUE_H__	Data_Structure_Src/Ch14/ALGraphKruskal/PriorityQueue.h	/^#define __PRIORITY_QUEUE_H__$/;"	d
+__SIMPLE_HEAP_H__	Data_Structure_Src/Ch09/SimpleHeap/SimpleHeap.h	/^#define __SIMPLE_HEAP_H__$/;"	d
+__SLOT2_H__	Data_Structure_Src/Ch13/ChainedHashTable/Slot2.h	/^#define __SLOT2_H__$/;"	d
+__SLOT_H__	Data_Structure_Src/Ch13/SimpleHashTable/Slot.h	/^#define __SLOT_H__$/;"	d
+__TABLE2_H__	Data_Structure_Src/Ch13/ChainedHashTable/Table2.h	/^#define __TABLE2_H__$/;"	d
+__TABLE_H__	Data_Structure_Src/Ch13/SimpleHashTable/Table.h	/^#define __TABLE_H__$/;"	d
+__USEFUL_HEAP_H__	Data_Structure_Src/Ch09/PriorityQueue/UsefulHeap.h	/^#define __USEFUL_HEAP_H__$/;"	d
+__USEFUL_HEAP_H__	Data_Structure_Src/Ch09/Prob09-1/UsefulHeap.h	/^#define __USEFUL_HEAP_H__$/;"	d
+__USEFUL_HEAP_H__	Data_Structure_Src/Ch09/UsefulHeap/UsefulHeap.h	/^#define __USEFUL_HEAP_H__$/;"	d
+__USEFUL_HEAP_H__	Data_Structure_Src/Ch10/HeapSort/UsefulHeap.h	/^#define __USEFUL_HEAP_H__$/;"	d
+__USEFUL_HEAP_H__	Data_Structure_Src/Ch14/ALGraphKruskal/UsefulHeap.h	/^#define __USEFUL_HEAP_H__$/;"	d
+__namecard	Data_Structure_Src/Ch03/Prob03-2/NameCard.h	/^typedef struct __namecard$/;"	s
+_arrayStack	Data_Structure_Src/Ch06/ArrayBaseStack/ArrayBaseStack.h	/^typedef struct _arrayStack$/;"	s
+_arrayStack	Data_Structure_Src/Ch14/ALGraphDFS/ArrayBaseStack.h	/^typedef struct _arrayStack$/;"	s
+_arrayStack	Data_Structure_Src/Ch14/ALGraphKruskal/ArrayBaseStack.h	/^typedef struct _arrayStack$/;"	s
+_arrayStack	Data_Structure_Src/Ch14/Prob14-2/ArrayBaseStack.h	/^typedef struct _arrayStack$/;"	s
+_bTreeNode	Data_Structure_Src/Ch08/BinaryTree/BinaryTree.h	/^typedef struct _bTreeNode$/;"	s
+_bTreeNode	Data_Structure_Src/Ch08/BinaryTreeTraversalAdded/BinaryTree2.h	/^typedef struct _bTreeNode$/;"	s
+_bTreeNode	Data_Structure_Src/Ch08/ExpressionTree/BinaryTree2.h	/^typedef struct _bTreeNode$/;"	s
+_bTreeNode	Data_Structure_Src/Ch08/Prob08-1/BinaryTree2.h	/^typedef struct _bTreeNode$/;"	s
+_bTreeNode	Data_Structure_Src/Ch08/Prob08-2/BinaryTree2.h	/^typedef struct _bTreeNode$/;"	s
+_bTreeNode	Data_Structure_Src/Ch11/BinarySearchTree/BinaryTree2.h	/^typedef struct _bTreeNode$/;"	s
+_bTreeNode	Data_Structure_Src/Ch11/BinarySearchTreeDelAdded/BinaryTree3.h	/^typedef struct _bTreeNode$/;"	s
+_bTreeNode	Data_Structure_Src/Ch12/AVLTree/BinaryTree3.h	/^typedef struct _bTreeNode$/;"	s
+_cQueue	Data_Structure_Src/Ch07/CircularQueue/CircularQueue.h	/^typedef struct _cQueue$/;"	s
+_cQueue	Data_Structure_Src/Ch07/HamburgerSim/CircularQueue.h	/^typedef struct _cQueue$/;"	s
+_cQueue	Data_Structure_Src/Ch14/ALGraphBFS/CircularQueue.h	/^typedef struct _cQueue$/;"	s
+_dbDLinkedList	Data_Structure_Src/Ch05/Prob05-2/DBDLinkedList.h	/^typedef struct _dbDLinkedList$/;"	s
+_dbLinkedList	Data_Structure_Src/Ch05/DublyLinkedList/DBLinkedList.h	/^typedef struct _dbLinkedList$/;"	s
+_dlDeque	Data_Structure_Src/Ch07/Deque/Deque.h	/^typedef struct _dlDeque$/;"	s
+_dlDeque	Data_Structure_Src/Ch07/Prob07-1/Deque.h	/^typedef struct _dlDeque$/;"	s
+_edge	Data_Structure_Src/Ch14/ALGraphKruskal/ALEdge.h	/^typedef struct _edge$/;"	s
+_empInfo	Data_Structure_Src/Ch13/TableHashFunction.c	/^typedef struct _empInfo$/;"	s	file:
+_empInfo	Data_Structure_Src/Ch13/UnderstandTable.c	/^typedef struct _empInfo$/;"	s	file:
+_heap	Data_Structure_Src/Ch09/PriorityQueue/UsefulHeap.h	/^typedef struct _heap$/;"	s
+_heap	Data_Structure_Src/Ch09/Prob09-1/UsefulHeap.h	/^typedef struct _heap$/;"	s
+_heap	Data_Structure_Src/Ch09/SimpleHeap/SimpleHeap.h	/^typedef struct _heap$/;"	s
+_heap	Data_Structure_Src/Ch09/UsefulHeap/UsefulHeap.h	/^typedef struct _heap$/;"	s
+_heap	Data_Structure_Src/Ch10/HeapSort/UsefulHeap.h	/^typedef struct _heap$/;"	s
+_heap	Data_Structure_Src/Ch14/ALGraphKruskal/UsefulHeap.h	/^typedef struct _heap$/;"	s
+_heapElem	Data_Structure_Src/Ch09/SimpleHeap/SimpleHeap.h	/^typedef struct _heapElem$/;"	s
+_lQueue	Data_Structure_Src/Ch07/ListBaseQueue/ListBaseQueue.h	/^typedef struct _lQueue$/;"	s
+_lQueue	Data_Structure_Src/Ch10/RadixSort/ListBaseQueue.h	/^typedef struct _lQueue$/;"	s
+_linkedList	Data_Structure_Src/Ch04/DLinkedList/DLinkedList.h	/^typedef struct _linkedList$/;"	s
+_linkedList	Data_Structure_Src/Ch04/DLinkedListSort/DLinkedList.h	/^typedef struct _linkedList$/;"	s
+_linkedList	Data_Structure_Src/Ch04/Prob04-3/DLinkedList.h	/^typedef struct _linkedList$/;"	s
+_linkedList	Data_Structure_Src/Ch04/Prob04-4/DLinkedList.h	/^typedef struct _linkedList$/;"	s
+_linkedList	Data_Structure_Src/Ch13/ChainedHashTable/DLinkedList.h	/^typedef struct _linkedList$/;"	s
+_linkedList	Data_Structure_Src/Ch14/ALGraph/DLinkedList.h	/^typedef struct _linkedList$/;"	s
+_linkedList	Data_Structure_Src/Ch14/ALGraphBFS/DLinkedList.h	/^typedef struct _linkedList$/;"	s
+_linkedList	Data_Structure_Src/Ch14/ALGraphDFS/DLinkedList.h	/^typedef struct _linkedList$/;"	s
+_linkedList	Data_Structure_Src/Ch14/ALGraphKruskal/DLinkedList.h	/^typedef struct _linkedList$/;"	s
+_linkedList	Data_Structure_Src/Ch14/Prob14-2/DLinkedList.h	/^typedef struct _linkedList$/;"	s
+_listStack	Data_Structure_Src/Ch06/InfixCalculator/ListBaseStack.h	/^typedef struct _listStack$/;"	s
+_listStack	Data_Structure_Src/Ch06/InfixToPostfix/ListBaseStack.h	/^typedef struct _listStack$/;"	s
+_listStack	Data_Structure_Src/Ch06/ListBaseStack/ListBaseStack.h	/^typedef struct _listStack$/;"	s
+_listStack	Data_Structure_Src/Ch06/PostCalculator/ListBaseStack.h	/^typedef struct _listStack$/;"	s
+_listStack	Data_Structure_Src/Ch06/Prob06-1/CLLBaseStack.h	/^typedef struct _listStack$/;"	s
+_listStack	Data_Structure_Src/Ch08/ExpressionTree/ListBaseStack.h	/^typedef struct _listStack$/;"	s
+_listStack	Data_Structure_Src/Ch08/Prob08-2/ListBaseStack.h	/^typedef struct _listStack$/;"	s
+_node	Data_Structure_Src/Ch04/DLinkedList/DLinkedList.h	/^typedef struct _node$/;"	s
+_node	Data_Structure_Src/Ch04/DLinkedListSort/DLinkedList.h	/^typedef struct _node$/;"	s
+_node	Data_Structure_Src/Ch04/LinkedRead.c	/^typedef struct _node$/;"	s	file:
+_node	Data_Structure_Src/Ch04/Prob04-1/HeadAddLinkedRead.c	/^typedef struct _node$/;"	s	file:
+_node	Data_Structure_Src/Ch04/Prob04-2/DLinkedRead.c	/^typedef struct _node$/;"	s	file:
+_node	Data_Structure_Src/Ch04/Prob04-3/DLinkedList.h	/^typedef struct _node$/;"	s
+_node	Data_Structure_Src/Ch04/Prob04-4/DLinkedList.h	/^typedef struct _node$/;"	s
+_node	Data_Structure_Src/Ch05/CircularLinkedList/CLinkedList.h	/^typedef struct _node$/;"	s
+_node	Data_Structure_Src/Ch05/DublyLinkedList/DBLinkedList.h	/^typedef struct _node$/;"	s
+_node	Data_Structure_Src/Ch05/Prob05-1/CLinkedList.h	/^typedef struct _node$/;"	s
+_node	Data_Structure_Src/Ch05/Prob05-2/DBDLinkedList.h	/^typedef struct _node$/;"	s
+_node	Data_Structure_Src/Ch06/InfixCalculator/ListBaseStack.h	/^typedef struct _node$/;"	s
+_node	Data_Structure_Src/Ch06/InfixToPostfix/ListBaseStack.h	/^typedef struct _node$/;"	s
+_node	Data_Structure_Src/Ch06/ListBaseStack/ListBaseStack.h	/^typedef struct _node$/;"	s
+_node	Data_Structure_Src/Ch06/PostCalculator/ListBaseStack.h	/^typedef struct _node$/;"	s
+_node	Data_Structure_Src/Ch06/Prob06-1/CLinkedList.h	/^typedef struct _node$/;"	s
+_node	Data_Structure_Src/Ch07/Deque/Deque.h	/^typedef struct _node$/;"	s
+_node	Data_Structure_Src/Ch07/ListBaseQueue/ListBaseQueue.h	/^typedef struct _node$/;"	s
+_node	Data_Structure_Src/Ch07/Prob07-1/Deque.h	/^typedef struct _node$/;"	s
+_node	Data_Structure_Src/Ch08/ExpressionTree/ListBaseStack.h	/^typedef struct _node$/;"	s
+_node	Data_Structure_Src/Ch08/Prob08-2/ListBaseStack.h	/^typedef struct _node$/;"	s
+_node	Data_Structure_Src/Ch10/RadixSort/ListBaseQueue.h	/^typedef struct _node$/;"	s
+_node	Data_Structure_Src/Ch13/ChainedHashTable/DLinkedList.h	/^typedef struct _node$/;"	s
+_node	Data_Structure_Src/Ch14/ALGraph/DLinkedList.h	/^typedef struct _node$/;"	s
+_node	Data_Structure_Src/Ch14/ALGraphBFS/DLinkedList.h	/^typedef struct _node$/;"	s
+_node	Data_Structure_Src/Ch14/ALGraphDFS/DLinkedList.h	/^typedef struct _node$/;"	s
+_node	Data_Structure_Src/Ch14/ALGraphKruskal/DLinkedList.h	/^typedef struct _node$/;"	s
+_node	Data_Structure_Src/Ch14/Prob14-2/DLinkedList.h	/^typedef struct _node$/;"	s
+_person	Data_Structure_Src/Ch13/ChainedHashTable/Person.h	/^typedef struct _person$/;"	s
+_person	Data_Structure_Src/Ch13/SimpleHashTable/Person.h	/^typedef struct _person$/;"	s
+_point	Data_Structure_Src/Ch03/ArrayListPointStructBase/Point.h	/^typedef struct _point$/;"	s
+_point	Data_Structure_Src/Ch04/Prob04-3/Point.h	/^typedef struct _point$/;"	s
+_point	Data_Structure_Src/Ch04/Prob04-4/Point.h	/^typedef struct _point$/;"	s
+_slot	Data_Structure_Src/Ch13/ChainedHashTable/Slot2.h	/^typedef struct _slot$/;"	s
+_slot	Data_Structure_Src/Ch13/SimpleHashTable/Slot.h	/^typedef struct _slot$/;"	s
+_table	Data_Structure_Src/Ch13/ChainedHashTable/Table2.h	/^typedef struct _table$/;"	s
+_table	Data_Structure_Src/Ch13/SimpleHashTable/Table.h	/^typedef struct _table$/;"	s
+_ual	Data_Structure_Src/Ch14/ALGraph/ALGraph.h	/^typedef struct _ual$/;"	s
+_ual	Data_Structure_Src/Ch14/ALGraphBFS/ALGraphBFS.h	/^typedef struct _ual$/;"	s
+_ual	Data_Structure_Src/Ch14/ALGraphDFS/ALGraphDFS.h	/^typedef struct _ual$/;"	s
+_ual	Data_Structure_Src/Ch14/ALGraphKruskal/ALGraphKruskal.h	/^typedef struct _ual$/;"	s
+_ual	Data_Structure_Src/Ch14/Prob14-2/ALGraphDFS.h	/^typedef struct _ual$/;"	s
+addr	Data_Structure_Src/Ch13/ChainedHashTable/Person.h	/^	char addr[STR_LEN];		\/\/ 주소$/;"	m	struct:_person
+addr	Data_Structure_Src/Ch13/SimpleHashTable/Person.h	/^	char addr[STR_LEN];    \/\/ 주소$/;"	m	struct:_person
+adjList	Data_Structure_Src/Ch14/ALGraph/ALGraph.h	/^	List * adjList;   \/\/ 간선의 정보$/;"	m	struct:_ual
+adjList	Data_Structure_Src/Ch14/ALGraphBFS/ALGraphBFS.h	/^	List * adjList;   \/\/ 간선의 정보$/;"	m	struct:_ual
+adjList	Data_Structure_Src/Ch14/ALGraphDFS/ALGraphDFS.h	/^	List * adjList;   \/\/ 간선의 정보$/;"	m	struct:_ual
+adjList	Data_Structure_Src/Ch14/ALGraphKruskal/ALGraphKruskal.h	/^	List * adjList;$/;"	m	struct:_ual
+adjList	Data_Structure_Src/Ch14/Prob14-2/ALGraphDFS.h	/^	List * adjList;   \/\/ 간선의 정보$/;"	m	struct:_ual
+age	Data_Structure_Src/Ch13/TableHashFunction.c	/^	int age;     \/\/ 직원의 나이$/;"	m	struct:_empInfo	file:
+age	Data_Structure_Src/Ch13/UnderstandTable.c	/^	int age;     \/\/ 직원의 나이$/;"	m	struct:_empInfo	file:
+arr	Data_Structure_Src/Ch03/ArrayList/ArrayList.h	/^	LData arr[LIST_LEN];$/;"	m	struct:__ArrayList
+arr	Data_Structure_Src/Ch03/ArrayListPointStructBase/ArrayList.h	/^	LData arr[LIST_LEN];$/;"	m	struct:__ArrayList
+arr	Data_Structure_Src/Ch03/Prob03-1/ArrayList.h	/^	LData arr[LIST_LEN];$/;"	m	struct:__ArrayList
+arr	Data_Structure_Src/Ch03/Prob03-2/ArrayList.h	/^	LData arr[LIST_LEN];$/;"	m	struct:__ArrayList
+before	Data_Structure_Src/Ch04/DLinkedList/DLinkedList.h	/^	Node * before;$/;"	m	struct:_linkedList
+before	Data_Structure_Src/Ch04/DLinkedListSort/DLinkedList.h	/^	Node * before;$/;"	m	struct:_linkedList
+before	Data_Structure_Src/Ch04/Prob04-3/DLinkedList.h	/^	Node * before;$/;"	m	struct:_linkedList
+before	Data_Structure_Src/Ch04/Prob04-4/DLinkedList.h	/^	Node * before;$/;"	m	struct:_linkedList
+before	Data_Structure_Src/Ch05/CircularLinkedList/CLinkedList.h	/^	Node * before;$/;"	m	struct:_CLL
+before	Data_Structure_Src/Ch05/Prob05-1/CLinkedList.h	/^	Node * before;$/;"	m	struct:_CLL
+before	Data_Structure_Src/Ch06/Prob06-1/CLinkedList.h	/^	Node * before;$/;"	m	struct:_CLL
+before	Data_Structure_Src/Ch13/ChainedHashTable/DLinkedList.h	/^	Node * before;$/;"	m	struct:_linkedList
+before	Data_Structure_Src/Ch14/ALGraph/DLinkedList.h	/^	Node * before;$/;"	m	struct:_linkedList
+before	Data_Structure_Src/Ch14/ALGraphBFS/DLinkedList.h	/^	Node * before;$/;"	m	struct:_linkedList
+before	Data_Structure_Src/Ch14/ALGraphDFS/DLinkedList.h	/^	Node * before;$/;"	m	struct:_linkedList
+before	Data_Structure_Src/Ch14/ALGraphKruskal/DLinkedList.h	/^	Node * before;$/;"	m	struct:_linkedList
+before	Data_Structure_Src/Ch14/Prob14-2/DLinkedList.h	/^	Node * before;$/;"	m	struct:_linkedList
+comp	Data_Structure_Src/Ch04/DLinkedList/DLinkedList.h	/^	int (*comp)(LData d1, LData d2);$/;"	m	struct:_linkedList
+comp	Data_Structure_Src/Ch04/DLinkedListSort/DLinkedList.h	/^	int (*comp)(LData d1, LData d2);$/;"	m	struct:_linkedList
+comp	Data_Structure_Src/Ch04/Prob04-3/DLinkedList.h	/^	int (*comp)(LData d1, LData d2);$/;"	m	struct:_linkedList
+comp	Data_Structure_Src/Ch04/Prob04-4/DLinkedList.h	/^	int (*comp)(LData d1, LData d2);$/;"	m	struct:_linkedList
+comp	Data_Structure_Src/Ch09/PriorityQueue/UsefulHeap.h	/^	PriorityComp * comp;$/;"	m	struct:_heap
+comp	Data_Structure_Src/Ch09/Prob09-1/UsefulHeap.h	/^	PriorityComp * comp;$/;"	m	struct:_heap
+comp	Data_Structure_Src/Ch09/UsefulHeap/UsefulHeap.h	/^	PriorityComp * comp;$/;"	m	struct:_heap
+comp	Data_Structure_Src/Ch10/HeapSort/UsefulHeap.h	/^	PriorityComp * comp;$/;"	m	struct:_heap
+comp	Data_Structure_Src/Ch13/ChainedHashTable/DLinkedList.h	/^	int (*comp)(LData d1, LData d2);$/;"	m	struct:_linkedList
+comp	Data_Structure_Src/Ch14/ALGraph/DLinkedList.h	/^	int (*comp)(LData d1, LData d2);$/;"	m	struct:_linkedList
+comp	Data_Structure_Src/Ch14/ALGraphBFS/DLinkedList.h	/^	int (*comp)(LData d1, LData d2);$/;"	m	struct:_linkedList
+comp	Data_Structure_Src/Ch14/ALGraphDFS/DLinkedList.h	/^	int (*comp)(LData d1, LData d2);$/;"	m	struct:_linkedList
+comp	Data_Structure_Src/Ch14/ALGraphKruskal/DLinkedList.h	/^	int (*comp)(LData d1, LData d2);$/;"	m	struct:_linkedList
+comp	Data_Structure_Src/Ch14/ALGraphKruskal/UsefulHeap.h	/^	PriorityComp * comp;$/;"	m	struct:_heap
+comp	Data_Structure_Src/Ch14/Prob14-2/DLinkedList.h	/^	int (*comp)(LData d1, LData d2);$/;"	m	struct:_linkedList
+cur	Data_Structure_Src/Ch04/DLinkedList/DLinkedList.h	/^	Node * cur;$/;"	m	struct:_linkedList
+cur	Data_Structure_Src/Ch04/DLinkedListSort/DLinkedList.h	/^	Node * cur;$/;"	m	struct:_linkedList
+cur	Data_Structure_Src/Ch04/Prob04-3/DLinkedList.h	/^	Node * cur;$/;"	m	struct:_linkedList
+cur	Data_Structure_Src/Ch04/Prob04-4/DLinkedList.h	/^	Node * cur;$/;"	m	struct:_linkedList
+cur	Data_Structure_Src/Ch05/CircularLinkedList/CLinkedList.h	/^	Node * cur;$/;"	m	struct:_CLL
+cur	Data_Structure_Src/Ch05/DublyLinkedList/DBLinkedList.h	/^	Node * cur;$/;"	m	struct:_dbLinkedList
+cur	Data_Structure_Src/Ch05/Prob05-1/CLinkedList.h	/^	Node * cur;$/;"	m	struct:_CLL
+cur	Data_Structure_Src/Ch05/Prob05-2/DBDLinkedList.h	/^	Node * cur;$/;"	m	struct:_dbDLinkedList
+cur	Data_Structure_Src/Ch06/Prob06-1/CLinkedList.h	/^	Node * cur;$/;"	m	struct:_CLL
+cur	Data_Structure_Src/Ch13/ChainedHashTable/DLinkedList.h	/^	Node * cur;$/;"	m	struct:_linkedList
+cur	Data_Structure_Src/Ch14/ALGraph/DLinkedList.h	/^	Node * cur;$/;"	m	struct:_linkedList
+cur	Data_Structure_Src/Ch14/ALGraphBFS/DLinkedList.h	/^	Node * cur;$/;"	m	struct:_linkedList
+cur	Data_Structure_Src/Ch14/ALGraphDFS/DLinkedList.h	/^	Node * cur;$/;"	m	struct:_linkedList
+cur	Data_Structure_Src/Ch14/ALGraphKruskal/DLinkedList.h	/^	Node * cur;$/;"	m	struct:_linkedList
+cur	Data_Structure_Src/Ch14/Prob14-2/DLinkedList.h	/^	Node * cur;$/;"	m	struct:_linkedList
+curPosition	Data_Structure_Src/Ch03/ArrayList/ArrayList.h	/^	int curPosition;$/;"	m	struct:__ArrayList
+curPosition	Data_Structure_Src/Ch03/ArrayListPointStructBase/ArrayList.h	/^	int curPosition;$/;"	m	struct:__ArrayList
+curPosition	Data_Structure_Src/Ch03/Prob03-1/ArrayList.h	/^	int curPosition;$/;"	m	struct:__ArrayList
+curPosition	Data_Structure_Src/Ch03/Prob03-2/ArrayList.h	/^	int curPosition;$/;"	m	struct:__ArrayList
+data	Data_Structure_Src/Ch04/DLinkedList/DLinkedList.h	/^	LData data;$/;"	m	struct:_node
+data	Data_Structure_Src/Ch04/DLinkedListSort/DLinkedList.h	/^	LData data;$/;"	m	struct:_node
+data	Data_Structure_Src/Ch04/LinkedRead.c	/^	int data;$/;"	m	struct:_node	file:
+data	Data_Structure_Src/Ch04/Prob04-1/HeadAddLinkedRead.c	/^	int data;$/;"	m	struct:_node	file:
+data	Data_Structure_Src/Ch04/Prob04-2/DLinkedRead.c	/^	int data;$/;"	m	struct:_node	file:
+data	Data_Structure_Src/Ch04/Prob04-3/DLinkedList.h	/^	LData data;$/;"	m	struct:_node
+data	Data_Structure_Src/Ch04/Prob04-4/DLinkedList.h	/^	LData data;$/;"	m	struct:_node
+data	Data_Structure_Src/Ch05/CircularLinkedList/CLinkedList.h	/^	Data data;$/;"	m	struct:_node
+data	Data_Structure_Src/Ch05/DublyLinkedList/DBLinkedList.h	/^	Data data;$/;"	m	struct:_node
+data	Data_Structure_Src/Ch05/Prob05-1/CLinkedList.h	/^	Data data;$/;"	m	struct:_node
+data	Data_Structure_Src/Ch05/Prob05-2/DBDLinkedList.h	/^	Data data;$/;"	m	struct:_node
+data	Data_Structure_Src/Ch06/InfixCalculator/ListBaseStack.h	/^	Data data;$/;"	m	struct:_node
+data	Data_Structure_Src/Ch06/InfixToPostfix/ListBaseStack.h	/^	Data data;$/;"	m	struct:_node
+data	Data_Structure_Src/Ch06/ListBaseStack/ListBaseStack.h	/^	Data data;$/;"	m	struct:_node
+data	Data_Structure_Src/Ch06/PostCalculator/ListBaseStack.h	/^	Data data;$/;"	m	struct:_node
+data	Data_Structure_Src/Ch06/Prob06-1/CLinkedList.h	/^	Data data;$/;"	m	struct:_node
+data	Data_Structure_Src/Ch07/Deque/Deque.h	/^	Data data;$/;"	m	struct:_node
+data	Data_Structure_Src/Ch07/ListBaseQueue/ListBaseQueue.h	/^	Data data;$/;"	m	struct:_node
+data	Data_Structure_Src/Ch07/Prob07-1/Deque.h	/^	Data data;$/;"	m	struct:_node
+data	Data_Structure_Src/Ch08/BinaryTree/BinaryTree.h	/^	BTData data;$/;"	m	struct:_bTreeNode
+data	Data_Structure_Src/Ch08/BinaryTreeTraversalAdded/BinaryTree2.h	/^	BTData data;$/;"	m	struct:_bTreeNode
+data	Data_Structure_Src/Ch08/ExpressionTree/BinaryTree2.h	/^	BTData data;$/;"	m	struct:_bTreeNode
+data	Data_Structure_Src/Ch08/ExpressionTree/ListBaseStack.h	/^	Data data;$/;"	m	struct:_node
+data	Data_Structure_Src/Ch08/Prob08-1/BinaryTree2.h	/^	BTData data;$/;"	m	struct:_bTreeNode
+data	Data_Structure_Src/Ch08/Prob08-2/BinaryTree2.h	/^	BTData data;$/;"	m	struct:_bTreeNode
+data	Data_Structure_Src/Ch08/Prob08-2/ListBaseStack.h	/^	Data data;$/;"	m	struct:_node
+data	Data_Structure_Src/Ch09/SimpleHeap/SimpleHeap.h	/^	HData data;$/;"	m	struct:_heapElem
+data	Data_Structure_Src/Ch10/RadixSort/ListBaseQueue.h	/^	Data data;$/;"	m	struct:_node
+data	Data_Structure_Src/Ch11/BinarySearchTree/BinaryTree2.h	/^	BTData data;$/;"	m	struct:_bTreeNode
+data	Data_Structure_Src/Ch11/BinarySearchTreeDelAdded/BinaryTree3.h	/^	BTData data;$/;"	m	struct:_bTreeNode
+data	Data_Structure_Src/Ch12/AVLTree/BinaryTree3.h	/^	BTData data;$/;"	m	struct:_bTreeNode
+data	Data_Structure_Src/Ch13/ChainedHashTable/DLinkedList.h	/^	LData data;$/;"	m	struct:_node
+data	Data_Structure_Src/Ch14/ALGraph/DLinkedList.h	/^	LData data;$/;"	m	struct:_node
+data	Data_Structure_Src/Ch14/ALGraphBFS/DLinkedList.h	/^	LData data;$/;"	m	struct:_node
+data	Data_Structure_Src/Ch14/ALGraphDFS/DLinkedList.h	/^	LData data;$/;"	m	struct:_node
+data	Data_Structure_Src/Ch14/ALGraphKruskal/DLinkedList.h	/^	LData data;$/;"	m	struct:_node
+data	Data_Structure_Src/Ch14/Prob14-2/DLinkedList.h	/^	LData data;$/;"	m	struct:_node
+empNum	Data_Structure_Src/Ch05/Prob05-1/Employee.h	/^	int empNum;      \/\/ 사번$/;"	m	struct:_Employee
+empNum	Data_Structure_Src/Ch13/TableHashFunction.c	/^	int empNum;    \/\/ 직원의 고유번호$/;"	m	struct:_empInfo	file:
+empNum	Data_Structure_Src/Ch13/UnderstandTable.c	/^	int empNum;    \/\/ 직원의 고유번호$/;"	m	struct:_empInfo	file:
+front	Data_Structure_Src/Ch07/CircularQueue/CircularQueue.h	/^	int front;$/;"	m	struct:_cQueue
+front	Data_Structure_Src/Ch07/HamburgerSim/CircularQueue.h	/^	int front;$/;"	m	struct:_cQueue
+front	Data_Structure_Src/Ch07/ListBaseQueue/ListBaseQueue.h	/^	Node * front;$/;"	m	struct:_lQueue
+front	Data_Structure_Src/Ch10/RadixSort/ListBaseQueue.h	/^	Node * front;$/;"	m	struct:_lQueue
+front	Data_Structure_Src/Ch14/ALGraphBFS/CircularQueue.h	/^	int front;$/;"	m	struct:_cQueue
+head	Data_Structure_Src/Ch04/DLinkedList/DLinkedList.h	/^	Node * head;$/;"	m	struct:_linkedList
+head	Data_Structure_Src/Ch04/DLinkedListSort/DLinkedList.h	/^	Node * head;$/;"	m	struct:_linkedList
+head	Data_Structure_Src/Ch04/Prob04-3/DLinkedList.h	/^	Node * head;$/;"	m	struct:_linkedList
+head	Data_Structure_Src/Ch04/Prob04-4/DLinkedList.h	/^	Node * head;$/;"	m	struct:_linkedList
+head	Data_Structure_Src/Ch05/DublyLinkedList/DBLinkedList.h	/^	Node * head;$/;"	m	struct:_dbLinkedList
+head	Data_Structure_Src/Ch05/Prob05-2/DBDLinkedList.h	/^	Node * head;$/;"	m	struct:_dbDLinkedList
+head	Data_Structure_Src/Ch06/InfixCalculator/ListBaseStack.h	/^	Node * head;$/;"	m	struct:_listStack
+head	Data_Structure_Src/Ch06/InfixToPostfix/ListBaseStack.h	/^	Node * head;$/;"	m	struct:_listStack
+head	Data_Structure_Src/Ch06/ListBaseStack/ListBaseStack.h	/^	Node * head;$/;"	m	struct:_listStack
+head	Data_Structure_Src/Ch06/PostCalculator/ListBaseStack.h	/^	Node * head;$/;"	m	struct:_listStack
+head	Data_Structure_Src/Ch07/Deque/Deque.h	/^	Node * head;$/;"	m	struct:_dlDeque
+head	Data_Structure_Src/Ch07/Prob07-1/Deque.h	/^	Node * head;$/;"	m	struct:_dlDeque
+head	Data_Structure_Src/Ch08/ExpressionTree/ListBaseStack.h	/^	Node * head;$/;"	m	struct:_listStack
+head	Data_Structure_Src/Ch08/Prob08-2/ListBaseStack.h	/^	Node * head;$/;"	m	struct:_listStack
+head	Data_Structure_Src/Ch13/ChainedHashTable/DLinkedList.h	/^	Node * head;$/;"	m	struct:_linkedList
+head	Data_Structure_Src/Ch14/ALGraph/DLinkedList.h	/^	Node * head;$/;"	m	struct:_linkedList
+head	Data_Structure_Src/Ch14/ALGraphBFS/DLinkedList.h	/^	Node * head;$/;"	m	struct:_linkedList
+head	Data_Structure_Src/Ch14/ALGraphDFS/DLinkedList.h	/^	Node * head;$/;"	m	struct:_linkedList
+head	Data_Structure_Src/Ch14/ALGraphKruskal/DLinkedList.h	/^	Node * head;$/;"	m	struct:_linkedList
+head	Data_Structure_Src/Ch14/Prob14-2/DLinkedList.h	/^	Node * head;$/;"	m	struct:_linkedList
+heapArr	Data_Structure_Src/Ch09/PriorityQueue/UsefulHeap.h	/^	HData heapArr[HEAP_LEN];$/;"	m	struct:_heap
+heapArr	Data_Structure_Src/Ch09/Prob09-1/UsefulHeap.h	/^	HData heapArr[HEAP_LEN];$/;"	m	struct:_heap
+heapArr	Data_Structure_Src/Ch09/SimpleHeap/SimpleHeap.h	/^	HeapElem heapArr[HEAP_LEN];$/;"	m	struct:_heap
+heapArr	Data_Structure_Src/Ch09/UsefulHeap/UsefulHeap.h	/^	HData heapArr[HEAP_LEN];$/;"	m	struct:_heap
+heapArr	Data_Structure_Src/Ch10/HeapSort/UsefulHeap.h	/^	HData heapArr[HEAP_LEN];$/;"	m	struct:_heap
+heapArr	Data_Structure_Src/Ch14/ALGraphKruskal/UsefulHeap.h	/^	HData heapArr[HEAP_LEN];$/;"	m	struct:_heap
+hf	Data_Structure_Src/Ch13/ChainedHashTable/Table2.h	/^	HashFunc * hf;$/;"	m	struct:_table
+hf	Data_Structure_Src/Ch13/SimpleHashTable/Table.h	/^	HashFunc * hf;$/;"	m	struct:_table
+key	Data_Structure_Src/Ch13/ChainedHashTable/Slot2.h	/^	Key key;$/;"	m	struct:_slot
+key	Data_Structure_Src/Ch13/SimpleHashTable/Slot.h	/^	Key key;$/;"	m	struct:_slot
+left	Data_Structure_Src/Ch08/BinaryTree/BinaryTree.h	/^	struct _bTreeNode * left;$/;"	m	struct:_bTreeNode	typeref:struct:_bTreeNode::_bTreeNode
+left	Data_Structure_Src/Ch08/BinaryTreeTraversalAdded/BinaryTree2.h	/^	struct _bTreeNode * left;$/;"	m	struct:_bTreeNode	typeref:struct:_bTreeNode::_bTreeNode
+left	Data_Structure_Src/Ch08/ExpressionTree/BinaryTree2.h	/^	struct _bTreeNode * left;$/;"	m	struct:_bTreeNode	typeref:struct:_bTreeNode::_bTreeNode
+left	Data_Structure_Src/Ch08/Prob08-1/BinaryTree2.h	/^	struct _bTreeNode * left;$/;"	m	struct:_bTreeNode	typeref:struct:_bTreeNode::_bTreeNode
+left	Data_Structure_Src/Ch08/Prob08-2/BinaryTree2.h	/^	struct _bTreeNode * left;$/;"	m	struct:_bTreeNode	typeref:struct:_bTreeNode::_bTreeNode
+left	Data_Structure_Src/Ch11/BinarySearchTree/BinaryTree2.h	/^	struct _bTreeNode * left;$/;"	m	struct:_bTreeNode	typeref:struct:_bTreeNode::_bTreeNode
+left	Data_Structure_Src/Ch11/BinarySearchTreeDelAdded/BinaryTree3.h	/^	struct _bTreeNode * left;$/;"	m	struct:_bTreeNode	typeref:struct:_bTreeNode::_bTreeNode
+left	Data_Structure_Src/Ch12/AVLTree/BinaryTree3.h	/^	struct _bTreeNode * left;$/;"	m	struct:_bTreeNode	typeref:struct:_bTreeNode::_bTreeNode
+main	Data_Structure_Src/Ch01/BSWorstOpCount.c	/^int main(void)$/;"	f
+main	Data_Structure_Src/Ch01/BinarySearch.c	/^int main(void)$/;"	f
+main	Data_Structure_Src/Ch02/FiboFuncProcedure .c	/^int main(void)$/;"	f
+main	Data_Structure_Src/Ch02/FibonacciFunc.c	/^int main(void)$/;"	f
+main	Data_Structure_Src/Ch02/HanoiTowerSolu.c	/^int main(void)$/;"	f
+main	Data_Structure_Src/Ch02/RecursiveBinarySearch.c	/^int main(void)$/;"	f
+main	Data_Structure_Src/Ch02/RecursiveFactorial.c	/^int main(void)$/;"	f
+main	Data_Structure_Src/Ch02/RecursiveFunc.c	/^int main(void)$/;"	f
+main	Data_Structure_Src/Ch03/ArrayList/ListMain.c	/^int main(void)$/;"	f
+main	Data_Structure_Src/Ch03/ArrayListPointStructBase/PointListMain.c	/^int main(void)$/;"	f
+main	Data_Structure_Src/Ch03/Prob03-1/ListUseMain.c	/^int main(void)$/;"	f
+main	Data_Structure_Src/Ch03/Prob03-2/NameCardListMain.c	/^int main(void)$/;"	f
+main	Data_Structure_Src/Ch04/ArrayRead.c	/^int main(void)$/;"	f
+main	Data_Structure_Src/Ch04/DLinkedList/DLinkedListMain.c	/^int main(void)$/;"	f
+main	Data_Structure_Src/Ch04/DLinkedListSort/DLinkedListSortMain.c	/^int main(void)$/;"	f
+main	Data_Structure_Src/Ch04/LinkedRead.c	/^int main(void)$/;"	f
+main	Data_Structure_Src/Ch04/Prob04-1/HeadAddLinkedRead.c	/^int main(void)$/;"	f
+main	Data_Structure_Src/Ch04/Prob04-2/DLinkedRead.c	/^int main(void)$/;"	f
+main	Data_Structure_Src/Ch04/Prob04-3/PointListMain.c	/^int main(void)$/;"	f
+main	Data_Structure_Src/Ch04/Prob04-4/PointListSortMain.c	/^int main(void)$/;"	f
+main	Data_Structure_Src/Ch05/CircularLinkedList/CLinkedListMain.c	/^int main(void)$/;"	f
+main	Data_Structure_Src/Ch05/DublyLinkedList/DBLinkedListMain.c	/^int main(void)$/;"	f
+main	Data_Structure_Src/Ch05/Prob05-1/NightDutyMain.c	/^int main(void)$/;"	f
+main	Data_Structure_Src/Ch05/Prob05-2/DBDLinkedListMain.c	/^int main(void)$/;"	f
+main	Data_Structure_Src/Ch06/ArrayBaseStack/ArrayBaseStackMain.c	/^int main(void)$/;"	f
+main	Data_Structure_Src/Ch06/InfixCalculator/InfixCalculatorMain.c	/^int main(void)$/;"	f
+main	Data_Structure_Src/Ch06/InfixToPostfix/InfixToPostfixMain.c	/^int main(void)$/;"	f
+main	Data_Structure_Src/Ch06/ListBaseStack/ListBaseStackMain.c	/^int main(void)$/;"	f
+main	Data_Structure_Src/Ch06/PostCalculator/PostCalculatorMain.c	/^int main(void)$/;"	f
+main	Data_Structure_Src/Ch06/Prob06-1/CLLBaseStackMain.c	/^int main(void)$/;"	f
+main	Data_Structure_Src/Ch07/CircularQueue/CircularQueueMain.c	/^int main(void)$/;"	f
+main	Data_Structure_Src/Ch07/Deque/DequeMain.c	/^int main(void)$/;"	f
+main	Data_Structure_Src/Ch07/HamburgerSim/HamburgerSim.c	/^int main(void)$/;"	f
+main	Data_Structure_Src/Ch07/ListBaseQueue/ListBaseQueueMain.c	/^int main(void)$/;"	f
+main	Data_Structure_Src/Ch07/Prob07-1/DequeBaseQueueMain.c	/^int main(void)$/;"	f
+main	Data_Structure_Src/Ch08/BinaryTree/BinaryTreeMain.c	/^int main(void)$/;"	f
+main	Data_Structure_Src/Ch08/BinaryTree/BinaryTreeTraverseMain.c	/^int main(void)$/;"	f
+main	Data_Structure_Src/Ch08/BinaryTreeTraversalAdded/BinaryTreeMain2.c	/^int main(void)$/;"	f
+main	Data_Structure_Src/Ch08/ExpressionTree/ExpressionMain.c	/^int main(void) $/;"	f
+main	Data_Structure_Src/Ch08/Prob08-1/BinaryTreeDeleteMain.c	/^int main(void)$/;"	f
+main	Data_Structure_Src/Ch08/Prob08-2/ExpressionMain.c	/^int main(void) $/;"	f
+main	Data_Structure_Src/Ch09/PriorityQueue/PriorityQueueMain.c	/^int main(void)$/;"	f
+main	Data_Structure_Src/Ch09/Prob09-1/PQStringMain.c	/^int main(void)$/;"	f
+main	Data_Structure_Src/Ch09/SimpleHeap/SimpleHeapMain.c	/^int main(void)$/;"	f
+main	Data_Structure_Src/Ch09/UsefulHeap/UsefulHeapMain.c	/^int main(void)$/;"	f
+main	Data_Structure_Src/Ch10/BubbleSort.c	/^int main(void)$/;"	f
+main	Data_Structure_Src/Ch10/HeapSort/HeapSort.c	/^int main(void)$/;"	f
+main	Data_Structure_Src/Ch10/InsertionSort.c	/^int main(void)$/;"	f
+main	Data_Structure_Src/Ch10/MergeSort.c	/^int main(void)$/;"	f
+main	Data_Structure_Src/Ch10/Prob10-1/MOTQuickSort.c	/^int main(void)$/;"	f
+main	Data_Structure_Src/Ch10/Prob10-1/QuickSort.c	/^int main(void)$/;"	f
+main	Data_Structure_Src/Ch10/QuickSort.c	/^int main(void)$/;"	f
+main	Data_Structure_Src/Ch10/RadixSort/RadixSort.c	/^int main(void)$/;"	f
+main	Data_Structure_Src/Ch10/SelectionSort.c	/^int main(void)$/;"	f
+main	Data_Structure_Src/Ch11/BinarySearchTree/BinarySearchTreeMain.c	/^int main(void)$/;"	f
+main	Data_Structure_Src/Ch11/BinarySearchTreeDelAdded/BinarySearchTreeDelMain.c	/^int main(void)$/;"	f
+main	Data_Structure_Src/Ch11/InterpolSearch.c	/^int main(void)$/;"	f
+main	Data_Structure_Src/Ch12/AVLTree/AVLTreeMain.c	/^int main(void)$/;"	f
+main	Data_Structure_Src/Ch13/ChainedHashTable/ChainedTableMain.c	/^int main(void)$/;"	f
+main	Data_Structure_Src/Ch13/SimpleHashTable/SimpleHashMain.c	/^int main(void)$/;"	f
+main	Data_Structure_Src/Ch13/TableHashFunction.c	/^int main(void)$/;"	f
+main	Data_Structure_Src/Ch13/UnderstandTable.c	/^int main(void)$/;"	f
+main	Data_Structure_Src/Ch14/ALGraph/ALGraphMain.c	/^int main(void)$/;"	f
+main	Data_Structure_Src/Ch14/ALGraphBFS/BFSMain.c	/^int main(void)$/;"	f
+main	Data_Structure_Src/Ch14/ALGraphDFS/DFSMain.c	/^int main(void)$/;"	f
+main	Data_Structure_Src/Ch14/ALGraphKruskal/KruskalMain.c	/^int main(void)$/;"	f
+main	Data_Structure_Src/Ch14/Prob14-2/DFSMain.c	/^int main(void)$/;"	f
+name	Data_Structure_Src/Ch03/Prob03-2/NameCard.h	/^	char name[NAME_LEN];$/;"	m	struct:__namecard
+name	Data_Structure_Src/Ch05/Prob05-1/Employee.h	/^	char name[30];    \/\/ 이름$/;"	m	struct:_Employee
+name	Data_Structure_Src/Ch13/ChainedHashTable/Person.h	/^	char name[STR_LEN];		\/\/ 이름$/;"	m	struct:_person
+name	Data_Structure_Src/Ch13/SimpleHashTable/Person.h	/^	char name[STR_LEN];    \/\/ 이름$/;"	m	struct:_person
+next	Data_Structure_Src/Ch04/DLinkedList/DLinkedList.h	/^	struct _node * next;$/;"	m	struct:_node	typeref:struct:_node::_node
+next	Data_Structure_Src/Ch04/DLinkedListSort/DLinkedList.h	/^	struct _node * next;$/;"	m	struct:_node	typeref:struct:_node::_node
+next	Data_Structure_Src/Ch04/LinkedRead.c	/^	struct _node * next;$/;"	m	struct:_node	typeref:struct:_node::_node	file:
+next	Data_Structure_Src/Ch04/Prob04-1/HeadAddLinkedRead.c	/^	struct _node * next;$/;"	m	struct:_node	typeref:struct:_node::_node	file:
+next	Data_Structure_Src/Ch04/Prob04-2/DLinkedRead.c	/^	struct _node * next;$/;"	m	struct:_node	typeref:struct:_node::_node	file:
+next	Data_Structure_Src/Ch04/Prob04-3/DLinkedList.h	/^	struct _node * next;$/;"	m	struct:_node	typeref:struct:_node::_node
+next	Data_Structure_Src/Ch04/Prob04-4/DLinkedList.h	/^	struct _node * next;$/;"	m	struct:_node	typeref:struct:_node::_node
+next	Data_Structure_Src/Ch05/CircularLinkedList/CLinkedList.h	/^	struct _node * next;$/;"	m	struct:_node	typeref:struct:_node::_node
+next	Data_Structure_Src/Ch05/DublyLinkedList/DBLinkedList.h	/^	struct _node * next;$/;"	m	struct:_node	typeref:struct:_node::_node
+next	Data_Structure_Src/Ch05/Prob05-1/CLinkedList.h	/^	struct _node * next;$/;"	m	struct:_node	typeref:struct:_node::_node
+next	Data_Structure_Src/Ch05/Prob05-2/DBDLinkedList.h	/^	struct _node * next;$/;"	m	struct:_node	typeref:struct:_node::_node
+next	Data_Structure_Src/Ch06/InfixCalculator/ListBaseStack.h	/^	struct _node * next;$/;"	m	struct:_node	typeref:struct:_node::_node
+next	Data_Structure_Src/Ch06/InfixToPostfix/ListBaseStack.h	/^	struct _node * next;$/;"	m	struct:_node	typeref:struct:_node::_node
+next	Data_Structure_Src/Ch06/ListBaseStack/ListBaseStack.h	/^	struct _node * next;$/;"	m	struct:_node	typeref:struct:_node::_node
+next	Data_Structure_Src/Ch06/PostCalculator/ListBaseStack.h	/^	struct _node * next;$/;"	m	struct:_node	typeref:struct:_node::_node
+next	Data_Structure_Src/Ch06/Prob06-1/CLinkedList.h	/^	struct _node * next;$/;"	m	struct:_node	typeref:struct:_node::_node
+next	Data_Structure_Src/Ch07/Deque/Deque.h	/^	struct _node * next;$/;"	m	struct:_node	typeref:struct:_node::_node
+next	Data_Structure_Src/Ch07/ListBaseQueue/ListBaseQueue.h	/^	struct _node * next;$/;"	m	struct:_node	typeref:struct:_node::_node
+next	Data_Structure_Src/Ch07/Prob07-1/Deque.h	/^	struct _node * next;$/;"	m	struct:_node	typeref:struct:_node::_node
+next	Data_Structure_Src/Ch08/ExpressionTree/ListBaseStack.h	/^	struct _node * next;$/;"	m	struct:_node	typeref:struct:_node::_node
+next	Data_Structure_Src/Ch08/Prob08-2/ListBaseStack.h	/^	struct _node * next;$/;"	m	struct:_node	typeref:struct:_node::_node
+next	Data_Structure_Src/Ch10/RadixSort/ListBaseQueue.h	/^	struct _node * next;$/;"	m	struct:_node	typeref:struct:_node::_node
+next	Data_Structure_Src/Ch13/ChainedHashTable/DLinkedList.h	/^	struct _node * next;$/;"	m	struct:_node	typeref:struct:_node::_node
+next	Data_Structure_Src/Ch14/ALGraph/DLinkedList.h	/^	struct _node * next;$/;"	m	struct:_node	typeref:struct:_node::_node
+next	Data_Structure_Src/Ch14/ALGraphBFS/DLinkedList.h	/^	struct _node * next;$/;"	m	struct:_node	typeref:struct:_node::_node
+next	Data_Structure_Src/Ch14/ALGraphDFS/DLinkedList.h	/^	struct _node * next;$/;"	m	struct:_node	typeref:struct:_node::_node
+next	Data_Structure_Src/Ch14/ALGraphKruskal/DLinkedList.h	/^	struct _node * next;$/;"	m	struct:_node	typeref:struct:_node::_node
+next	Data_Structure_Src/Ch14/Prob14-2/DLinkedList.h	/^	struct _node * next;$/;"	m	struct:_node	typeref:struct:_node::_node
+numE	Data_Structure_Src/Ch14/ALGraph/ALGraph.h	/^	int numE;   \/\/ 간선의 수$/;"	m	struct:_ual
+numE	Data_Structure_Src/Ch14/ALGraphBFS/ALGraphBFS.h	/^	int numE;   \/\/ 간선의 수$/;"	m	struct:_ual
+numE	Data_Structure_Src/Ch14/ALGraphDFS/ALGraphDFS.h	/^	int numE;   \/\/ 간선의 수$/;"	m	struct:_ual
+numE	Data_Structure_Src/Ch14/ALGraphKruskal/ALGraphKruskal.h	/^	int numE;$/;"	m	struct:_ual
+numE	Data_Structure_Src/Ch14/Prob14-2/ALGraphDFS.h	/^	int numE;   \/\/ 간선의 수$/;"	m	struct:_ual
+numOfData	Data_Structure_Src/Ch03/ArrayList/ArrayList.h	/^	int numOfData;$/;"	m	struct:__ArrayList
+numOfData	Data_Structure_Src/Ch03/ArrayListPointStructBase/ArrayList.h	/^	int numOfData;$/;"	m	struct:__ArrayList
+numOfData	Data_Structure_Src/Ch03/Prob03-1/ArrayList.h	/^	int numOfData;$/;"	m	struct:__ArrayList
+numOfData	Data_Structure_Src/Ch03/Prob03-2/ArrayList.h	/^	int numOfData;$/;"	m	struct:__ArrayList
+numOfData	Data_Structure_Src/Ch04/DLinkedList/DLinkedList.h	/^	int numOfData;$/;"	m	struct:_linkedList
+numOfData	Data_Structure_Src/Ch04/DLinkedListSort/DLinkedList.h	/^	int numOfData;$/;"	m	struct:_linkedList
+numOfData	Data_Structure_Src/Ch04/Prob04-3/DLinkedList.h	/^	int numOfData;$/;"	m	struct:_linkedList
+numOfData	Data_Structure_Src/Ch04/Prob04-4/DLinkedList.h	/^	int numOfData;$/;"	m	struct:_linkedList
+numOfData	Data_Structure_Src/Ch05/CircularLinkedList/CLinkedList.h	/^	int numOfData;$/;"	m	struct:_CLL
+numOfData	Data_Structure_Src/Ch05/DublyLinkedList/DBLinkedList.h	/^	int numOfData;$/;"	m	struct:_dbLinkedList
+numOfData	Data_Structure_Src/Ch05/Prob05-1/CLinkedList.h	/^	int numOfData;$/;"	m	struct:_CLL
+numOfData	Data_Structure_Src/Ch05/Prob05-2/DBDLinkedList.h	/^	int numOfData;$/;"	m	struct:_dbDLinkedList
+numOfData	Data_Structure_Src/Ch06/Prob06-1/CLinkedList.h	/^	int numOfData;$/;"	m	struct:_CLL
+numOfData	Data_Structure_Src/Ch09/PriorityQueue/UsefulHeap.h	/^	int numOfData;$/;"	m	struct:_heap
+numOfData	Data_Structure_Src/Ch09/Prob09-1/UsefulHeap.h	/^	int numOfData;$/;"	m	struct:_heap
+numOfData	Data_Structure_Src/Ch09/SimpleHeap/SimpleHeap.h	/^	int numOfData;$/;"	m	struct:_heap
+numOfData	Data_Structure_Src/Ch09/UsefulHeap/UsefulHeap.h	/^	int numOfData;$/;"	m	struct:_heap
+numOfData	Data_Structure_Src/Ch10/HeapSort/UsefulHeap.h	/^	int numOfData;$/;"	m	struct:_heap
+numOfData	Data_Structure_Src/Ch13/ChainedHashTable/DLinkedList.h	/^	int numOfData;$/;"	m	struct:_linkedList
+numOfData	Data_Structure_Src/Ch14/ALGraph/DLinkedList.h	/^	int numOfData;$/;"	m	struct:_linkedList
+numOfData	Data_Structure_Src/Ch14/ALGraphBFS/DLinkedList.h	/^	int numOfData;$/;"	m	struct:_linkedList
+numOfData	Data_Structure_Src/Ch14/ALGraphDFS/DLinkedList.h	/^	int numOfData;$/;"	m	struct:_linkedList
+numOfData	Data_Structure_Src/Ch14/ALGraphKruskal/DLinkedList.h	/^	int numOfData;$/;"	m	struct:_linkedList
+numOfData	Data_Structure_Src/Ch14/ALGraphKruskal/UsefulHeap.h	/^	int numOfData;$/;"	m	struct:_heap
+numOfData	Data_Structure_Src/Ch14/Prob14-2/DLinkedList.h	/^	int numOfData;$/;"	m	struct:_linkedList
+numV	Data_Structure_Src/Ch14/ALGraph/ALGraph.h	/^	int numV;   \/\/ 정점의 수$/;"	m	struct:_ual
+numV	Data_Structure_Src/Ch14/ALGraphBFS/ALGraphBFS.h	/^	int numV;   \/\/ 정점의 수$/;"	m	struct:_ual
+numV	Data_Structure_Src/Ch14/ALGraphDFS/ALGraphDFS.h	/^	int numV;   \/\/ 정점의 수$/;"	m	struct:_ual
+numV	Data_Structure_Src/Ch14/ALGraphKruskal/ALGraphKruskal.h	/^	int numV;$/;"	m	struct:_ual
+numV	Data_Structure_Src/Ch14/Prob14-2/ALGraphDFS.h	/^	int numV;   \/\/ 정점의 수$/;"	m	struct:_ual
+phone	Data_Structure_Src/Ch03/Prob03-2/NameCard.h	/^	char phone[PHONE_LEN];$/;"	m	struct:__namecard
+plist	Data_Structure_Src/Ch06/Prob06-1/CLLBaseStack.h	/^	List * plist;$/;"	m	struct:_listStack
+pqueue	Data_Structure_Src/Ch14/ALGraphKruskal/ALGraphKruskal.h	/^	PQueue pqueue;    \/\/ 간선의 가중치 정보 저장$/;"	m	struct:_ual
+pr	Data_Structure_Src/Ch09/SimpleHeap/SimpleHeap.h	/^	Priority pr;	\/\/ 값이 작을수록 높은 우선순위$/;"	m	struct:_heapElem
+prev	Data_Structure_Src/Ch05/DublyLinkedList/DBLinkedList.h	/^	struct _node * prev;$/;"	m	struct:_node	typeref:struct:_node::_node
+prev	Data_Structure_Src/Ch05/Prob05-2/DBDLinkedList.h	/^	struct _node * prev;$/;"	m	struct:_node	typeref:struct:_node::_node
+prev	Data_Structure_Src/Ch07/Deque/Deque.h	/^	struct _node * prev;$/;"	m	struct:_node	typeref:struct:_node::_node
+prev	Data_Structure_Src/Ch07/Prob07-1/Deque.h	/^	struct _node * prev;$/;"	m	struct:_node	typeref:struct:_node::_node
+queArr	Data_Structure_Src/Ch07/CircularQueue/CircularQueue.h	/^	Data queArr[QUE_LEN];$/;"	m	struct:_cQueue
+queArr	Data_Structure_Src/Ch07/HamburgerSim/CircularQueue.h	/^	Data queArr[QUE_LEN];$/;"	m	struct:_cQueue
+queArr	Data_Structure_Src/Ch14/ALGraphBFS/CircularQueue.h	/^	Data queArr[QUE_LEN];$/;"	m	struct:_cQueue
+rear	Data_Structure_Src/Ch07/CircularQueue/CircularQueue.h	/^	int rear;$/;"	m	struct:_cQueue
+rear	Data_Structure_Src/Ch07/HamburgerSim/CircularQueue.h	/^	int rear;$/;"	m	struct:_cQueue
+rear	Data_Structure_Src/Ch07/ListBaseQueue/ListBaseQueue.h	/^	Node * rear;$/;"	m	struct:_lQueue
+rear	Data_Structure_Src/Ch10/RadixSort/ListBaseQueue.h	/^	Node * rear;$/;"	m	struct:_lQueue
+rear	Data_Structure_Src/Ch14/ALGraphBFS/CircularQueue.h	/^	int rear;$/;"	m	struct:_cQueue
+right	Data_Structure_Src/Ch08/BinaryTree/BinaryTree.h	/^	struct _bTreeNode * right;$/;"	m	struct:_bTreeNode	typeref:struct:_bTreeNode::_bTreeNode
+right	Data_Structure_Src/Ch08/BinaryTreeTraversalAdded/BinaryTree2.h	/^	struct _bTreeNode * right;$/;"	m	struct:_bTreeNode	typeref:struct:_bTreeNode::_bTreeNode
+right	Data_Structure_Src/Ch08/ExpressionTree/BinaryTree2.h	/^	struct _bTreeNode * right;$/;"	m	struct:_bTreeNode	typeref:struct:_bTreeNode::_bTreeNode
+right	Data_Structure_Src/Ch08/Prob08-1/BinaryTree2.h	/^	struct _bTreeNode * right;$/;"	m	struct:_bTreeNode	typeref:struct:_bTreeNode::_bTreeNode
+right	Data_Structure_Src/Ch08/Prob08-2/BinaryTree2.h	/^	struct _bTreeNode * right;$/;"	m	struct:_bTreeNode	typeref:struct:_bTreeNode::_bTreeNode
+right	Data_Structure_Src/Ch11/BinarySearchTree/BinaryTree2.h	/^	struct _bTreeNode * right;$/;"	m	struct:_bTreeNode	typeref:struct:_bTreeNode::_bTreeNode
+right	Data_Structure_Src/Ch11/BinarySearchTreeDelAdded/BinaryTree3.h	/^	struct _bTreeNode * right;$/;"	m	struct:_bTreeNode	typeref:struct:_bTreeNode::_bTreeNode
+right	Data_Structure_Src/Ch12/AVLTree/BinaryTree3.h	/^	struct _bTreeNode * right;$/;"	m	struct:_bTreeNode	typeref:struct:_bTreeNode::_bTreeNode
+ssn	Data_Structure_Src/Ch13/ChainedHashTable/Person.h	/^	int ssn;				\/\/ 주민등록번호 $/;"	m	struct:_person
+ssn	Data_Structure_Src/Ch13/SimpleHashTable/Person.h	/^	int ssn;    \/\/ 주민등록번호 $/;"	m	struct:_person
+stackArr	Data_Structure_Src/Ch06/ArrayBaseStack/ArrayBaseStack.h	/^	Data stackArr[STACK_LEN];$/;"	m	struct:_arrayStack
+stackArr	Data_Structure_Src/Ch14/ALGraphDFS/ArrayBaseStack.h	/^	Data stackArr[STACK_LEN];$/;"	m	struct:_arrayStack
+stackArr	Data_Structure_Src/Ch14/ALGraphKruskal/ArrayBaseStack.h	/^	Data stackArr[STACK_LEN];$/;"	m	struct:_arrayStack
+stackArr	Data_Structure_Src/Ch14/Prob14-2/ArrayBaseStack.h	/^	Data stackArr[STACK_LEN];$/;"	m	struct:_arrayStack
+status	Data_Structure_Src/Ch13/SimpleHashTable/Slot.h	/^	enum SlotStatus status;$/;"	m	struct:_slot	typeref:enum:_slot::SlotStatus
+tail	Data_Structure_Src/Ch05/CircularLinkedList/CLinkedList.h	/^	Node * tail;$/;"	m	struct:_CLL
+tail	Data_Structure_Src/Ch05/Prob05-1/CLinkedList.h	/^	Node * tail;$/;"	m	struct:_CLL
+tail	Data_Structure_Src/Ch05/Prob05-2/DBDLinkedList.h	/^	Node * tail;$/;"	m	struct:_dbDLinkedList
+tail	Data_Structure_Src/Ch06/Prob06-1/CLinkedList.h	/^	Node * tail;$/;"	m	struct:_CLL
+tail	Data_Structure_Src/Ch07/Deque/Deque.h	/^	Node * tail;$/;"	m	struct:_dlDeque
+tail	Data_Structure_Src/Ch07/Prob07-1/Deque.h	/^	Node * tail;$/;"	m	struct:_dlDeque
+tbl	Data_Structure_Src/Ch13/ChainedHashTable/Table2.h	/^	List tbl[MAX_TBL];$/;"	m	struct:_table
+tbl	Data_Structure_Src/Ch13/SimpleHashTable/Table.h	/^	Slot tbl[MAX_TBL];$/;"	m	struct:_table
+topIndex	Data_Structure_Src/Ch06/ArrayBaseStack/ArrayBaseStack.h	/^	int topIndex;$/;"	m	struct:_arrayStack
+topIndex	Data_Structure_Src/Ch14/ALGraphDFS/ArrayBaseStack.h	/^	int topIndex;$/;"	m	struct:_arrayStack
+topIndex	Data_Structure_Src/Ch14/ALGraphKruskal/ArrayBaseStack.h	/^	int topIndex;$/;"	m	struct:_arrayStack
+topIndex	Data_Structure_Src/Ch14/Prob14-2/ArrayBaseStack.h	/^	int topIndex;$/;"	m	struct:_arrayStack
+v1	Data_Structure_Src/Ch14/ALGraphKruskal/ALEdge.h	/^	int v1;$/;"	m	struct:_edge
+v2	Data_Structure_Src/Ch14/ALGraphKruskal/ALEdge.h	/^	int v2;$/;"	m	struct:_edge
+val	Data_Structure_Src/Ch13/ChainedHashTable/Slot2.h	/^	Value val;$/;"	m	struct:_slot
+val	Data_Structure_Src/Ch13/SimpleHashTable/Slot.h	/^	Value val;$/;"	m	struct:_slot
+visitInfo	Data_Structure_Src/Ch14/ALGraphBFS/ALGraphBFS.h	/^	int * visitInfo;$/;"	m	struct:_ual
+visitInfo	Data_Structure_Src/Ch14/ALGraphDFS/ALGraphDFS.h	/^	int * visitInfo;$/;"	m	struct:_ual
+visitInfo	Data_Structure_Src/Ch14/ALGraphKruskal/ALGraphKruskal.h	/^	int * visitInfo;$/;"	m	struct:_ual
+visitInfo	Data_Structure_Src/Ch14/Prob14-2/ALGraphDFS.h	/^	int * visitInfo;$/;"	m	struct:_ual
+weight	Data_Structure_Src/Ch14/ALGraphKruskal/ALEdge.h	/^	int weight;   \/\/ 가중치$/;"	m	struct:_edge
+xpos	Data_Structure_Src/Ch03/ArrayListPointStructBase/Point.h	/^	int xpos;$/;"	m	struct:_point
+xpos	Data_Structure_Src/Ch04/Prob04-3/Point.h	/^	int xpos;$/;"	m	struct:_point
+xpos	Data_Structure_Src/Ch04/Prob04-4/Point.h	/^	int xpos;$/;"	m	struct:_point
+ypos	Data_Structure_Src/Ch03/ArrayListPointStructBase/Point.h	/^	int ypos;$/;"	m	struct:_point
+ypos	Data_Structure_Src/Ch04/Prob04-3/Point.h	/^	int ypos;$/;"	m	struct:_point
+ypos	Data_Structure_Src/Ch04/Prob04-4/Point.h	/^	int ypos;$/;"	m	struct:_point

@@ -1,0 +1,34 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+DataPriorityComp	PriorityQueueMain.c	/^int DataPriorityComp(char ch1, char ch2)$/;"	f
+FALSE	UsefulHeap.h	/^#define FALSE	/;"	d
+GetHiPriChildIDX	UsefulHeap.c	/^int GetHiPriChildIDX(Heap * ph, int idx)$/;"	f
+GetLChildIDX	UsefulHeap.c	/^int GetLChildIDX(int idx) $/;"	f
+GetParentIDX	UsefulHeap.c	/^int GetParentIDX(int idx) $/;"	f
+GetRChildIDX	UsefulHeap.c	/^int GetRChildIDX(int idx) $/;"	f
+HData	UsefulHeap.h	/^typedef char HData;$/;"	t
+HDelete	UsefulHeap.c	/^HData HDelete(Heap * ph)$/;"	f
+HEAP_LEN	UsefulHeap.h	/^#define HEAP_LEN	/;"	d
+HInsert	UsefulHeap.c	/^void HInsert(Heap * ph, HData data)$/;"	f
+HIsEmpty	UsefulHeap.c	/^int HIsEmpty(Heap * ph)$/;"	f
+Heap	UsefulHeap.h	/^} Heap;$/;"	t	typeref:struct:_heap
+HeapInit	UsefulHeap.c	/^void HeapInit(Heap * ph, PriorityComp pc)$/;"	f
+PDequeue	PriorityQueue.c	/^PQData PDequeue(PQueue * ppq)$/;"	f
+PEnqueue	PriorityQueue.c	/^void PEnqueue(PQueue * ppq, PQData data)$/;"	f
+PQData	PriorityQueue.h	/^typedef HData PQData;$/;"	t
+PQIsEmpty	PriorityQueue.c	/^int PQIsEmpty(PQueue * ppq)$/;"	f
+PQueue	PriorityQueue.h	/^typedef Heap PQueue;$/;"	t
+PQueueInit	PriorityQueue.c	/^void PQueueInit(PQueue * ppq, PriorityComp pc)$/;"	f
+PriorityComp	UsefulHeap.h	/^typedef int PriorityComp(HData d1, HData d2);$/;"	t
+TRUE	UsefulHeap.h	/^#define TRUE	/;"	d
+__PRIORITY_QUEUE_H__	PriorityQueue.h	/^#define __PRIORITY_QUEUE_H__$/;"	d
+__USEFUL_HEAP_H__	UsefulHeap.h	/^#define __USEFUL_HEAP_H__$/;"	d
+_heap	UsefulHeap.h	/^typedef struct _heap$/;"	s
+comp	UsefulHeap.h	/^	PriorityComp * comp;$/;"	m	struct:_heap
+heapArr	UsefulHeap.h	/^	HData heapArr[HEAP_LEN];$/;"	m	struct:_heap
+main	PriorityQueueMain.c	/^int main(void)$/;"	f
+numOfData	UsefulHeap.h	/^	int numOfData;$/;"	m	struct:_heap
